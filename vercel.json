@@ -1,0 +1,69 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build:jom-settle",
+  "outputDirectory": "dist",
+  "headers": [
+    {
+      "source": "/apple-app-site-association",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/apple-app-site-association",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/assetlinks.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "src": "/apple-app-site-association$",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "continue": true
+    },
+    {
+      "src": "/\\.well-known/apple-app-site-association$",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "continue": true
+    },
+    {
+      "src": "/\\.well-known/assetlinks\\.json$",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "continue": true
+    },
+    {
+      "src": "/$",
+      "dest": "/index.html"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tas-state-tasmania",
+  "state": "TAS",
+  "geo_type": "state",
+  "state_name": "Tasmania",
+  "source": "Tasmania DPFEM Crime Statistics Supplement 2024-25 PDF",
+  "period": "2024-07 to 2025-06",
+  "dataset_version": "2024_25_tas_state_crime_supplement",
+  "generated_at": "2026-03-22",
+  "data_granularity": "state",
+  "suburb_level": false,
+  "score_basis": "statewide_offence_counts",
+  "crime_metrics_count_12m": {
+    "total_offences": 34609,
+    "offences_against_person": 6563,
+    "offences_against_property": 26617,
+    "fraud_and_similar_offences": 764,
+    "other_misc_offences": 665,
+    "assault_excl_police": 4097,
+    "sexual_assault": 641,
+    "robbery": 252,
+    "burglary_buildings": 2938,
+    "burglary_motor_vehicles_other_conveyances": 1460,
+    "stealing_general": 3077,
+    "stolen_motor_vehicles": 1392,
+    "arson_and_related_offences": 579,
+    "injure_destroy_property": 4513
+  },
+  "clearance": {
+    "total_offences": {
+      "recorded": 34609,
+      "cleared": 18362,
+      "percent_cleared": 53
+    },
+    "offences_against_person": {
+      "recorded": 6563,
+      "cleared": 5567,
+      "percent_cleared": 84
+    },
+    "offences_against_property": {
+      "recorded": 26617,
+      "cleared": 11852,
+      "percent_cleared": 44
+    },
+    "fraud_and_similar_offences": {
+      "recorded": 764,
+      "cleared": 397,
+      "percent_cleared": 51
+    },
+    "other_misc_offences": {
+      "recorded": 665,
+      "cleared": 546,
+      "percent_cleared": 82
+    }
+  },
+  "display": {
+    "headline": "Tasmania statewide crime context",
+    "summary": "This file provides Tasmania-wide offence counts and clearance rates for the 2024-25 financial year. It is useful as a state-level context layer, not as suburb, SA2, or LGA crime data."
+  },
+  "notes": {
+    "method": "Values transcribed from the Tasmania DPFEM Crime Statistics Supplement 2024-25.",
+    "warning": "This source is statewide only. It does not provide suburb, SA2, LGA, or police-district level breakdowns in the uploaded PDF.",
+    "reference_period_note": "Statistics are compiled according to the date an offence becomes known to police."
+  }
+}

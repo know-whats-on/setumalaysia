@@ -1,0 +1,662 @@
+[
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Hidden Bars in Armidale",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Elegant_Interior_Of_The_Cocktailbar_(220991479).jpeg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg/1280px-Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Azka Restaurant Wine & Tapas Bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Elegant_Interior_Of_The_Cocktailbar_(220991479).jpeg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg/1280px-Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-01-azka-restaurant-wine-and-tapas-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Whitebull Hotel bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Azul_Rooftop_Bar.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Azul_Rooftop_Bar.jpg/1280px-Azul_Rooftop_Bar.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-02-whitebull-hotel-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Wicklow Hotel",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop_Bar,_Metropolitan_Museum_Of_Art_(5894065780).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg/1280px-Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-03-wicklow-hotel.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Tattersalls Hotel bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop_bar_(16994259497).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rooftop_bar_%2816994259497%29.jpg/1280px-Rooftop_bar_%2816994259497%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-04-tattersalls-hotel-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "The Welder's Dog brewery bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Elegant_Interior_Of_The_Cocktailbar_(220991479).jpeg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg/1280px-Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-05-the-welder-s-dog-brewery-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "The New England Hotel bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Azul_Rooftop_Bar.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Azul_Rooftop_Bar.jpg/1280px-Azul_Rooftop_Bar.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-06-the-new-england-hotel-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Imperial Hotel bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop_Bar,_Metropolitan_Museum_Of_Art_(5894065780).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg/1280px-Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-07-imperial-hotel-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Clubhouse Hotel bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop_bar_(16994259497).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rooftop_bar_%2816994259497%29.jpg/1280px-Rooftop_bar_%2816994259497%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-08-clubhouse-hotel-bar.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Powerhouse Hotel evening bar spaces",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Elegant_Interior_Of_The_Cocktailbar_(220991479).jpeg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg/1280px-Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-09-powerhouse-hotel-evening-bar-spaces.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-armidale",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Beardy Street small-bar circuit",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Azul_Rooftop_Bar.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Azul_Rooftop_Bar.jpg/1280px-Azul_Rooftop_Bar.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-armidale/place-10-beardy-street-small-bar-circuit.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Cafes to Work From in Armidale",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_with_Coffee.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cafe_Interior_with_Coffee.jpg/1280px-Cafe_Interior_with_Coffee.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/cover.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "The Goldfish Bowl",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_with_Coffee.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cafe_Interior_with_Coffee.jpg/1280px-Cafe_Interior_with_Coffee.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-01-the-goldfish-bowl.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "The Welder's Dog",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/1280px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-02-the-welder-s-dog.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Fresh at 110",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Interior_of_cafe_(15592975272).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Interior_of_cafe_%2815592975272%29.jpg/1280px-Interior_of_cafe_%2815592975272%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-03-fresh-at-110.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Cafe Patisserie",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_at_Evening_(47415766251).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cafe_Interior_at_Evening_%2847415766251%29.jpg/1280px-Cafe_Interior_at_Evening_%2847415766251%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-04-cafe-patisserie.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Era Espresso",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_with_Coffee.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cafe_Interior_with_Coffee.jpg/1280px-Cafe_Interior_with_Coffee.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-05-era-espresso.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Deano's Caf\u00e9",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/1280px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-06-deano-s-caf.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Mun Hing Restaurant & Cafe daytime space",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Interior_of_cafe_(15592975272).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Interior_of_cafe_%2815592975272%29.jpg/1280px-Interior_of_cafe_%2815592975272%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-07-mun-hing-restaurant-and-cafe-daytime-space.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Azka Restaurant, Wine & Tapas Bar breakfast service",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_at_Evening_(47415766251).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cafe_Interior_at_Evening_%2847415766251%29.jpg/1280px-Cafe_Interior_at_Evening_%2847415766251%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-08-azka-restaurant-wine-and-tapas-bar-breakfast-service.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Whitebull daytime dining area",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_with_Coffee.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cafe_Interior_with_Coffee.jpg/1280px-Cafe_Interior_with_Coffee.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-09-whitebull-daytime-dining-area.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-armidale",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Market caf\u00e9 circuit around Beardy Street",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/1280px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-armidale/place-10-market-caf-circuit-around-beardy-street.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Historical Places in Armidale",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Saumarez_Homestead.png",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Saumarez_Homestead.png",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/cover.png",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Saumarez Homestead",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-01-saumarez-homestead.png",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-01-saumarez-homestead.png",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-01-saumarez-homestead.png",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Sts Mary and Joseph Catholic Cathedral",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cathedral_Armidale_b.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cathedral_Armidale_b.jpg/1200px-Cathedral_Armidale_b.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-02-sts-mary-and-joseph-catholic-cathedral.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Armidale Courthouse",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale_palais_de_justice.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Armidale_palais_de_justice.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-03-armidale-courthouse.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Armidale Railway Station",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-04-armidale-railway-station.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-04-armidale-railway-station.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-04-armidale-railway-station.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "New England Regional Art Museum",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-05-new-england-regional-art-museum.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-05-new-england-regional-art-museum.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-05-new-england-regional-art-museum.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Armidale Post Office",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-06-armidale-post-office.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-06-armidale-post-office.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-06-armidale-post-office.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Former Teachers College precinct",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale,_New_South_Wales.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Armidale%2C_New_South_Wales.jpg/1200px-Armidale%2C_New_South_Wales.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-07-former-teachers-college-precinct.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "School of Arts building",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale_City_Centre.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Armidale_City_Centre.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-08-school-of-arts-building.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Tattersalls Hotel",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Tattersalls_Hotel.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tattersalls_Hotel.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-09-tattersalls-hotel.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-armidale",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Aboriginal Cultural Centre and Keeping Place",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale,_New_South_Wales.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Armidale%2C_New_South_Wales.jpg/1200px-Armidale%2C_New_South_Wales.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-armidale/place-10-aboriginal-cultural-centre-and-keeping-place.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Weekend Getaways from Armidale",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:A371,_Oxley_Wild_Rivers_National_Park,_Australia,_Wollomombi_Falls,_2007.JPG",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/A371%2C_Oxley_Wild_Rivers_National_Park%2C_Australia%2C_Wollomombi_Falls%2C_2007.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Wollomombi Falls",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-01-wollomombi-falls.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-01-wollomombi-falls.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-01-wollomombi-falls.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Cathedral Rock National Park",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-02-cathedral-rock-national-park.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-02-cathedral-rock-national-park.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-02-cathedral-rock-national-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Dangars Falls",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-03-dangars-falls.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-03-dangars-falls.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-03-dangars-falls.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Apsley Falls",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Apsley_Falls_7_banner.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Apsley_Falls_7_banner.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-04-apsley-falls.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Guyra",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-05-guyra.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-05-guyra.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-05-guyra.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Uralla",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-06-uralla.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-06-uralla.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-06-uralla.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Tamworth",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-07-tamworth.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-07-tamworth.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-07-tamworth.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "New England National Park",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-08-new-england-national-park.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-08-new-england-national-park.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-08-new-england-national-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Waterfall Way road trip",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:A371,_Oxley_Wild_Rivers_National_Park,_Australia,_Wollomombi_Falls,_2007.JPG",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A371%2C_Oxley_Wild_Rivers_National_Park%2C_Australia%2C_Wollomombi_Falls%2C_2007.JPG/1200px-A371%2C_Oxley_Wild_Rivers_National_Park%2C_Australia%2C_Wollomombi_Falls%2C_2007.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-09-waterfall-way-road-trip.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-armidale",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Glen Innes",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-10-glen-innes.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-10-glen-innes.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-armidale/place-10-glen-innes.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunset Spots in Armidale",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Au_mt_duval_dec05.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Au_mt_duval_dec05.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Mount Duval Lookout",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-01-mount-duval-lookout.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-01-mount-duval-lookout.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-01-mount-duval-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Dangars Falls lookout",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-02-dangars-falls-lookout.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-02-dangars-falls-lookout.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-02-dangars-falls-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Blue Hole, Gara River",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-03-blue-hole-gara-river.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-03-blue-hole-gara-river.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-03-blue-hole-gara-river.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Saumarez Homestead grounds",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-04-saumarez-homestead-grounds.png",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-04-saumarez-homestead-grounds.png",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-04-saumarez-homestead-grounds.png",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Central Park Armidale",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-05-central-park-armidale.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-05-central-park-armidale.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-05-central-park-armidale.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Beardy Street Mall",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale_City_Centre.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Armidale_City_Centre.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-06-beardy-street-mall.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Cathedral Rock area",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-07-cathedral-rock-area.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-07-cathedral-rock-area.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-07-cathedral-rock-area.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Wollomombi Falls lookout",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-08-wollomombi-falls-lookout.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-08-wollomombi-falls-lookout.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-08-wollomombi-falls-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "University of New England lawns",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Flower_in_University_of_New_England,_Armidale,_NSW.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Flower_in_University_of_New_England%2C_Armidale%2C_NSW.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-09-university-of-new-england-lawns.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Apsley Falls lookout",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Apsley_Falls_7_banner.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Apsley_Falls_7_banner.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-armidale/place-10-apsley-falls-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunrise Spots in Armidale",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cathedral_Rock_NP.JPG",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cathedral_Rock_NP.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Mount Duval Lookout",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-01-mount-duval-lookout.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-01-mount-duval-lookout.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-01-mount-duval-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Dangars Falls lookout",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-02-dangars-falls-lookout.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-02-dangars-falls-lookout.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-02-dangars-falls-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Blue Hole, Gara River",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-03-blue-hole-gara-river.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-03-blue-hole-gara-river.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-03-blue-hole-gara-river.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Cathedral Rock area",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-04-cathedral-rock-area.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-04-cathedral-rock-area.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-04-cathedral-rock-area.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Wollomombi Falls lookout",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-05-wollomombi-falls-lookout.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-05-wollomombi-falls-lookout.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-05-wollomombi-falls-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Saumarez Homestead grounds",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-06-saumarez-homestead-grounds.png",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-06-saumarez-homestead-grounds.png",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-06-saumarez-homestead-grounds.png",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Beardy Street Mall",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale_City_Centre.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Armidale_City_Centre.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-07-beardy-street-mall.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Central Park Armidale",
+    "source_page_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-08-central-park-armidale.jpg",
+    "source_image_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-08-central-park-armidale.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-08-central-park-armidale.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Apsley Falls lookout",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Apsley_Falls_7_banner.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Apsley_Falls_7_banner.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-09-apsley-falls-lookout.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-armidale",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Armidale Airport lookout area",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Armidale_Regional_Airport,_New_South_Wales_(10005706805).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Armidale_Regional_Airport%2C_New_South_Wales_%2810005706805%29.jpg/1200px-Armidale_Regional_Airport%2C_New_South_Wales_%2810005706805%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-armidale/place-10-armidale-airport-lookout-area.jpg",
+    "match_type": "exact"
+  }
+]

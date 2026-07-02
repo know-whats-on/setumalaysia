@@ -1,0 +1,155 @@
+{
+  "Curtin University": {
+    "Bentley": {
+      "type": "Feature",
+      "properties": { "name": "Bentley", "display_name": "Bentley, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.886783, -32.012457], [115.899048, -32.013509], [115.932786, -32.002455],
+          [115.917371, -31.999933], [115.902441, -32.003297], [115.888733, -31.991258],
+          [115.886783, -32.012457]
+        ]]
+      }
+    },
+    "Victoria Park": {
+      "type": "Feature",
+      "properties": { "name": "Victoria Park", "display_name": "Victoria Park, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.878763, -31.971053], [115.895678, -31.985619], [115.906559, -31.976189],
+          [115.886762, -31.967085], [115.878763, -31.971053]
+        ]]
+      }
+    }
+  },
+  "Deakin University": {
+    "Burwood": {
+      "type": "Feature",
+      "properties": { "name": "Burwood", "display_name": "Burwood, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.090, -37.840], [145.130, -37.840], [145.130, -37.865], 
+          [145.090, -37.865], [145.090, -37.840]
+        ]]
+      }
+    },
+    "Box Hill": {
+      "type": "Feature",
+      "properties": { "name": "Box Hill", "display_name": "Box Hill, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.110, -37.810], [145.140, -37.810], [145.140, -37.830], 
+          [145.110, -37.830], [145.110, -37.810]
+        ]]
+      }
+    }
+  },
+  "Edith Cowan University": {
+    "Joondalup": {
+      "type": "Feature",
+      "properties": { "name": "Joondalup", "display_name": "Joondalup, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.750, -31.730], [115.800, -31.730], [115.800, -31.765], 
+          [115.750, -31.765], [115.750, -31.730]
+        ]]
+      }
+    }
+  },
+  "Federation University Australia": {
+    "Mount Helen": {
+      "type": "Feature",
+      "properties": { "name": "Mount Helen", "display_name": "Mount Helen, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [143.870, -37.620], [143.910, -37.620], [143.910, -37.650], 
+          [143.870, -37.650], [143.870, -37.620]
+        ]]
+      }
+    }
+  },
+  "Flinders University": {
+    "Bedford Park": {
+      "type": "Feature",
+      "properties": { "name": "Bedford Park", "display_name": "Bedford Park, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.560, -34.990], [138.590, -34.990], [138.590, -35.030], 
+          [138.560, -35.030], [138.560, -34.990]
+        ]]
+      }
+    }
+  },
+  "Griffith University": {
+    "Southport": {
+      "type": "Feature",
+      "properties": { "name": "Southport", "display_name": "Southport, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.390, -27.950], [153.430, -27.950], [153.430, -27.990], 
+          [153.390, -27.990], [153.390, -27.950]
+        ]]
+      }
+    }
+  },
+  "James Cook University": {
+    "Douglas": {
+      "type": "Feature",
+      "properties": { "name": "Douglas", "display_name": "Douglas, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [146.740, -19.310], [146.780, -19.310], [146.780, -19.345], 
+          [146.740, -19.345], [146.740, -19.310]
+        ]]
+      }
+    }
+  },
+  "La Trobe University": {
+    "Bundoora": {
+      "type": "Feature",
+      "properties": { "name": "Bundoora", "display_name": "Bundoora, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.030, -37.680], [145.080, -37.680], [145.080, -37.720], 
+          [145.030, -37.720], [145.030, -37.680]
+        ]]
+      }
+    }
+  },
+  "Macquarie University": {
+    "Marsfield": {
+      "type": "Feature",
+      "properties": { "name": "Marsfield", "display_name": "Marsfield, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.090, -33.770], [151.130, -33.770], [151.130, -33.795], 
+          [151.090, -33.795], [151.090, -33.770]
+        ]]
+      }
+    }
+  },
+  "Monash University": {
+    "Clayton": {
+      "type": "Feature",
+      "properties": { "name": "Clayton", "display_name": "Clayton, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.100, -37.900], [145.150, -37.900], [145.150, -37.935], 
+          [145.100, -37.935], [145.100, -37.900]
+        ]]
+      }
+    }
+  }
+}

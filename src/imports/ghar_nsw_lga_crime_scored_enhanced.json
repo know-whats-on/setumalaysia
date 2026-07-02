@@ -1,0 +1,4242 @@
+[
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Albury",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 852.2,
+      "non_dv_assault": 739.1,
+      "robbery": 46.3,
+      "break_enter_dwelling": 325.8,
+      "break_enter_non_dwelling": 289.8,
+      "motor_vehicle_theft": 363.5,
+      "steal_from_vehicle": 842.0,
+      "retail_theft": 636.2,
+      "malicious_damage": 1171.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 91.5,
+      "personal_safety_score_0_100": 86.8,
+      "overall_caution_score_0_100": 91.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-albury",
+    "lga_slug": "albury",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Ballina",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 340.0,
+      "non_dv_assault": 369.3,
+      "robbery": 25.0,
+      "break_enter_dwelling": 367.2,
+      "break_enter_non_dwelling": 173.2,
+      "motor_vehicle_theft": 237.8,
+      "steal_from_vehicle": 381.8,
+      "retail_theft": 661.3,
+      "malicious_damage": 636.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 72.6,
+      "personal_safety_score_0_100": 38.7,
+      "overall_caution_score_0_100": 56.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-ballina",
+    "lga_slug": "ballina",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (39/100) and property crime (73/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Bayside",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 288.9,
+      "non_dv_assault": 228.1,
+      "robbery": 10.8,
+      "break_enter_dwelling": 139.3,
+      "break_enter_non_dwelling": 38.7,
+      "motor_vehicle_theft": 138.3,
+      "steal_from_vehicle": 227.0,
+      "retail_theft": 309.9,
+      "malicious_damage": 389.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 29.2,
+      "personal_safety_score_0_100": 19.8,
+      "overall_caution_score_0_100": 21.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-bayside",
+    "lga_slug": "bayside",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Bega Valley",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 276.0,
+      "non_dv_assault": 311.5,
+      "robbery": 2.7,
+      "break_enter_dwelling": 106.6,
+      "break_enter_non_dwelling": 65.6,
+      "motor_vehicle_theft": 84.7,
+      "steal_from_vehicle": 136.6,
+      "retail_theft": 235.0,
+      "malicious_damage": 598.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 28.3,
+      "personal_safety_score_0_100": 23.6,
+      "overall_caution_score_0_100": 23.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-bega-valley",
+    "lga_slug": "bega-valley",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Bellingen",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 497.1,
+      "non_dv_assault": 466.9,
+      "robbery": 22.6,
+      "break_enter_dwelling": 271.1,
+      "break_enter_non_dwelling": 90.4,
+      "motor_vehicle_theft": 225.9,
+      "steal_from_vehicle": 286.2,
+      "retail_theft": 128.0,
+      "malicious_damage": 843.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 57.5,
+      "personal_safety_score_0_100": 52.8,
+      "overall_caution_score_0_100": 59.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-bellingen",
+    "lga_slug": "bellingen",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (53/100) and property crime (58/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Berrigan",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 311.6,
+      "non_dv_assault": 323.1,
+      "robbery": 0.0,
+      "break_enter_dwelling": 173.1,
+      "break_enter_non_dwelling": 115.4,
+      "motor_vehicle_theft": 196.2,
+      "steal_from_vehicle": 92.3,
+      "retail_theft": 207.7,
+      "malicious_damage": 611.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 34.9,
+      "personal_safety_score_0_100": 31.1,
+      "overall_caution_score_0_100": 32.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-berrigan",
+    "lga_slug": "berrigan",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (31/100) and property crime (35/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Blacktown",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 580.8,
+      "non_dv_assault": 397.2,
+      "robbery": 41.9,
+      "break_enter_dwelling": 158.8,
+      "break_enter_non_dwelling": 50.4,
+      "motor_vehicle_theft": 164.3,
+      "steal_from_vehicle": 270.0,
+      "retail_theft": 415.0,
+      "malicious_damage": 560.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 44.3,
+      "personal_safety_score_0_100": 59.4,
+      "overall_caution_score_0_100": 53.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-blacktown",
+    "lga_slug": "blacktown",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (59/100) and property crime (44/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Bland",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 440.0,
+      "non_dv_assault": 330.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 183.4,
+      "break_enter_non_dwelling": 220.0,
+      "motor_vehicle_theft": 146.7,
+      "steal_from_vehicle": 238.4,
+      "retail_theft": 73.3,
+      "malicious_damage": 605.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 35.8,
+      "personal_safety_score_0_100": 44.3,
+      "overall_caution_score_0_100": 40.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-bland",
+    "lga_slug": "bland",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (44/100) and property crime (36/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Blayney",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 515.0,
+      "non_dv_assault": 231.7,
+      "robbery": 12.9,
+      "break_enter_dwelling": 128.7,
+      "break_enter_non_dwelling": 51.5,
+      "motor_vehicle_theft": 141.6,
+      "steal_from_vehicle": 128.7,
+      "retail_theft": 38.6,
+      "malicious_damage": 399.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 11.3,
+      "personal_safety_score_0_100": 43.4,
+      "overall_caution_score_0_100": 28.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-blayney",
+    "lga_slug": "blayney",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (43/100) and property crime (11/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Blue Mountains",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 249.7,
+      "non_dv_assault": 219.3,
+      "robbery": 11.4,
+      "break_enter_dwelling": 87.5,
+      "break_enter_non_dwelling": 53.2,
+      "motor_vehicle_theft": 46.9,
+      "steal_from_vehicle": 128.0,
+      "retail_theft": 167.3,
+      "malicious_damage": 452.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 13.2,
+      "personal_safety_score_0_100": 16.0,
+      "overall_caution_score_0_100": 12.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-blue-mountains",
+    "lga_slug": "blue-mountains",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Broken Hill",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1704.6,
+      "non_dv_assault": 667.0,
+      "robbery": 17.1,
+      "break_enter_dwelling": 706.9,
+      "break_enter_non_dwelling": 325.0,
+      "motor_vehicle_theft": 182.4,
+      "steal_from_vehicle": 621.4,
+      "retail_theft": 541.6,
+      "malicious_damage": 1904.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 98.1,
+      "personal_safety_score_0_100": 97.2,
+      "overall_caution_score_0_100": 97.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-broken-hill",
+    "lga_slug": "broken-hill",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Burwood",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 329.9,
+      "non_dv_assault": 392.2,
+      "robbery": 36.9,
+      "break_enter_dwelling": 175.3,
+      "break_enter_non_dwelling": 80.7,
+      "motor_vehicle_theft": 131.5,
+      "steal_from_vehicle": 239.9,
+      "retail_theft": 712.9,
+      "malicious_damage": 318.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 48.1,
+      "personal_safety_score_0_100": 42.5,
+      "overall_caution_score_0_100": 44.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-burwood",
+    "lga_slug": "burwood",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (42/100) and property crime (48/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Byron",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 298.7,
+      "non_dv_assault": 682.1,
+      "robbery": 13.2,
+      "break_enter_dwelling": 240.6,
+      "break_enter_non_dwelling": 137.5,
+      "motor_vehicle_theft": 293.4,
+      "steal_from_vehicle": 465.3,
+      "retail_theft": 243.2,
+      "malicious_damage": 690.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 63.2,
+      "personal_safety_score_0_100": 53.8,
+      "overall_caution_score_0_100": 62.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-byron",
+    "lga_slug": "byron",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (54/100) and property crime (63/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Cabonne",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 474.9,
+      "non_dv_assault": 122.3,
+      "robbery": 0.0,
+      "break_enter_dwelling": 93.5,
+      "break_enter_non_dwelling": 143.9,
+      "motor_vehicle_theft": 158.3,
+      "steal_from_vehicle": 57.6,
+      "retail_theft": 14.4,
+      "malicious_damage": 438.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 12.3,
+      "personal_safety_score_0_100": 24.5,
+      "overall_caution_score_0_100": 19.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-cabonne",
+    "lga_slug": "cabonne",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Camden",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 278.5,
+      "non_dv_assault": 238.1,
+      "robbery": 6.4,
+      "break_enter_dwelling": 65.9,
+      "break_enter_non_dwelling": 28.3,
+      "motor_vehicle_theft": 115.5,
+      "steal_from_vehicle": 146.0,
+      "retail_theft": 169.3,
+      "malicious_damage": 337.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 10.4,
+      "personal_safety_score_0_100": 17.9,
+      "overall_caution_score_0_100": 13.2,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-camden",
+    "lga_slug": "camden",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Campbelltown",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 584.2,
+      "non_dv_assault": 417.4,
+      "robbery": 29.7,
+      "break_enter_dwelling": 176.3,
+      "break_enter_non_dwelling": 78.1,
+      "motor_vehicle_theft": 179.0,
+      "steal_from_vehicle": 323.4,
+      "retail_theft": 322.4,
+      "malicious_damage": 638.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 50.9,
+      "personal_safety_score_0_100": 61.3,
+      "overall_caution_score_0_100": 55.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-campbelltown",
+    "lga_slug": "campbelltown",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (61/100) and property crime (51/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Canada Bay",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 215.7,
+      "non_dv_assault": 212.5,
+      "robbery": 9.8,
+      "break_enter_dwelling": 243.9,
+      "break_enter_non_dwelling": 44.4,
+      "motor_vehicle_theft": 116.0,
+      "steal_from_vehicle": 213.5,
+      "retail_theft": 208.1,
+      "malicious_damage": 282.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 20.8,
+      "personal_safety_score_0_100": 14.2,
+      "overall_caution_score_0_100": 15.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-canada-bay",
+    "lga_slug": "canada-bay",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Canterbury-Bankstown",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 405.7,
+      "non_dv_assault": 311.2,
+      "robbery": 18.9,
+      "break_enter_dwelling": 130.3,
+      "break_enter_non_dwelling": 41.0,
+      "motor_vehicle_theft": 167.9,
+      "steal_from_vehicle": 289.2,
+      "retail_theft": 162.0,
+      "malicious_damage": 368.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 24.5,
+      "personal_safety_score_0_100": 39.6,
+      "overall_caution_score_0_100": 34.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-canterbury-bankstown",
+    "lga_slug": "canterbury-bankstown",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (40/100) and property crime (24/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Central Coast",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 538.3,
+      "non_dv_assault": 430.4,
+      "robbery": 25.4,
+      "break_enter_dwelling": 208.0,
+      "break_enter_non_dwelling": 69.1,
+      "motor_vehicle_theft": 171.4,
+      "steal_from_vehicle": 336.0,
+      "retail_theft": 376.0,
+      "malicious_damage": 662.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 56.6,
+      "personal_safety_score_0_100": 54.7,
+      "overall_caution_score_0_100": 57.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-central-coast",
+    "lga_slug": "central-coast",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (55/100) and property crime (57/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Cessnock",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 770.0,
+      "non_dv_assault": 474.4,
+      "robbery": 10.1,
+      "break_enter_dwelling": 344.6,
+      "break_enter_non_dwelling": 180.2,
+      "motor_vehicle_theft": 559.5,
+      "steal_from_vehicle": 377.8,
+      "retail_theft": 305.7,
+      "malicious_damage": 899.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 77.4,
+      "personal_safety_score_0_100": 68.9,
+      "overall_caution_score_0_100": 75.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-cessnock",
+    "lga_slug": "cessnock",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Clarence Valley",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 658.5,
+      "non_dv_assault": 503.2,
+      "robbery": 26.8,
+      "break_enter_dwelling": 460.4,
+      "break_enter_non_dwelling": 176.7,
+      "motor_vehicle_theft": 333.7,
+      "steal_from_vehicle": 373.0,
+      "retail_theft": 421.2,
+      "malicious_damage": 838.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 74.5,
+      "personal_safety_score_0_100": 67.0,
+      "overall_caution_score_0_100": 69.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-clarence-valley",
+    "lga_slug": "clarence-valley",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (67/100) and property crime (74/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Cobar",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1320.0,
+      "non_dv_assault": 747.2,
+      "robbery": 49.8,
+      "break_enter_dwelling": 373.6,
+      "break_enter_non_dwelling": 423.4,
+      "motor_vehicle_theft": 722.3,
+      "steal_from_vehicle": 373.6,
+      "retail_theft": 298.9,
+      "malicious_damage": 1345.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 90.6,
+      "personal_safety_score_0_100": 96.2,
+      "overall_caution_score_0_100": 96.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-cobar",
+    "lga_slug": "cobar",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Coffs Harbour",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 763.1,
+      "non_dv_assault": 593.2,
+      "robbery": 41.8,
+      "break_enter_dwelling": 419.7,
+      "break_enter_non_dwelling": 184.6,
+      "motor_vehicle_theft": 304.0,
+      "steal_from_vehicle": 428.3,
+      "retail_theft": 487.4,
+      "malicious_damage": 828.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 76.4,
+      "personal_safety_score_0_100": 80.2,
+      "overall_caution_score_0_100": 77.4,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-coffs-harbour",
+    "lga_slug": "coffs-harbour",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Coolamon",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 368.5,
+      "non_dv_assault": 260.1,
+      "robbery": 0.0,
+      "break_enter_dwelling": 216.8,
+      "break_enter_non_dwelling": 86.7,
+      "motor_vehicle_theft": 151.7,
+      "steal_from_vehicle": 86.7,
+      "retail_theft": 43.4,
+      "malicious_damage": 216.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 9.4,
+      "personal_safety_score_0_100": 27.4,
+      "overall_caution_score_0_100": 18.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-coolamon",
+    "lga_slug": "coolamon",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Coonamble",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1730.8,
+      "non_dv_assault": 1343.3,
+      "robbery": 0.0,
+      "break_enter_dwelling": 594.2,
+      "break_enter_non_dwelling": 465.0,
+      "motor_vehicle_theft": 568.3,
+      "steal_from_vehicle": 465.0,
+      "retail_theft": 129.2,
+      "malicious_damage": 1937.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 96.2,
+      "personal_safety_score_0_100": 98.1,
+      "overall_caution_score_0_100": 98.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-coonamble",
+    "lga_slug": "coonamble",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Cootamundra-Gundagai",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 446.4,
+      "non_dv_assault": 332.6,
+      "robbery": 0.0,
+      "break_enter_dwelling": 201.3,
+      "break_enter_non_dwelling": 87.5,
+      "motor_vehicle_theft": 113.8,
+      "steal_from_vehicle": 157.6,
+      "retail_theft": 52.5,
+      "malicious_damage": 604.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 27.4,
+      "personal_safety_score_0_100": 45.3,
+      "overall_caution_score_0_100": 37.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-cootamundra-gundagai",
+    "lga_slug": "cootamundra-gundagai",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (45/100) and property crime (27/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Cowra",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 772.9,
+      "non_dv_assault": 378.5,
+      "robbery": 0.0,
+      "break_enter_dwelling": 425.9,
+      "break_enter_non_dwelling": 339.1,
+      "motor_vehicle_theft": 220.8,
+      "steal_from_vehicle": 315.5,
+      "retail_theft": 449.5,
+      "malicious_damage": 1025.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 80.2,
+      "personal_safety_score_0_100": 64.2,
+      "overall_caution_score_0_100": 71.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-cowra",
+    "lga_slug": "cowra",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (64/100) and property crime (80/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Cumberland",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 385.1,
+      "non_dv_assault": 368.1,
+      "robbery": 31.7,
+      "break_enter_dwelling": 199.3,
+      "break_enter_non_dwelling": 51.1,
+      "motor_vehicle_theft": 199.3,
+      "steal_from_vehicle": 417.2,
+      "retail_theft": 208.0,
+      "malicious_damage": 392.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 36.8,
+      "personal_safety_score_0_100": 47.2,
+      "overall_caution_score_0_100": 41.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-cumberland",
+    "lga_slug": "cumberland",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (47/100) and property crime (37/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Dungog",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 494.7,
+      "non_dv_assault": 151.4,
+      "robbery": 0.0,
+      "break_enter_dwelling": 80.8,
+      "break_enter_non_dwelling": 111.1,
+      "motor_vehicle_theft": 121.2,
+      "steal_from_vehicle": 131.2,
+      "retail_theft": 121.2,
+      "malicious_damage": 403.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 17.9,
+      "personal_safety_score_0_100": 32.1,
+      "overall_caution_score_0_100": 22.6,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-dungog",
+    "lga_slug": "dungog",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Edward River",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 963.0,
+      "non_dv_assault": 653.9,
+      "robbery": 0.0,
+      "break_enter_dwelling": 368.6,
+      "break_enter_non_dwelling": 356.7,
+      "motor_vehicle_theft": 178.3,
+      "steal_from_vehicle": 582.6,
+      "retail_theft": 297.2,
+      "malicious_damage": 974.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 79.2,
+      "personal_safety_score_0_100": 84.9,
+      "overall_caution_score_0_100": 81.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-edward-river",
+    "lga_slug": "edward-river",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Eurobodalla",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 512.9,
+      "non_dv_assault": 422.9,
+      "robbery": 4.9,
+      "break_enter_dwelling": 228.5,
+      "break_enter_non_dwelling": 111.8,
+      "motor_vehicle_theft": 145.8,
+      "steal_from_vehicle": 226.0,
+      "retail_theft": 316.0,
+      "malicious_damage": 597.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 45.3,
+      "personal_safety_score_0_100": 50.9,
+      "overall_caution_score_0_100": 49.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-eurobodalla",
+    "lga_slug": "eurobodalla",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (51/100) and property crime (45/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Fairfield",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 337.4,
+      "non_dv_assault": 290.7,
+      "robbery": 26.4,
+      "break_enter_dwelling": 97.5,
+      "break_enter_non_dwelling": 31.1,
+      "motor_vehicle_theft": 157.9,
+      "steal_from_vehicle": 295.0,
+      "retail_theft": 183.8,
+      "malicious_damage": 363.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 21.7,
+      "personal_safety_score_0_100": 34.0,
+      "overall_caution_score_0_100": 27.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-fairfield",
+    "lga_slug": "fairfield",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (34/100) and property crime (22/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Federation",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 275.3,
+      "non_dv_assault": 283.0,
+      "robbery": 15.3,
+      "break_enter_dwelling": 183.6,
+      "break_enter_non_dwelling": 229.4,
+      "motor_vehicle_theft": 168.3,
+      "steal_from_vehicle": 283.0,
+      "retail_theft": 145.3,
+      "malicious_damage": 458.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 37.7,
+      "personal_safety_score_0_100": 22.6,
+      "overall_caution_score_0_100": 30.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-federation",
+    "lga_slug": "federation",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (23/100) and property crime (38/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Forbes",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 806.9,
+      "non_dv_assault": 677.8,
+      "robbery": 21.5,
+      "break_enter_dwelling": 570.2,
+      "break_enter_non_dwelling": 355.0,
+      "motor_vehicle_theft": 408.8,
+      "steal_from_vehicle": 1043.6,
+      "retail_theft": 312.0,
+      "malicious_damage": 1355.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 95.3,
+      "personal_safety_score_0_100": 83.0,
+      "overall_caution_score_0_100": 92.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-forbes",
+    "lga_slug": "forbes",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Georges River",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 288.4,
+      "non_dv_assault": 226.5,
+      "robbery": 8.7,
+      "break_enter_dwelling": 126.2,
+      "break_enter_non_dwelling": 55.7,
+      "motor_vehicle_theft": 85.4,
+      "steal_from_vehicle": 151.6,
+      "retail_theft": 375.6,
+      "malicious_damage": 342.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 23.6,
+      "personal_safety_score_0_100": 18.9,
+      "overall_caution_score_0_100": 20.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-georges-river",
+    "lga_slug": "georges-river",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Gilgandra",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1417.0,
+      "non_dv_assault": 348.4,
+      "robbery": 0.0,
+      "break_enter_dwelling": 371.7,
+      "break_enter_non_dwelling": 209.1,
+      "motor_vehicle_theft": 394.9,
+      "steal_from_vehicle": 418.1,
+      "retail_theft": 23.2,
+      "malicious_damage": 1184.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 73.6,
+      "personal_safety_score_0_100": 90.6,
+      "overall_caution_score_0_100": 83.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-gilgandra",
+    "lga_slug": "gilgandra",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Glen Innes Severn",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 579.2,
+      "non_dv_assault": 757.4,
+      "robbery": 22.3,
+      "break_enter_dwelling": 478.9,
+      "break_enter_non_dwelling": 155.9,
+      "motor_vehicle_theft": 323.0,
+      "steal_from_vehicle": 233.9,
+      "retail_theft": 389.8,
+      "malicious_damage": 802.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 69.8,
+      "personal_safety_score_0_100": 77.4,
+      "overall_caution_score_0_100": 73.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-glen-innes-severn",
+    "lga_slug": "glen-innes-severn",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (77/100) and property crime (70/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Goulburn Mulwaree",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 492.3,
+      "non_dv_assault": 552.7,
+      "robbery": 9.1,
+      "break_enter_dwelling": 166.1,
+      "break_enter_non_dwelling": 141.9,
+      "motor_vehicle_theft": 166.1,
+      "steal_from_vehicle": 259.7,
+      "retail_theft": 244.6,
+      "malicious_damage": 736.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 50.0,
+      "personal_safety_score_0_100": 63.2,
+      "overall_caution_score_0_100": 60.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-goulburn-mulwaree",
+    "lga_slug": "goulburn-mulwaree",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (63/100) and property crime (50/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Griffith",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 790.1,
+      "non_dv_assault": 453.5,
+      "robbery": 21.9,
+      "break_enter_dwelling": 332.8,
+      "break_enter_non_dwelling": 113.4,
+      "motor_vehicle_theft": 208.5,
+      "steal_from_vehicle": 354.8,
+      "retail_theft": 340.2,
+      "malicious_damage": 991.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 67.9,
+      "personal_safety_score_0_100": 70.8,
+      "overall_caution_score_0_100": 68.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-griffith",
+    "lga_slug": "griffith",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (71/100) and property crime (68/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Gunnedah",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 828.9,
+      "non_dv_assault": 552.6,
+      "robbery": 7.5,
+      "break_enter_dwelling": 612.3,
+      "break_enter_non_dwelling": 403.2,
+      "motor_vehicle_theft": 492.8,
+      "steal_from_vehicle": 1194.7,
+      "retail_theft": 238.9,
+      "malicious_damage": 1224.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 97.2,
+      "personal_safety_score_0_100": 79.2,
+      "overall_caution_score_0_100": 89.6,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-gunnedah",
+    "lga_slug": "gunnedah",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Gwydir",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 919.7,
+      "non_dv_assault": 429.2,
+      "robbery": 0.0,
+      "break_enter_dwelling": 388.3,
+      "break_enter_non_dwelling": 81.7,
+      "motor_vehicle_theft": 224.8,
+      "steal_from_vehicle": 163.5,
+      "retail_theft": 20.4,
+      "malicious_damage": 429.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 32.1,
+      "personal_safety_score_0_100": 76.4,
+      "overall_caution_score_0_100": 63.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-gwydir",
+    "lga_slug": "gwydir",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (76/100) and property crime (32/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Hawkesbury",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 378.4,
+      "non_dv_assault": 337.7,
+      "robbery": 4.4,
+      "break_enter_dwelling": 148.5,
+      "break_enter_non_dwelling": 67.0,
+      "motor_vehicle_theft": 158.7,
+      "steal_from_vehicle": 179.0,
+      "retail_theft": 318.8,
+      "malicious_damage": 445.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 34.0,
+      "personal_safety_score_0_100": 36.8,
+      "overall_caution_score_0_100": 35.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-hawkesbury",
+    "lga_slug": "hawkesbury",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (37/100) and property crime (34/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Hilltops",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 585.5,
+      "non_dv_assault": 414.5,
+      "robbery": 0.0,
+      "break_enter_dwelling": 155.4,
+      "break_enter_non_dwelling": 72.5,
+      "motor_vehicle_theft": 129.5,
+      "steal_from_vehicle": 176.2,
+      "retail_theft": 124.4,
+      "malicious_damage": 647.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 31.1,
+      "personal_safety_score_0_100": 56.6,
+      "overall_caution_score_0_100": 45.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-hilltops",
+    "lga_slug": "hilltops",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (57/100) and property crime (31/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Hornsby",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 165.3,
+      "non_dv_assault": 135.0,
+      "robbery": 11.6,
+      "break_enter_dwelling": 72.3,
+      "break_enter_non_dwelling": 46.5,
+      "motor_vehicle_theft": 43.3,
+      "steal_from_vehicle": 101.4,
+      "retail_theft": 156.9,
+      "malicious_damage": 222.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 2.8,
+      "personal_safety_score_0_100": 3.8,
+      "overall_caution_score_0_100": 2.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-hornsby",
+    "lga_slug": "hornsby",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Hunters Hill",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 177.8,
+      "non_dv_assault": 227.6,
+      "robbery": 21.3,
+      "break_enter_dwelling": 298.7,
+      "break_enter_non_dwelling": 42.7,
+      "motor_vehicle_theft": 128.0,
+      "steal_from_vehicle": 184.9,
+      "retail_theft": 7.1,
+      "malicious_damage": 298.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 16.0,
+      "personal_safety_score_0_100": 10.4,
+      "overall_caution_score_0_100": 11.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-hunters-hill",
+    "lga_slug": "hunters-hill",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Inner West",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 286.5,
+      "non_dv_assault": 333.6,
+      "robbery": 12.6,
+      "break_enter_dwelling": 163.4,
+      "break_enter_non_dwelling": 72.3,
+      "motor_vehicle_theft": 147.2,
+      "steal_from_vehicle": 291.2,
+      "retail_theft": 302.7,
+      "malicious_damage": 506.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 39.6,
+      "personal_safety_score_0_100": 29.2,
+      "overall_caution_score_0_100": 34.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-inner-west",
+    "lga_slug": "inner-west",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (29/100) and property crime (40/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Inverell",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1106.2,
+      "non_dv_assault": 619.5,
+      "robbery": 27.7,
+      "break_enter_dwelling": 470.1,
+      "break_enter_non_dwelling": 177.0,
+      "motor_vehicle_theft": 165.9,
+      "steal_from_vehicle": 320.8,
+      "retail_theft": 475.7,
+      "malicious_damage": 1023.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 75.5,
+      "personal_safety_score_0_100": 89.6,
+      "overall_caution_score_0_100": 84.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-inverell",
+    "lga_slug": "inverell",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Junee",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 464.5,
+      "non_dv_assault": 170.3,
+      "robbery": 15.5,
+      "break_enter_dwelling": 108.4,
+      "break_enter_non_dwelling": 77.4,
+      "motor_vehicle_theft": 154.8,
+      "steal_from_vehicle": 77.4,
+      "retail_theft": 108.4,
+      "malicious_damage": 603.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 22.6,
+      "personal_safety_score_0_100": 33.0,
+      "overall_caution_score_0_100": 26.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-junee",
+    "lga_slug": "junee",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (33/100) and property crime (23/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Kempsey",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1150.8,
+      "non_dv_assault": 687.3,
+      "robbery": 25.2,
+      "break_enter_dwelling": 781.9,
+      "break_enter_non_dwelling": 315.3,
+      "motor_vehicle_theft": 539.1,
+      "steal_from_vehicle": 353.1,
+      "retail_theft": 520.2,
+      "malicious_damage": 1311.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 93.4,
+      "personal_safety_score_0_100": 95.3,
+      "overall_caution_score_0_100": 95.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-kempsey",
+    "lga_slug": "kempsey",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Kiama",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 129.5,
+      "non_dv_assault": 151.0,
+      "robbery": 4.3,
+      "break_enter_dwelling": 103.6,
+      "break_enter_non_dwelling": 60.4,
+      "motor_vehicle_theft": 142.4,
+      "steal_from_vehicle": 194.2,
+      "retail_theft": 194.2,
+      "malicious_damage": 271.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 17.0,
+      "personal_safety_score_0_100": 2.8,
+      "overall_caution_score_0_100": 5.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-kiama",
+    "lga_slug": "kiama",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Ku-ring-gai",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 131.7,
+      "non_dv_assault": 96.6,
+      "robbery": 5.5,
+      "break_enter_dwelling": 95.8,
+      "break_enter_non_dwelling": 25.7,
+      "motor_vehicle_theft": 25.7,
+      "steal_from_vehicle": 106.0,
+      "retail_theft": 70.9,
+      "malicious_damage": 162.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 0.9,
+      "personal_safety_score_0_100": 0.9,
+      "overall_caution_score_0_100": 0.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-ku-ring-gai",
+    "lga_slug": "ku-ring-gai",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Kyogle",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 386.1,
+      "non_dv_assault": 240.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 156.5,
+      "break_enter_non_dwelling": 167.0,
+      "motor_vehicle_theft": 156.5,
+      "steal_from_vehicle": 229.6,
+      "retail_theft": 20.9,
+      "malicious_damage": 438.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 25.5,
+      "personal_safety_score_0_100": 26.4,
+      "overall_caution_score_0_100": 25.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-kyogle",
+    "lga_slug": "kyogle",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (26/100) and property crime (26/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Lachlan",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1210.5,
+      "non_dv_assault": 588.9,
+      "robbery": 16.4,
+      "break_enter_dwelling": 425.3,
+      "break_enter_non_dwelling": 130.9,
+      "motor_vehicle_theft": 474.4,
+      "steal_from_vehicle": 785.2,
+      "retail_theft": 196.3,
+      "malicious_damage": 1406.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 89.6,
+      "personal_safety_score_0_100": 94.3,
+      "overall_caution_score_0_100": 94.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-lachlan",
+    "lga_slug": "lachlan",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Lake Macquarie",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 475.1,
+      "non_dv_assault": 376.4,
+      "robbery": 9.0,
+      "break_enter_dwelling": 216.8,
+      "break_enter_non_dwelling": 105.5,
+      "motor_vehicle_theft": 229.4,
+      "steal_from_vehicle": 409.3,
+      "retail_theft": 387.6,
+      "malicious_damage": 557.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 59.4,
+      "personal_safety_score_0_100": 48.1,
+      "overall_caution_score_0_100": 51.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-lake-macquarie",
+    "lga_slug": "lake-macquarie",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (48/100) and property crime (59/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Lane Cove",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 138.6,
+      "non_dv_assault": 101.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 166.8,
+      "break_enter_non_dwelling": 44.6,
+      "motor_vehicle_theft": 51.7,
+      "steal_from_vehicle": 129.2,
+      "retail_theft": 145.7,
+      "malicious_damage": 180.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 5.7,
+      "personal_safety_score_0_100": 1.9,
+      "overall_caution_score_0_100": 1.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-lane-cove",
+    "lga_slug": "lane-cove",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Leeton",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 795.6,
+      "non_dv_assault": 498.3,
+      "robbery": 0.0,
+      "break_enter_dwelling": 454.6,
+      "break_enter_non_dwelling": 244.8,
+      "motor_vehicle_theft": 402.2,
+      "steal_from_vehicle": 314.7,
+      "retail_theft": 139.9,
+      "malicious_damage": 865.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 71.7,
+      "personal_safety_score_0_100": 73.6,
+      "overall_caution_score_0_100": 70.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-leeton",
+    "lga_slug": "leeton",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (74/100) and property crime (72/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Lismore",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 637.2,
+      "non_dv_assault": 714.9,
+      "robbery": 59.4,
+      "break_enter_dwelling": 406.6,
+      "break_enter_non_dwelling": 173.6,
+      "motor_vehicle_theft": 292.4,
+      "steal_from_vehicle": 347.2,
+      "retail_theft": 632.7,
+      "malicious_damage": 824.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 78.3,
+      "personal_safety_score_0_100": 81.1,
+      "overall_caution_score_0_100": 79.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-lismore",
+    "lga_slug": "lismore",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Lithgow",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 877.5,
+      "non_dv_assault": 564.1,
+      "robbery": 14.5,
+      "break_enter_dwelling": 308.6,
+      "break_enter_non_dwelling": 125.4,
+      "motor_vehicle_theft": 178.4,
+      "steal_from_vehicle": 212.2,
+      "retail_theft": 327.9,
+      "malicious_damage": 983.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 66.0,
+      "personal_safety_score_0_100": 82.1,
+      "overall_caution_score_0_100": 72.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-lithgow",
+    "lga_slug": "lithgow",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (82/100) and property crime (66/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Liverpool",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 559.4,
+      "non_dv_assault": 352.7,
+      "robbery": 27.5,
+      "break_enter_dwelling": 178.5,
+      "break_enter_non_dwelling": 45.9,
+      "motor_vehicle_theft": 199.3,
+      "steal_from_vehicle": 347.2,
+      "retail_theft": 287.6,
+      "malicious_damage": 490.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 41.5,
+      "personal_safety_score_0_100": 50.0,
+      "overall_caution_score_0_100": 48.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-liverpool",
+    "lga_slug": "liverpool",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (50/100) and property crime (42/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Liverpool Plains",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 873.5,
+      "non_dv_assault": 469.4,
+      "robbery": 0.0,
+      "break_enter_dwelling": 365.1,
+      "break_enter_non_dwelling": 91.3,
+      "motor_vehicle_theft": 286.8,
+      "steal_from_vehicle": 169.5,
+      "retail_theft": 13.0,
+      "malicious_damage": 795.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 52.8,
+      "personal_safety_score_0_100": 74.5,
+      "overall_caution_score_0_100": 66.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-liverpool-plains",
+    "lga_slug": "liverpool-plains",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (74/100) and property crime (53/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Lockhart",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 201.5,
+      "non_dv_assault": 230.3,
+      "robbery": 0.0,
+      "break_enter_dwelling": 259.1,
+      "break_enter_non_dwelling": 57.6,
+      "motor_vehicle_theft": 316.6,
+      "steal_from_vehicle": 230.3,
+      "retail_theft": 259.1,
+      "malicious_damage": 777.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 58.5,
+      "personal_safety_score_0_100": 13.2,
+      "overall_caution_score_0_100": 33.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-lockhart",
+    "lga_slug": "lockhart",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (13/100) and property crime (58/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Maitland",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 695.8,
+      "non_dv_assault": 461.5,
+      "robbery": 21.4,
+      "break_enter_dwelling": 291.4,
+      "break_enter_non_dwelling": 135.5,
+      "motor_vehicle_theft": 302.6,
+      "steal_from_vehicle": 489.0,
+      "retail_theft": 454.3,
+      "malicious_damage": 722.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 70.8,
+      "personal_safety_score_0_100": 66.0,
+      "overall_caution_score_0_100": 67.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-maitland",
+    "lga_slug": "maitland",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (66/100) and property crime (71/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Mid-Coast",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 704.0,
+      "non_dv_assault": 445.3,
+      "robbery": 10.1,
+      "break_enter_dwelling": 286.1,
+      "break_enter_non_dwelling": 183.6,
+      "motor_vehicle_theft": 215.0,
+      "steal_from_vehicle": 196.8,
+      "retail_theft": 207.9,
+      "malicious_damage": 699.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 55.7,
+      "personal_safety_score_0_100": 65.1,
+      "overall_caution_score_0_100": 65.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-mid-coast",
+    "lga_slug": "mid-coast",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (65/100) and property crime (56/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Moree Plains",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 2333.0,
+      "non_dv_assault": 1240.6,
+      "robbery": 70.2,
+      "break_enter_dwelling": 1849.3,
+      "break_enter_non_dwelling": 515.0,
+      "motor_vehicle_theft": 593.0,
+      "steal_from_vehicle": 639.8,
+      "retail_theft": 1248.4,
+      "malicious_damage": 3347.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 100.0,
+      "personal_safety_score_0_100": 99.1,
+      "overall_caution_score_0_100": 100.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-moree-plains",
+    "lga_slug": "moree-plains",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Mosman",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 133.3,
+      "non_dv_assault": 191.4,
+      "robbery": 3.4,
+      "break_enter_dwelling": 119.6,
+      "break_enter_non_dwelling": 37.6,
+      "motor_vehicle_theft": 75.2,
+      "steal_from_vehicle": 129.9,
+      "retail_theft": 133.3,
+      "malicious_damage": 235.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 7.5,
+      "personal_safety_score_0_100": 4.7,
+      "overall_caution_score_0_100": 3.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-mosman",
+    "lga_slug": "mosman",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Murray River",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 383.4,
+      "non_dv_assault": 221.2,
+      "robbery": 14.7,
+      "break_enter_dwelling": 302.3,
+      "break_enter_non_dwelling": 243.3,
+      "motor_vehicle_theft": 353.9,
+      "steal_from_vehicle": 250.7,
+      "retail_theft": 191.7,
+      "malicious_damage": 597.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 61.3,
+      "personal_safety_score_0_100": 25.5,
+      "overall_caution_score_0_100": 42.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-murray-river",
+    "lga_slug": "murray-river",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (26/100) and property crime (61/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Murrumbidgee",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 300.7,
+      "non_dv_assault": 656.1,
+      "robbery": 0.0,
+      "break_enter_dwelling": 410.1,
+      "break_enter_non_dwelling": 191.4,
+      "motor_vehicle_theft": 328.0,
+      "steal_from_vehicle": 382.7,
+      "retail_theft": 27.3,
+      "malicious_damage": 410.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 53.8,
+      "personal_safety_score_0_100": 51.9,
+      "overall_caution_score_0_100": 52.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-murrumbidgee",
+    "lga_slug": "murrumbidgee",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (52/100) and property crime (54/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Muswellbrook",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 987.1,
+      "non_dv_assault": 606.5,
+      "robbery": 35.7,
+      "break_enter_dwelling": 481.7,
+      "break_enter_non_dwelling": 243.8,
+      "motor_vehicle_theft": 267.6,
+      "steal_from_vehicle": 356.8,
+      "retail_theft": 505.4,
+      "malicious_damage": 1106.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 83.0,
+      "personal_safety_score_0_100": 85.8,
+      "overall_caution_score_0_100": 84.9,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-muswellbrook",
+    "lga_slug": "muswellbrook",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Nambucca Valley",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 648.1,
+      "non_dv_assault": 538.5,
+      "robbery": 14.3,
+      "break_enter_dwelling": 266.8,
+      "break_enter_non_dwelling": 195.4,
+      "motor_vehicle_theft": 314.5,
+      "steal_from_vehicle": 490.8,
+      "retail_theft": 133.4,
+      "malicious_damage": 805.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 67.0,
+      "personal_safety_score_0_100": 67.9,
+      "overall_caution_score_0_100": 67.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-nambucca-valley",
+    "lga_slug": "nambucca-valley",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (68/100) and property crime (67/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Narrabri",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1094.1,
+      "non_dv_assault": 586.1,
+      "robbery": 7.8,
+      "break_enter_dwelling": 406.4,
+      "break_enter_non_dwelling": 195.4,
+      "motor_vehicle_theft": 265.7,
+      "steal_from_vehicle": 554.9,
+      "retail_theft": 414.2,
+      "malicious_damage": 1242.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 86.8,
+      "personal_safety_score_0_100": 88.7,
+      "overall_caution_score_0_100": 86.8,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-narrabri",
+    "lga_slug": "narrabri",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Narrandera",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 615.4,
+      "non_dv_assault": 984.7,
+      "robbery": 0.0,
+      "break_enter_dwelling": 580.3,
+      "break_enter_non_dwelling": 351.7,
+      "motor_vehicle_theft": 457.2,
+      "steal_from_vehicle": 404.4,
+      "retail_theft": 211.0,
+      "malicious_damage": 1934.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 94.3,
+      "personal_safety_score_0_100": 84.0,
+      "overall_caution_score_0_100": 93.4,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-narrandera",
+    "lga_slug": "narrandera",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Narromine",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1228.2,
+      "non_dv_assault": 419.8,
+      "robbery": 0.0,
+      "break_enter_dwelling": 295.4,
+      "break_enter_non_dwelling": 326.5,
+      "motor_vehicle_theft": 466.4,
+      "steal_from_vehicle": 419.8,
+      "retail_theft": 202.1,
+      "malicious_damage": 1321.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 84.9,
+      "personal_safety_score_0_100": 87.7,
+      "overall_caution_score_0_100": 85.8,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-narromine",
+    "lga_slug": "narromine",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Newcastle",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 533.8,
+      "non_dv_assault": 677.9,
+      "robbery": 46.9,
+      "break_enter_dwelling": 553.0,
+      "break_enter_non_dwelling": 189.4,
+      "motor_vehicle_theft": 413.9,
+      "steal_from_vehicle": 961.8,
+      "retail_theft": 663.8,
+      "malicious_damage": 920.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 92.5,
+      "personal_safety_score_0_100": 69.8,
+      "overall_caution_score_0_100": 82.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-newcastle",
+    "lga_slug": "newcastle",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "North Sydney",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 146.8,
+      "non_dv_assault": 179.7,
+      "robbery": 6.9,
+      "break_enter_dwelling": 116.6,
+      "break_enter_non_dwelling": 89.2,
+      "motor_vehicle_theft": 56.2,
+      "steal_from_vehicle": 135.8,
+      "retail_theft": 288.0,
+      "malicious_damage": 253.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 14.2,
+      "personal_safety_score_0_100": 5.7,
+      "overall_caution_score_0_100": 7.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-north-sydney",
+    "lga_slug": "north-sydney",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Northern Beaches",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 163.6,
+      "non_dv_assault": 204.6,
+      "robbery": 8.9,
+      "break_enter_dwelling": 62.0,
+      "break_enter_non_dwelling": 38.8,
+      "motor_vehicle_theft": 55.4,
+      "steal_from_vehicle": 130.4,
+      "retail_theft": 193.9,
+      "malicious_damage": 249.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 6.6,
+      "personal_safety_score_0_100": 6.6,
+      "overall_caution_score_0_100": 4.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-northern-beaches",
+    "lga_slug": "northern-beaches",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Oberon",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 446.1,
+      "non_dv_assault": 232.0,
+      "robbery": 17.8,
+      "break_enter_dwelling": 71.4,
+      "break_enter_non_dwelling": 53.5,
+      "motor_vehicle_theft": 71.4,
+      "steal_from_vehicle": 35.7,
+      "retail_theft": 0.0,
+      "malicious_damage": 356.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 1.9,
+      "personal_safety_score_0_100": 35.8,
+      "overall_caution_score_0_100": 17.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-oberon",
+    "lga_slug": "oberon",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Orange",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 650.1,
+      "non_dv_assault": 600.8,
+      "robbery": 26.9,
+      "break_enter_dwelling": 499.9,
+      "break_enter_non_dwelling": 121.0,
+      "motor_vehicle_theft": 206.2,
+      "steal_from_vehicle": 520.1,
+      "retail_theft": 623.2,
+      "malicious_damage": 979.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 82.1,
+      "personal_safety_score_0_100": 71.7,
+      "overall_caution_score_0_100": 78.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-orange",
+    "lga_slug": "orange",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Parkes",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 969.4,
+      "non_dv_assault": 814.8,
+      "robbery": 7.0,
+      "break_enter_dwelling": 491.7,
+      "break_enter_non_dwelling": 210.7,
+      "motor_vehicle_theft": 435.5,
+      "steal_from_vehicle": 484.7,
+      "retail_theft": 569.0,
+      "malicious_damage": 990.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 87.7,
+      "personal_safety_score_0_100": 92.5,
+      "overall_caution_score_0_100": 88.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-parkes",
+    "lga_slug": "parkes",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Parramatta",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 331.3,
+      "non_dv_assault": 368.1,
+      "robbery": 22.2,
+      "break_enter_dwelling": 267.0,
+      "break_enter_non_dwelling": 78.9,
+      "motor_vehicle_theft": 137.5,
+      "steal_from_vehicle": 357.9,
+      "retail_theft": 499.0,
+      "malicious_damage": 377.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 51.9,
+      "personal_safety_score_0_100": 37.7,
+      "overall_caution_score_0_100": 43.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-parramatta",
+    "lga_slug": "parramatta",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (38/100) and property crime (52/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Penrith",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 531.4,
+      "non_dv_assault": 454.8,
+      "robbery": 34.5,
+      "break_enter_dwelling": 204.7,
+      "break_enter_non_dwelling": 113.7,
+      "motor_vehicle_theft": 195.0,
+      "steal_from_vehicle": 373.9,
+      "retail_theft": 554.1,
+      "malicious_damage": 683.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 65.1,
+      "personal_safety_score_0_100": 60.4,
+      "overall_caution_score_0_100": 64.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-penrith",
+    "lga_slug": "penrith",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (60/100) and property crime (65/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Port Macquarie-Hastings",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 537.2,
+      "non_dv_assault": 487.7,
+      "robbery": 14.3,
+      "break_enter_dwelling": 220.2,
+      "break_enter_non_dwelling": 133.2,
+      "motor_vehicle_theft": 154.1,
+      "steal_from_vehicle": 208.1,
+      "retail_theft": 346.8,
+      "malicious_damage": 652.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 49.1,
+      "personal_safety_score_0_100": 62.3,
+      "overall_caution_score_0_100": 58.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-port-macquarie-hastings",
+    "lga_slug": "port-macquarie-hastings",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (62/100) and property crime (49/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Port Stephens",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 651.4,
+      "non_dv_assault": 353.6,
+      "robbery": 13.9,
+      "break_enter_dwelling": 164.8,
+      "break_enter_non_dwelling": 88.7,
+      "motor_vehicle_theft": 197.7,
+      "steal_from_vehicle": 249.7,
+      "retail_theft": 174.9,
+      "malicious_damage": 593.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 38.7,
+      "personal_safety_score_0_100": 58.5,
+      "overall_caution_score_0_100": 50.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-port-stephens",
+    "lga_slug": "port-stephens",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (58/100) and property crime (39/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Randwick",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 214.4,
+      "non_dv_assault": 325.0,
+      "robbery": 18.7,
+      "break_enter_dwelling": 175.7,
+      "break_enter_non_dwelling": 42.2,
+      "motor_vehicle_theft": 159.8,
+      "steal_from_vehicle": 242.7,
+      "retail_theft": 273.9,
+      "malicious_damage": 422.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 33.0,
+      "personal_safety_score_0_100": 21.7,
+      "overall_caution_score_0_100": 24.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-randwick",
+    "lga_slug": "randwick",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Richmond Valley",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 707.3,
+      "non_dv_assault": 632.0,
+      "robbery": 29.3,
+      "break_enter_dwelling": 493.9,
+      "break_enter_non_dwelling": 146.5,
+      "motor_vehicle_theft": 397.6,
+      "steal_from_vehicle": 288.8,
+      "retail_theft": 217.6,
+      "malicious_damage": 820.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 68.9,
+      "personal_safety_score_0_100": 78.3,
+      "overall_caution_score_0_100": 74.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-richmond-valley",
+    "lga_slug": "richmond-valley",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (78/100) and property crime (69/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Ryde",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 217.9,
+      "non_dv_assault": 205.7,
+      "robbery": 7.2,
+      "break_enter_dwelling": 159.7,
+      "break_enter_non_dwelling": 50.3,
+      "motor_vehicle_theft": 76.2,
+      "steal_from_vehicle": 219.4,
+      "retail_theft": 325.1,
+      "malicious_damage": 275.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 19.8,
+      "personal_safety_score_0_100": 11.3,
+      "overall_caution_score_0_100": 14.2,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-ryde",
+    "lga_slug": "ryde",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Shellharbour",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 351.9,
+      "non_dv_assault": 267.3,
+      "robbery": 14.7,
+      "break_enter_dwelling": 201.1,
+      "break_enter_non_dwelling": 61.3,
+      "motor_vehicle_theft": 182.7,
+      "steal_from_vehicle": 331.0,
+      "retail_theft": 350.6,
+      "malicious_damage": 465.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 43.4,
+      "personal_safety_score_0_100": 30.2,
+      "overall_caution_score_0_100": 38.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-shellharbour",
+    "lga_slug": "shellharbour",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (30/100) and property crime (43/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Shoalhaven",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 526.2,
+      "non_dv_assault": 461.2,
+      "robbery": 11.7,
+      "break_enter_dwelling": 223.8,
+      "break_enter_non_dwelling": 80.3,
+      "motor_vehicle_theft": 175.1,
+      "steal_from_vehicle": 245.5,
+      "retail_theft": 450.3,
+      "malicious_damage": 751.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 60.4,
+      "personal_safety_score_0_100": 55.7,
+      "overall_caution_score_0_100": 61.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-shoalhaven",
+    "lga_slug": "shoalhaven",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (56/100) and property crime (60/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Singleton",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 604.5,
+      "non_dv_assault": 390.0,
+      "robbery": 19.5,
+      "break_enter_dwelling": 257.4,
+      "break_enter_non_dwelling": 152.1,
+      "motor_vehicle_theft": 280.8,
+      "steal_from_vehicle": 253.5,
+      "retail_theft": 187.2,
+      "malicious_damage": 624.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 54.7,
+      "personal_safety_score_0_100": 57.5,
+      "overall_caution_score_0_100": 54.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-singleton",
+    "lga_slug": "singleton",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (58/100) and property crime (55/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Snowy Valleys",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 528.3,
+      "non_dv_assault": 367.8,
+      "robbery": 0.0,
+      "break_enter_dwelling": 200.6,
+      "break_enter_non_dwelling": 140.4,
+      "motor_vehicle_theft": 173.9,
+      "steal_from_vehicle": 347.7,
+      "retail_theft": 100.3,
+      "malicious_damage": 675.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 46.2,
+      "personal_safety_score_0_100": 49.1,
+      "overall_caution_score_0_100": 47.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-snowy-valleys",
+    "lga_slug": "snowy-valleys",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (49/100) and property crime (46/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Strathfield",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 346.4,
+      "non_dv_assault": 296.9,
+      "robbery": 20.6,
+      "break_enter_dwelling": 276.3,
+      "break_enter_non_dwelling": 66.0,
+      "motor_vehicle_theft": 214.5,
+      "steal_from_vehicle": 342.3,
+      "retail_theft": 418.6,
+      "malicious_damage": 336.1
+    },
+    "scores": {
+      "property_crime_score_0_100": 47.2,
+      "personal_safety_score_0_100": 34.9,
+      "overall_caution_score_0_100": 39.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-strathfield",
+    "lga_slug": "strathfield",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (35/100) and property crime (47/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Sydney",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 500.7,
+      "non_dv_assault": 1217.6,
+      "robbery": 82.6,
+      "break_enter_dwelling": 267.2,
+      "break_enter_non_dwelling": 167.3,
+      "motor_vehicle_theft": 242.8,
+      "steal_from_vehicle": 362.9,
+      "retail_theft": 1241.2,
+      "malicious_damage": 901.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 88.7,
+      "personal_safety_score_0_100": 93.4,
+      "overall_caution_score_0_100": 90.6,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-sydney",
+    "lga_slug": "sydney",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Temora",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 182.6,
+      "non_dv_assault": 232.4,
+      "robbery": 16.6,
+      "break_enter_dwelling": 149.4,
+      "break_enter_non_dwelling": 166.0,
+      "motor_vehicle_theft": 83.0,
+      "steal_from_vehicle": 249.0,
+      "retail_theft": 166.0,
+      "malicious_damage": 365.3
+    },
+    "scores": {
+      "property_crime_score_0_100": 26.4,
+      "personal_safety_score_0_100": 12.3,
+      "overall_caution_score_0_100": 16.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-temora",
+    "lga_slug": "temora",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Tenterfield",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 917.9,
+      "non_dv_assault": 367.2,
+      "robbery": 0.0,
+      "break_enter_dwelling": 508.4,
+      "break_enter_non_dwelling": 338.9,
+      "motor_vehicle_theft": 437.8,
+      "steal_from_vehicle": 183.6,
+      "retail_theft": 84.7,
+      "malicious_damage": 1327.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 81.1,
+      "personal_safety_score_0_100": 72.6,
+      "overall_caution_score_0_100": 76.4,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-tenterfield",
+    "lga_slug": "tenterfield",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Tweed",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 351.7,
+      "non_dv_assault": 416.9,
+      "robbery": 12.0,
+      "break_enter_dwelling": 182.4,
+      "break_enter_non_dwelling": 100.2,
+      "motor_vehicle_theft": 202.4,
+      "steal_from_vehicle": 359.7,
+      "retail_theft": 635.3,
+      "malicious_damage": 600.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 64.2,
+      "personal_safety_score_0_100": 46.2,
+      "overall_caution_score_0_100": 50.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-tweed",
+    "lga_slug": "tweed",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (46/100) and property crime (64/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Uralla",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 328.1,
+      "non_dv_assault": 213.3,
+      "robbery": 16.4,
+      "break_enter_dwelling": 229.7,
+      "break_enter_non_dwelling": 229.7,
+      "motor_vehicle_theft": 147.6,
+      "steal_from_vehicle": 246.1,
+      "retail_theft": 16.4,
+      "malicious_damage": 672.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 40.6,
+      "personal_safety_score_0_100": 20.8,
+      "overall_caution_score_0_100": 31.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-uralla",
+    "lga_slug": "uralla",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (21/100) and property crime (41/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Wagga Wagga",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 672.9,
+      "non_dv_assault": 645.4,
+      "robbery": 30.5,
+      "break_enter_dwelling": 533.7,
+      "break_enter_non_dwelling": 114.6,
+      "motor_vehicle_theft": 239.3,
+      "steal_from_vehicle": 559.8,
+      "retail_theft": 517.8,
+      "malicious_damage": 1032.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 84.0,
+      "personal_safety_score_0_100": 75.5,
+      "overall_caution_score_0_100": 80.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-wagga-wagga",
+    "lga_slug": "wagga-wagga",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Walgett",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 2710.6,
+      "non_dv_assault": 1419.0,
+      "robbery": 18.2,
+      "break_enter_dwelling": 1673.6,
+      "break_enter_non_dwelling": 436.6,
+      "motor_vehicle_theft": 545.8,
+      "steal_from_vehicle": 764.1,
+      "retail_theft": 382.0,
+      "malicious_damage": 2419.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 99.1,
+      "personal_safety_score_0_100": 100.0,
+      "overall_caution_score_0_100": 99.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-walgett",
+    "lga_slug": "walgett",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Waverley",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 288.2,
+      "non_dv_assault": 329.4,
+      "robbery": 12.4,
+      "break_enter_dwelling": 122.2,
+      "break_enter_non_dwelling": 59.0,
+      "motor_vehicle_theft": 155.1,
+      "steal_from_vehicle": 115.3,
+      "retail_theft": 711.0,
+      "malicious_damage": 403.5
+    },
+    "scores": {
+      "property_crime_score_0_100": 42.5,
+      "personal_safety_score_0_100": 28.3,
+      "overall_caution_score_0_100": 36.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-waverley",
+    "lga_slug": "waverley",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (28/100) and property crime (42/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Weddin",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 526.6,
+      "non_dv_assault": 221.7,
+      "robbery": 0.0,
+      "break_enter_dwelling": 55.4,
+      "break_enter_non_dwelling": 138.6,
+      "motor_vehicle_theft": 138.6,
+      "steal_from_vehicle": 138.6,
+      "retail_theft": 83.1,
+      "malicious_damage": 388.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 15.1,
+      "personal_safety_score_0_100": 40.6,
+      "overall_caution_score_0_100": 29.2,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-weddin",
+    "lga_slug": "weddin",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (41/100) and property crime (15/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Wentworth",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 1383.9,
+      "non_dv_assault": 358.8,
+      "robbery": 25.6,
+      "break_enter_dwelling": 435.7,
+      "break_enter_non_dwelling": 281.9,
+      "motor_vehicle_theft": 397.2,
+      "steal_from_vehicle": 384.4,
+      "retail_theft": 205.0,
+      "malicious_damage": 1332.6
+    },
+    "scores": {
+      "property_crime_score_0_100": 85.8,
+      "personal_safety_score_0_100": 91.5,
+      "overall_caution_score_0_100": 87.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-wentworth",
+    "lga_slug": "wentworth",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Willoughby",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 136.9,
+      "non_dv_assault": 249.9,
+      "robbery": 12.6,
+      "break_enter_dwelling": 123.1,
+      "break_enter_non_dwelling": 79.1,
+      "motor_vehicle_theft": 38.9,
+      "steal_from_vehicle": 135.6,
+      "retail_theft": 636.7,
+      "malicious_damage": 247.4
+    },
+    "scores": {
+      "property_crime_score_0_100": 30.2,
+      "personal_safety_score_0_100": 7.5,
+      "overall_caution_score_0_100": 17.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-willoughby",
+    "lga_slug": "willoughby",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Wingecarribee",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 164.3,
+      "non_dv_assault": 257.7,
+      "robbery": 1.9,
+      "break_enter_dwelling": 84.0,
+      "break_enter_non_dwelling": 31.7,
+      "motor_vehicle_theft": 54.2,
+      "steal_from_vehicle": 84.0,
+      "retail_theft": 100.8,
+      "malicious_damage": 341.7
+    },
+    "scores": {
+      "property_crime_score_0_100": 3.8,
+      "personal_safety_score_0_100": 9.4,
+      "overall_caution_score_0_100": 6.6,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-wingecarribee",
+    "lga_slug": "wingecarribee",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Wollondilly",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 316.1,
+      "non_dv_assault": 195.7,
+      "robbery": 1.7,
+      "break_enter_dwelling": 83.6,
+      "break_enter_non_dwelling": 21.7,
+      "motor_vehicle_theft": 128.8,
+      "steal_from_vehicle": 110.4,
+      "retail_theft": 46.8,
+      "malicious_damage": 317.8
+    },
+    "scores": {
+      "property_crime_score_0_100": 4.7,
+      "personal_safety_score_0_100": 17.0,
+      "overall_caution_score_0_100": 9.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-wollondilly",
+    "lga_slug": "wollondilly",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Wollongong",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 388.5,
+      "non_dv_assault": 342.5,
+      "robbery": 21.2,
+      "break_enter_dwelling": 216.8,
+      "break_enter_non_dwelling": 108.6,
+      "motor_vehicle_theft": 190.2,
+      "steal_from_vehicle": 371.3,
+      "retail_theft": 506.1,
+      "malicious_damage": 573.2
+    },
+    "scores": {
+      "property_crime_score_0_100": 62.3,
+      "personal_safety_score_0_100": 41.5,
+      "overall_caution_score_0_100": 46.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-wollongong",
+    "lga_slug": "wollongong",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative crime context across personal safety (42/100) and property crime (62/100) compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Woollahra",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 181.2,
+      "non_dv_assault": 224.7,
+      "robbery": 1.8,
+      "break_enter_dwelling": 148.6,
+      "break_enter_non_dwelling": 45.3,
+      "motor_vehicle_theft": 108.7,
+      "steal_from_vehicle": 143.2,
+      "retail_theft": 224.7,
+      "malicious_damage": 309.9
+    },
+    "scores": {
+      "property_crime_score_0_100": 18.9,
+      "personal_safety_score_0_100": 8.5,
+      "overall_caution_score_0_100": 10.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-woollahra",
+    "lga_slug": "woollahra",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  },
+  {
+    "state": "NSW",
+    "geo_type": "LGA",
+    "lga": "Yass Valley",
+    "source": "BOCSAR LGA crime tables",
+    "period": "2025",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_per_100k": {
+      "dv_assault": 306.0,
+      "non_dv_assault": 164.3,
+      "robbery": 0.0,
+      "break_enter_dwelling": 62.3,
+      "break_enter_non_dwelling": 102.0,
+      "motor_vehicle_theft": 96.3,
+      "steal_from_vehicle": 73.7,
+      "retail_theft": 62.3,
+      "malicious_damage": 391.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 8.5,
+      "personal_safety_score_0_100": 15.1,
+      "overall_caution_score_0_100": 8.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NSW LGAs using selected BOCSAR offence rates",
+      "warning": "This is LGA-level crime context, not true suburb-level crime."
+    },
+    "id": "nsw-lga-yass-valley",
+    "lga_slug": "yass-valley",
+    "dataset_version": "2025_bocsar_lga",
+    "generated_at": "2026-03-21",
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative crime context compared with other NSW LGAs."
+    }
+  }
+]

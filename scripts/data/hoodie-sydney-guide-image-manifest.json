@@ -1,0 +1,554 @@
+[
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Historical Places in Sydney",
+    "source_page_url": "https://mhnsw.au/visit-us/hyde-park-barracks/",
+    "source_image_url": "https://images.slm.com.au/fotoweb/embed/2023/08/fc507a60bb944ec9bdfea4c69851143e.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/cover.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Hyde Park Barracks",
+    "source_page_url": "https://mhnsw.au/visit-us/hyde-park-barracks/",
+    "source_image_url": "https://images.slm.com.au/fotoweb/embed/2023/08/fc507a60bb944ec9bdfea4c69851143e.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-01-hyde-park-barracks.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Susannah Place Museum",
+    "source_page_url": "https://en.wikipedia.org/wiki/Susannah_Place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The-Rocks.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-02-susannah-place-museum.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Cadmans Cottage",
+    "source_page_url": "https://en.wikipedia.org/wiki/Cadmans_Cottage",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Front_of_Cadman%27s_Cottage.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-03-cadmans-cottage.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Sydney Observatory",
+    "source_page_url": "https://en.wikipedia.org/wiki/Sydney_Observatory",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ObservatorySydney1874.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-04-sydney-observatory.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Elizabeth Bay House",
+    "source_page_url": "https://mhnsw.au/visit-us/elizabeth-bay-house/",
+    "source_image_url": "https://images.slm.com.au/fotoweb/embed/2022/10/404a813f4de941799e0170c258e569a7.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-05-elizabeth-bay-house.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Vaucluse House",
+    "source_page_url": "https://mhnsw.au/visit-us/vaucluse-house/",
+    "source_image_url": "https://images.slm.com.au/fotoweb/embed/2023/10/21236017a6d64796a419822122d4cc7d.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-06-vaucluse-house.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Old Government House",
+    "source_page_url": "https://www.nationaltrust.org.au/places/old-government-house/",
+    "source_image_url": "https://www.nationaltrust.org.au/wp-content/uploads/2015/09/Old-Government-House-01-Jonathan-Miller.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-07-old-government-house.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Cockatoo Island",
+    "source_page_url": "https://en.wikipedia.org/wiki/Cockatoo_Island_Industrial_Conservation_Area",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Australia_sydney_cockatoo_island_shipyard.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-08-cockatoo-island.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Fort Denison",
+    "source_page_url": "https://en.wikipedia.org/wiki/Fort_Denison",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Denison_%28Pinchgut%29_SLNSW_FL1230991.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-09-fort-denison.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-historical-places",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Q Station",
+    "source_page_url": "https://en.wikipedia.org/wiki/North_Head_Quarantine_Station",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Q_Station%2Bwhales.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-historical-places/place-10-q-station.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunrise Spots in Sydney",
+    "source_page_url": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney_Australia._%2821339175489%29.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Mrs Macquarie's Chair",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mrs_Macquarie%27s_Chair",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mrs_Macquarie%27s_Chair_2013.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-01-mrs-macquarie-s-chair.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Observatory Park",
+    "source_page_url": "https://www.cityofsydney.nsw.gov.au/parks/observatory-park",
+    "source_image_url": "https://www.cityofsydney.nsw.gov.au/-/media/corporate/images/places-and-spaces/parks/observatory-hill-park/cos-csps-item-a-010.jpg?h=3840&iar=0&w=5760&hash=69DB5BCD3CC56C8F08F2878783F95115",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-02-observatory-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "North Head",
+    "source_page_url": "https://en.wikipedia.org/wiki/North_Head,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AerialViewNorthHead%2C_Sydney.png?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-03-north-head.png",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Barrenjoey Lighthouse",
+    "source_page_url": "https://en.wikipedia.org/wiki/Barrenjoey_Head_Lighthouse",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BarrenjoeyLighthouse.JPG?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-04-barrenjoey-lighthouse.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Bondi Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Bondi_Beach",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bondi_from_above.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-05-bondi-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Coogee Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Coogee,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%281%29Coogee_Beach_001.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-06-coogee-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Manly Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Manly_Beach",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Summer_days_at_Manly_Beach.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-07-manly-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Hornby Lighthouse",
+    "source_page_url": "https://en.wikipedia.org/wiki/Hornby_Lighthouse",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hornby_Light_2010.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-08-hornby-lighthouse.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Bradleys Head Amphitheatre",
+    "source_page_url": "https://en.wikipedia.org/wiki/Bradleys_Head",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradleys_Head%2C_Mosman.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-09-bradleys-head-amphitheatre.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunrise-spots",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Palm Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Palm_Beach,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palm_Beach_from_the_Barrenjoey_Lighthouse_b_%28cropped%29.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunrise-spots/place-10-palm-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunset Spots in Sydney",
+    "source_page_url": "https://en.wikipedia.org/wiki/Blues_Point",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blues_point_tower.JPG?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Barangaroo Reserve",
+    "source_page_url": "https://en.wikipedia.org/wiki/Barangaroo,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barangaroo_waterfront%2C_May_2023_-_IMG_6066_%282%29.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-01-barangaroo-reserve.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Observatory Park",
+    "source_page_url": "https://www.cityofsydney.nsw.gov.au/parks/observatory-park",
+    "source_image_url": "https://www.cityofsydney.nsw.gov.au/-/media/corporate/images/places-and-spaces/parks/observatory-hill-park/cos-csps-item-a-010.jpg?h=3840&iar=0&w=5760&hash=69DB5BCD3CC56C8F08F2878783F95115",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-02-observatory-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Blues Point Reserve",
+    "source_page_url": "https://en.wikipedia.org/wiki/Blues_Point",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blues_point_tower.JPG?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-03-blues-point-reserve.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Dudley Page Reserve",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Dudley_Page_Reserve.jpg",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dudley%20Page%20Reserve.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-04-dudley-page-reserve.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Pirrama Park",
+    "source_page_url": "https://en.wikipedia.org/wiki/Pyrmont,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Appartment_buildings_near_Pirrama_Park%2C_Sydney%2C_Australia_-_looking_towards_ANZAC_Bridge_%2835265182890%29_%28cropped%29.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-05-pirrama-park.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Balls Head Reserve",
+    "source_page_url": "https://en.wikipedia.org/wiki/Balls_Head_Reserve",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angophora_costata_Balls_Head.JPG?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-06-balls-head-reserve.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Cremorne Point",
+    "source_page_url": "https://en.wikipedia.org/wiki/Cremorne_Point",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cremorne_Point_-_panoramio_%282%29.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-07-cremorne-point.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Georges Head",
+    "source_page_url": "https://en.wikipedia.org/wiki/Georges_Head_Battery",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MiddleGeorgeshedfort0094.JPG?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-08-georges-head.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Bradleys Head Amphitheatre",
+    "source_page_url": "https://en.wikipedia.org/wiki/Bradleys_Head",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradleys_Head%2C_Mosman.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-09-bradleys-head-amphitheatre.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-sunset-spots",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Mrs Macquarie's Point",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mrs_Macquarie%27s_Chair",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mrs_Macquarie%27s_Chair_2013.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-sunset-spots/place-10-mrs-macquarie-s-point.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Weekend Getaways from Sydney",
+    "source_page_url": "https://en.wikipedia.org/wiki/Blue_Mountains_(New_South_Wales)",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three_Sisters_Sunset.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Blue Mountains",
+    "source_page_url": "https://en.wikipedia.org/wiki/Blue_Mountains_(New_South_Wales)",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three_Sisters_Sunset.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-01-blue-mountains.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Bowral",
+    "source_page_url": "https://en.wikipedia.org/wiki/Bowral",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bowral_NSW_2576%2C_Australia_-_panoramio_%28106%29.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-02-bowral.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Kiama",
+    "source_page_url": "https://en.wikipedia.org/wiki/Kiama,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-09-02_Kiama%2C_NSW.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-03-kiama.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Berry",
+    "source_page_url": "https://berry.org.au/",
+    "source_image_url": "https://berry.org.au/wp-content/uploads/2017/04/berry-south-coast-nsw-banner.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-04-berry.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Kangaroo Valley",
+    "source_page_url": "https://en.wikipedia.org/wiki/Kangaroo_Valley,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kangaroo_Valley%2C_main_street.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-05-kangaroo-valley.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Newcastle",
+    "source_page_url": "https://en.wikipedia.org/wiki/Newcastle,_New_South_Wales",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Custom_House%2C_Newcastle.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-06-newcastle.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Hunter Valley",
+    "source_page_url": "https://en.wikipedia.org/wiki/Hunter_Valley_wine_region",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hunter_Valley_Means_Vineyards.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-07-hunter-valley.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Port Stephens",
+    "source_page_url": "https://en.wikipedia.org/wiki/Port_Stephens_(New_South_Wales)",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winda_woppa.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-08-port-stephens.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Jervis Bay",
+    "source_page_url": "https://en.wikipedia.org/wiki/Jervis_Bay",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyams_Beach._Booderee_National_Park_%26_Jervis_Bay_Marine_Park.jpg?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-09-jervis-bay.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "sydneys-10-best-weekend-getaways",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Booderee National Park",
+    "source_page_url": "https://en.wikipedia.org/wiki/Booderee_National_Park_and_Botanic_Gardens",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Booderee_National_Park_and_Botanical_Gardens_-_Cliffs.JPG?width=1600",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/sydneys-10-best-weekend-getaways/place-10-booderee-national-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "Top 10 Indian Restaurants in Sydney",
+    "source_page_url": "https://www.chatkazz.com.au/indian-restaurant-harris-park",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/5f55b1e194de9f314da6d8f2/1666131919801-BWVGJFVZ4GHA1SIOU3ZL/Chatkazz_LeighGriffiths-43.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/cover.jpg",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Chatkaaz (Chatkazz Harris Park)"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Chatkaaz (Chatkazz Harris Park)",
+    "source_page_url": "https://www.chatkazz.com.au/indian-restaurant-harris-park",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/5f55b1e194de9f314da6d8f2/1666131919801-BWVGJFVZ4GHA1SIOU3ZL/Chatkazz_LeighGriffiths-43.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-01-chatkaaz-chatkazz-harris-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Abhi's Indian Restaurant",
+    "source_page_url": "https://www.abhisindian.com.au/",
+    "source_image_url": "https://static.wixstatic.com/media/49c28c_f0c6a360a331412aa92cec0e553e6375~mv2.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-02-abhi-s-indian-restaurant.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Malabar Darlinghurst",
+    "source_page_url": "https://malabarcuisine.com.au/darlinghurst/",
+    "source_image_url": "https://malabarcuisine.com.au/darlinghurst/wp-content/uploads/sites/2/2024/02/Malabar-Darlinghurst.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-03-malabar-darlinghurst.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Kolkata Social",
+    "source_page_url": "https://plateitforward.org.au/kolkata-social/",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/68acf95a80ff9157954a663f/943c6e5e-c837-4d44-8161-742c9e3178d5/Kolkata_Social_Sep25_Credit_Jorge_Santos-46.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-04-kolkata-social.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Foreign Return",
+    "source_page_url": "https://www.foreignreturn.com.au/",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/5fa331ee5600b32177759fa6/1731676863313-PMP31LPSPUQIATQ9S9BO/014A8554+%281%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-05-foreign-return.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "The Spice Room",
+    "source_page_url": "https://www.bestrestaurants.com.au/nsw/sydney/circular-quay/restaurant/the-spice-room",
+    "source_image_url": "https://www.bestrestaurants.com.au/media/kaibfilh/2.jpg?width=1200&height=630&mode=crop&v=1d81fdf0035e610",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-06-the-spice-room.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Nilgiri's",
+    "source_page_url": "https://concreteplayground.com/sydney/restaurants/nilgiris",
+    "source_image_url": "https://cdn.concreteplayground.com/content/uploads/2020/05/Nilgiris-cremorne-google-1920x1080.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-07-nilgiri-s.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "The Grand Palace Indian Restaurant",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:The_Grand_Palace_-_Indian_Restaurant.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Grand_Palace_-_Indian_Restaurant.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-08-the-grand-palace-indian-restaurant.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Billu's Indian Eatery",
+    "source_page_url": "https://www.billu.com.au/",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/664d3debe549481cfbff5ab7/e9c6cd22-665c-4928-9fbb-a44703ffbcdd/Billu%27s+Indian+Restaurant+Harris+Park-54.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-09-billu-s-indian-eatery.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "top-10-indian-restaurants-sydney",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Dosa Hut Harris Park",
+    "source_page_url": "https://www.dosahut.net.au/menu/harris-park/",
+    "source_image_url": "https://www.dosahut.net.au/wp-content/uploads/2024/02/Dosa-Hut-Table-Catering-2-1.png",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-indian-restaurants-sydney/place-10-dosa-hut-harris-park.png",
+    "match_type": "exact"
+  }
+]

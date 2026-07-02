@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "vic-lga-alpine",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Alpine",
+    "lga_slug": "alpine",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 40.0,
+      "non_dv_assault": 28.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 29.0,
+      "motor_vehicle_theft": 16.0,
+      "steal_from_vehicle": 36.0,
+      "retail_theft": 6.0,
+      "malicious_damage": 62.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 10.1,
+      "personal_safety_score_0_100": 16.5,
+      "overall_caution_score_0_100": 11.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-ararat",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Ararat",
+    "lga_slug": "ararat",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 98.0,
+      "non_dv_assault": 52.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 108.0,
+      "motor_vehicle_theft": 39.0,
+      "steal_from_vehicle": 67.0,
+      "retail_theft": 82.0,
+      "malicious_damage": 137.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 30.4,
+      "personal_safety_score_0_100": 29.1,
+      "overall_caution_score_0_100": 27.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (29/100) and property crime (30/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-ballarat",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Ballarat",
+    "lga_slug": "ballarat",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 636.0,
+      "non_dv_assault": 495.0,
+      "robbery": 57.0,
+      "break_enter_dwelling": 881.0,
+      "motor_vehicle_theft": 769.0,
+      "steal_from_vehicle": 1696.0,
+      "retail_theft": 1001.0,
+      "malicious_damage": 1396.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 77.2,
+      "personal_safety_score_0_100": 83.5,
+      "overall_caution_score_0_100": 79.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-banyule",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Banyule",
+    "lga_slug": "banyule",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 295.0,
+      "non_dv_assault": 324.0,
+      "robbery": 54.0,
+      "break_enter_dwelling": 869.0,
+      "motor_vehicle_theft": 500.0,
+      "steal_from_vehicle": 1530.0,
+      "retail_theft": 608.0,
+      "malicious_damage": 848.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 68.4,
+      "personal_safety_score_0_100": 62.0,
+      "overall_caution_score_0_100": 67.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (62/100) and property crime (68/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-bass-coast",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Bass Coast",
+    "lga_slug": "bass-coast",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 251.0,
+      "non_dv_assault": 121.0,
+      "robbery": 6.0,
+      "break_enter_dwelling": 293.0,
+      "motor_vehicle_theft": 122.0,
+      "steal_from_vehicle": 178.0,
+      "retail_theft": 166.0,
+      "malicious_damage": 366.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 46.8,
+      "personal_safety_score_0_100": 50.6,
+      "overall_caution_score_0_100": 46.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (51/100) and property crime (47/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-baw-baw",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Baw Baw",
+    "lga_slug": "baw-baw",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 308.0,
+      "non_dv_assault": 200.0,
+      "robbery": 16.0,
+      "break_enter_dwelling": 361.0,
+      "motor_vehicle_theft": 183.0,
+      "steal_from_vehicle": 513.0,
+      "retail_theft": 179.0,
+      "malicious_damage": 517.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 54.4,
+      "personal_safety_score_0_100": 54.4,
+      "overall_caution_score_0_100": 51.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (54/100) and property crime (54/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-bayside",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Bayside",
+    "lga_slug": "bayside",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 179.0,
+      "non_dv_assault": 164.0,
+      "robbery": 25.0,
+      "break_enter_dwelling": 713.0,
+      "motor_vehicle_theft": 440.0,
+      "steal_from_vehicle": 940.0,
+      "retail_theft": 340.0,
+      "malicious_damage": 423.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 58.2,
+      "personal_safety_score_0_100": 48.1,
+      "overall_caution_score_0_100": 57.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (48/100) and property crime (58/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-benalla",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Benalla",
+    "lga_slug": "benalla",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 85.0,
+      "non_dv_assault": 50.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 85.0,
+      "motor_vehicle_theft": 35.0,
+      "steal_from_vehicle": 58.0,
+      "retail_theft": 39.0,
+      "malicious_damage": 170.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 25.9,
+      "personal_safety_score_0_100": 25.3,
+      "overall_caution_score_0_100": 26.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (25/100) and property crime (26/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-boroondara",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Boroondara",
+    "lga_slug": "boroondara",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 252.0,
+      "non_dv_assault": 315.0,
+      "robbery": 57.0,
+      "break_enter_dwelling": 1409.0,
+      "motor_vehicle_theft": 712.0,
+      "steal_from_vehicle": 1993.0,
+      "retail_theft": 758.0,
+      "malicious_damage": 717.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 75.9,
+      "personal_safety_score_0_100": 58.2,
+      "overall_caution_score_0_100": 72.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (58/100) and property crime (76/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-brimbank",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Brimbank",
+    "lga_slug": "brimbank",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 748.0,
+      "non_dv_assault": 639.0,
+      "robbery": 156.0,
+      "break_enter_dwelling": 1256.0,
+      "motor_vehicle_theft": 1295.0,
+      "steal_from_vehicle": 3250.0,
+      "retail_theft": 585.0,
+      "malicious_damage": 1429.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 89.9,
+      "personal_safety_score_0_100": 92.4,
+      "overall_caution_score_0_100": 92.4,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-buloke",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Buloke",
+    "lga_slug": "buloke",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 9.0,
+      "non_dv_assault": 12.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 32.0,
+      "motor_vehicle_theft": 16.0,
+      "steal_from_vehicle": 36.0,
+      "retail_theft": 5.0,
+      "malicious_damage": 27.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 8.9,
+      "personal_safety_score_0_100": 3.8,
+      "overall_caution_score_0_100": 6.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-campaspe",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Campaspe",
+    "lga_slug": "campaspe",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 212.0,
+      "non_dv_assault": 155.0,
+      "robbery": 5.0,
+      "break_enter_dwelling": 258.0,
+      "motor_vehicle_theft": 114.0,
+      "steal_from_vehicle": 215.0,
+      "retail_theft": 390.0,
+      "malicious_damage": 361.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 48.1,
+      "personal_safety_score_0_100": 49.4,
+      "overall_caution_score_0_100": 48.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (49/100) and property crime (48/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-cardinia",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Cardinia",
+    "lga_slug": "cardinia",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 550.0,
+      "non_dv_assault": 274.0,
+      "robbery": 76.0,
+      "break_enter_dwelling": 602.0,
+      "motor_vehicle_theft": 463.0,
+      "steal_from_vehicle": 1133.0,
+      "retail_theft": 502.0,
+      "malicious_damage": 767.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 63.3,
+      "personal_safety_score_0_100": 70.9,
+      "overall_caution_score_0_100": 65.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (71/100) and property crime (63/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-casey",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Casey",
+    "lga_slug": "casey",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2081.0,
+      "non_dv_assault": 1064.0,
+      "robbery": 265.0,
+      "break_enter_dwelling": 2126.0,
+      "motor_vehicle_theft": 2014.0,
+      "steal_from_vehicle": 4494.0,
+      "retail_theft": 1905.0,
+      "malicious_damage": 2429.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 98.7,
+      "personal_safety_score_0_100": 98.7,
+      "overall_caution_score_0_100": 98.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-central-goldfields",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Central Goldfields",
+    "lga_slug": "central-goldfields",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 90.0,
+      "non_dv_assault": 79.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 68.0,
+      "motor_vehicle_theft": 38.0,
+      "steal_from_vehicle": 40.0,
+      "retail_theft": 91.0,
+      "malicious_damage": 149.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 25.9,
+      "personal_safety_score_0_100": 30.4,
+      "overall_caution_score_0_100": 29.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (30/100) and property crime (26/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-colac-otway",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Colac-Otway",
+    "lga_slug": "colac-otway",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 114.0,
+      "non_dv_assault": 64.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 94.0,
+      "motor_vehicle_theft": 27.0,
+      "steal_from_vehicle": 101.0,
+      "retail_theft": 78.0,
+      "malicious_damage": 158.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 31.6,
+      "personal_safety_score_0_100": 31.6,
+      "overall_caution_score_0_100": 32.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (32/100) and property crime (32/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-corangamite",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Corangamite",
+    "lga_slug": "corangamite",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 63.0,
+      "non_dv_assault": 27.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 81.0,
+      "motor_vehicle_theft": 35.0,
+      "steal_from_vehicle": 60.0,
+      "retail_theft": 28.0,
+      "malicious_damage": 84.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 21.5,
+      "personal_safety_score_0_100": 22.8,
+      "overall_caution_score_0_100": 21.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-darebin",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Darebin",
+    "lga_slug": "darebin",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 403.0,
+      "non_dv_assault": 498.0,
+      "robbery": 100.0,
+      "break_enter_dwelling": 1368.0,
+      "motor_vehicle_theft": 1110.0,
+      "steal_from_vehicle": 3239.0,
+      "retail_theft": 1519.0,
+      "malicious_damage": 1398.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 92.4,
+      "personal_safety_score_0_100": 79.7,
+      "overall_caution_score_0_100": 89.9,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-east-gippsland",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "East Gippsland",
+    "lga_slug": "east-gippsland",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 498.0,
+      "non_dv_assault": 268.0,
+      "robbery": 9.0,
+      "break_enter_dwelling": 223.0,
+      "motor_vehicle_theft": 117.0,
+      "steal_from_vehicle": 258.0,
+      "retail_theft": 327.0,
+      "malicious_damage": 631.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 51.9,
+      "personal_safety_score_0_100": 63.3,
+      "overall_caution_score_0_100": 54.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (63/100) and property crime (52/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-frankston",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Frankston",
+    "lga_slug": "frankston",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 728.0,
+      "non_dv_assault": 597.0,
+      "robbery": 78.0,
+      "break_enter_dwelling": 981.0,
+      "motor_vehicle_theft": 695.0,
+      "steal_from_vehicle": 2174.0,
+      "retail_theft": 1117.0,
+      "malicious_damage": 1450.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 82.3,
+      "personal_safety_score_0_100": 88.6,
+      "overall_caution_score_0_100": 84.8,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-gannawarra",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Gannawarra",
+    "lga_slug": "gannawarra",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 47.0,
+      "non_dv_assault": 30.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 39.0,
+      "motor_vehicle_theft": 32.0,
+      "steal_from_vehicle": 35.0,
+      "retail_theft": 9.0,
+      "malicious_damage": 75.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 13.9,
+      "personal_safety_score_0_100": 20.3,
+      "overall_caution_score_0_100": 16.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-glen-eira",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Glen Eira",
+    "lga_slug": "glen-eira",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 316.0,
+      "non_dv_assault": 266.0,
+      "robbery": 64.0,
+      "break_enter_dwelling": 828.0,
+      "motor_vehicle_theft": 523.0,
+      "steal_from_vehicle": 1491.0,
+      "retail_theft": 441.0,
+      "malicious_damage": 617.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 67.1,
+      "personal_safety_score_0_100": 60.8,
+      "overall_caution_score_0_100": 64.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (61/100) and property crime (67/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-glenelg",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Glenelg",
+    "lga_slug": "glenelg",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 155.0,
+      "non_dv_assault": 66.0,
+      "robbery": 11.0,
+      "break_enter_dwelling": 152.0,
+      "motor_vehicle_theft": 77.0,
+      "steal_from_vehicle": 135.0,
+      "retail_theft": 71.0,
+      "malicious_damage": 295.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 38.0,
+      "personal_safety_score_0_100": 38.0,
+      "overall_caution_score_0_100": 36.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (38/100) and property crime (38/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-golden-plains",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Golden Plains",
+    "lga_slug": "golden-plains",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 56.0,
+      "non_dv_assault": 19.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 76.0,
+      "motor_vehicle_theft": 43.0,
+      "steal_from_vehicle": 57.0,
+      "retail_theft": 18.0,
+      "malicious_damage": 90.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 20.3,
+      "personal_safety_score_0_100": 18.4,
+      "overall_caution_score_0_100": 19.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-greater-bendigo",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Greater Bendigo",
+    "lga_slug": "greater-bendigo",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 589.0,
+      "non_dv_assault": 537.0,
+      "robbery": 42.0,
+      "break_enter_dwelling": 633.0,
+      "motor_vehicle_theft": 374.0,
+      "steal_from_vehicle": 779.0,
+      "retail_theft": 903.0,
+      "malicious_damage": 1088.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 65.8,
+      "personal_safety_score_0_100": 82.3,
+      "overall_caution_score_0_100": 70.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (82/100) and property crime (66/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-greater-dandenong",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Greater Dandenong",
+    "lga_slug": "greater-dandenong",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 942.0,
+      "non_dv_assault": 832.0,
+      "robbery": 169.0,
+      "break_enter_dwelling": 1397.0,
+      "motor_vehicle_theft": 1314.0,
+      "steal_from_vehicle": 3110.0,
+      "retail_theft": 1377.0,
+      "malicious_damage": 1863.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 93.7,
+      "personal_safety_score_0_100": 93.7,
+      "overall_caution_score_0_100": 93.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-greater-geelong",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Greater Geelong",
+    "lga_slug": "greater-geelong",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 1079.0,
+      "non_dv_assault": 908.0,
+      "robbery": 98.0,
+      "break_enter_dwelling": 1579.0,
+      "motor_vehicle_theft": 891.0,
+      "steal_from_vehicle": 2463.0,
+      "retail_theft": 2051.0,
+      "malicious_damage": 2269.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 96.2,
+      "personal_safety_score_0_100": 96.2,
+      "overall_caution_score_0_100": 94.9,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-greater-shepparton",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Greater Shepparton",
+    "lga_slug": "greater-shepparton",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 521.0,
+      "non_dv_assault": 376.0,
+      "robbery": 33.0,
+      "break_enter_dwelling": 639.0,
+      "motor_vehicle_theft": 341.0,
+      "steal_from_vehicle": 587.0,
+      "retail_theft": 799.0,
+      "malicious_damage": 831.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 60.8,
+      "personal_safety_score_0_100": 74.7,
+      "overall_caution_score_0_100": 63.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (75/100) and property crime (61/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-hepburn",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Hepburn",
+    "lga_slug": "hepburn",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 33.0,
+      "non_dv_assault": 28.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 79.0,
+      "motor_vehicle_theft": 44.0,
+      "steal_from_vehicle": 126.0,
+      "retail_theft": 33.0,
+      "malicious_damage": 87.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 24.1,
+      "personal_safety_score_0_100": 15.2,
+      "overall_caution_score_0_100": 22.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-hindmarsh",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Hindmarsh",
+    "lga_slug": "hindmarsh",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 16.0,
+      "non_dv_assault": 10.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 24.0,
+      "motor_vehicle_theft": 3.0,
+      "steal_from_vehicle": 7.0,
+      "retail_theft": 5.0,
+      "malicious_damage": 27.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 3.8,
+      "personal_safety_score_0_100": 5.1,
+      "overall_caution_score_0_100": 3.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-hobsons-bay",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Hobsons Bay",
+    "lga_slug": "hobsons-bay",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 263.0,
+      "non_dv_assault": 243.0,
+      "robbery": 52.0,
+      "break_enter_dwelling": 566.0,
+      "motor_vehicle_theft": 531.0,
+      "steal_from_vehicle": 1290.0,
+      "retail_theft": 636.0,
+      "malicious_damage": 611.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 64.6,
+      "personal_safety_score_0_100": 55.7,
+      "overall_caution_score_0_100": 59.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (56/100) and property crime (65/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-horsham",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Horsham",
+    "lga_slug": "horsham",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 169.0,
+      "non_dv_assault": 131.0,
+      "robbery": 8.0,
+      "break_enter_dwelling": 89.0,
+      "motor_vehicle_theft": 22.0,
+      "steal_from_vehicle": 50.0,
+      "retail_theft": 123.0,
+      "malicious_damage": 318.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 35.4,
+      "personal_safety_score_0_100": 44.3,
+      "overall_caution_score_0_100": 39.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (44/100) and property crime (35/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-hume",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Hume",
+    "lga_slug": "hume",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 1230.0,
+      "non_dv_assault": 896.0,
+      "robbery": 138.0,
+      "break_enter_dwelling": 1207.0,
+      "motor_vehicle_theft": 1801.0,
+      "steal_from_vehicle": 3388.0,
+      "retail_theft": 805.0,
+      "malicious_damage": 1868.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 94.9,
+      "personal_safety_score_0_100": 97.5,
+      "overall_caution_score_0_100": 96.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-indigo",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Indigo",
+    "lga_slug": "indigo",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 30.0,
+      "non_dv_assault": 18.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 52.0,
+      "motor_vehicle_theft": 17.0,
+      "steal_from_vehicle": 45.0,
+      "retail_theft": 13.0,
+      "malicious_damage": 86.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 17.7,
+      "personal_safety_score_0_100": 10.1,
+      "overall_caution_score_0_100": 13.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-kingston",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Kingston",
+    "lga_slug": "kingston",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 452.0,
+      "non_dv_assault": 409.0,
+      "robbery": 89.0,
+      "break_enter_dwelling": 865.0,
+      "motor_vehicle_theft": 638.0,
+      "steal_from_vehicle": 1681.0,
+      "retail_theft": 1087.0,
+      "malicious_damage": 976.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 74.7,
+      "personal_safety_score_0_100": 75.9,
+      "overall_caution_score_0_100": 74.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (76/100) and property crime (75/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-knox",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Knox",
+    "lga_slug": "knox",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 417.0,
+      "non_dv_assault": 324.0,
+      "robbery": 52.0,
+      "break_enter_dwelling": 730.0,
+      "motor_vehicle_theft": 570.0,
+      "steal_from_vehicle": 1498.0,
+      "retail_theft": 1005.0,
+      "malicious_damage": 810.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 69.6,
+      "personal_safety_score_0_100": 64.6,
+      "overall_caution_score_0_100": 69.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (65/100) and property crime (70/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-latrobe",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Latrobe",
+    "lga_slug": "latrobe",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 744.0,
+      "non_dv_assault": 565.0,
+      "robbery": 50.0,
+      "break_enter_dwelling": 953.0,
+      "motor_vehicle_theft": 472.0,
+      "steal_from_vehicle": 1085.0,
+      "retail_theft": 1202.0,
+      "malicious_damage": 1252.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 72.2,
+      "personal_safety_score_0_100": 87.3,
+      "overall_caution_score_0_100": 75.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-loddon",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Loddon",
+    "lga_slug": "loddon",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 20.0,
+      "non_dv_assault": 27.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 52.0,
+      "motor_vehicle_theft": 23.0,
+      "steal_from_vehicle": 33.0,
+      "retail_theft": 2.0,
+      "malicious_damage": 52.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 11.4,
+      "personal_safety_score_0_100": 8.9,
+      "overall_caution_score_0_100": 10.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-macedon-ranges",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Macedon Ranges",
+    "lga_slug": "macedon-ranges",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 139.0,
+      "non_dv_assault": 78.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 173.0,
+      "motor_vehicle_theft": 122.0,
+      "steal_from_vehicle": 191.0,
+      "retail_theft": 169.0,
+      "malicious_damage": 288.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 42.4,
+      "personal_safety_score_0_100": 36.7,
+      "overall_caution_score_0_100": 43.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (37/100) and property crime (42/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-manningham",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Manningham",
+    "lga_slug": "manningham",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 171.0,
+      "non_dv_assault": 145.0,
+      "robbery": 37.0,
+      "break_enter_dwelling": 638.0,
+      "motor_vehicle_theft": 270.0,
+      "steal_from_vehicle": 783.0,
+      "retail_theft": 561.0,
+      "malicious_damage": 343.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 57.0,
+      "personal_safety_score_0_100": 46.8,
+      "overall_caution_score_0_100": 55.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (47/100) and property crime (57/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-mansfield",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Mansfield",
+    "lga_slug": "mansfield",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 14.0,
+      "non_dv_assault": 28.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 20.0,
+      "motor_vehicle_theft": 10.0,
+      "steal_from_vehicle": 21.0,
+      "retail_theft": 8.0,
+      "malicious_damage": 42.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 6.3,
+      "personal_safety_score_0_100": 7.6,
+      "overall_caution_score_0_100": 7.6,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-maribyrnong",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Maribyrnong",
+    "lga_slug": "maribyrnong",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 275.0,
+      "non_dv_assault": 513.0,
+      "robbery": 120.0,
+      "break_enter_dwelling": 979.0,
+      "motor_vehicle_theft": 913.0,
+      "steal_from_vehicle": 2834.0,
+      "retail_theft": 685.0,
+      "malicious_damage": 879.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 81.0,
+      "personal_safety_score_0_100": 72.2,
+      "overall_caution_score_0_100": 78.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-maroondah",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Maroondah",
+    "lga_slug": "maroondah",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 433.0,
+      "non_dv_assault": 328.0,
+      "robbery": 70.0,
+      "break_enter_dwelling": 543.0,
+      "motor_vehicle_theft": 376.0,
+      "steal_from_vehicle": 1060.0,
+      "retail_theft": 743.0,
+      "malicious_damage": 615.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 62.0,
+      "personal_safety_score_0_100": 67.1,
+      "overall_caution_score_0_100": 62.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (67/100) and property crime (62/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-melbourne",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Melbourne",
+    "lga_slug": "melbourne",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 789.0,
+      "non_dv_assault": 2888.0,
+      "robbery": 331.0,
+      "break_enter_dwelling": 2590.0,
+      "motor_vehicle_theft": 1751.0,
+      "steal_from_vehicle": 5905.0,
+      "retail_theft": 3442.0,
+      "malicious_damage": 3173.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 100.0,
+      "personal_safety_score_0_100": 100.0,
+      "overall_caution_score_0_100": 100.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-melton",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Melton",
+    "lga_slug": "melton",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 950.0,
+      "non_dv_assault": 459.0,
+      "robbery": 90.0,
+      "break_enter_dwelling": 1063.0,
+      "motor_vehicle_theft": 907.0,
+      "steal_from_vehicle": 1779.0,
+      "retail_theft": 825.0,
+      "malicious_damage": 1338.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 78.5,
+      "personal_safety_score_0_100": 89.9,
+      "overall_caution_score_0_100": 82.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-merri-bek",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Merri-bek",
+    "lga_slug": "merri-bek",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 492.0,
+      "non_dv_assault": 532.0,
+      "robbery": 55.0,
+      "break_enter_dwelling": 1154.0,
+      "motor_vehicle_theft": 897.0,
+      "steal_from_vehicle": 2758.0,
+      "retail_theft": 762.0,
+      "malicious_damage": 1258.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 83.5,
+      "personal_safety_score_0_100": 81.0,
+      "overall_caution_score_0_100": 81.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-mildura",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Mildura",
+    "lga_slug": "mildura",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 513.0,
+      "non_dv_assault": 266.0,
+      "robbery": 26.0,
+      "break_enter_dwelling": 514.0,
+      "motor_vehicle_theft": 277.0,
+      "steal_from_vehicle": 468.0,
+      "retail_theft": 502.0,
+      "malicious_damage": 711.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 55.7,
+      "personal_safety_score_0_100": 65.8,
+      "overall_caution_score_0_100": 58.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (66/100) and property crime (56/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-mitchell",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Mitchell",
+    "lga_slug": "mitchell",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 315.0,
+      "non_dv_assault": 175.0,
+      "robbery": 13.0,
+      "break_enter_dwelling": 234.0,
+      "motor_vehicle_theft": 186.0,
+      "steal_from_vehicle": 328.0,
+      "retail_theft": 212.0,
+      "malicious_damage": 539.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 50.6,
+      "personal_safety_score_0_100": 53.2,
+      "overall_caution_score_0_100": 50.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (53/100) and property crime (51/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-moira",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Moira",
+    "lga_slug": "moira",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 191.0,
+      "non_dv_assault": 87.0,
+      "robbery": 4.0,
+      "break_enter_dwelling": 168.0,
+      "motor_vehicle_theft": 77.0,
+      "steal_from_vehicle": 91.0,
+      "retail_theft": 94.0,
+      "malicious_damage": 200.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 36.7,
+      "personal_safety_score_0_100": 41.8,
+      "overall_caution_score_0_100": 38.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (42/100) and property crime (37/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-monash",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Monash",
+    "lga_slug": "monash",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 420.0,
+      "non_dv_assault": 438.0,
+      "robbery": 99.0,
+      "break_enter_dwelling": 1295.0,
+      "motor_vehicle_theft": 941.0,
+      "steal_from_vehicle": 3113.0,
+      "retail_theft": 1336.0,
+      "malicious_damage": 1054.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 88.6,
+      "personal_safety_score_0_100": 77.2,
+      "overall_caution_score_0_100": 86.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-moonee-valley",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Moonee Valley",
+    "lga_slug": "moonee-valley",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 299.0,
+      "non_dv_assault": 291.0,
+      "robbery": 37.0,
+      "break_enter_dwelling": 557.0,
+      "motor_vehicle_theft": 622.0,
+      "steal_from_vehicle": 2185.0,
+      "retail_theft": 748.0,
+      "malicious_damage": 785.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 70.9,
+      "personal_safety_score_0_100": 59.5,
+      "overall_caution_score_0_100": 68.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (60/100) and property crime (71/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-moorabool",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Moorabool",
+    "lga_slug": "moorabool",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 204.0,
+      "non_dv_assault": 95.0,
+      "robbery": 6.0,
+      "break_enter_dwelling": 214.0,
+      "motor_vehicle_theft": 155.0,
+      "steal_from_vehicle": 320.0,
+      "retail_theft": 138.0,
+      "malicious_damage": 292.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 45.6,
+      "personal_safety_score_0_100": 43.0,
+      "overall_caution_score_0_100": 45.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (43/100) and property crime (46/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-mornington-peninsula",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Mornington Peninsula",
+    "lga_slug": "mornington-peninsula",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 561.0,
+      "non_dv_assault": 368.0,
+      "robbery": 51.0,
+      "break_enter_dwelling": 1225.0,
+      "motor_vehicle_theft": 577.0,
+      "steal_from_vehicle": 1449.0,
+      "retail_theft": 905.0,
+      "malicious_damage": 943.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 73.4,
+      "personal_safety_score_0_100": 78.5,
+      "overall_caution_score_0_100": 73.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (78/100) and property crime (73/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-mount-alexander",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Mount Alexander",
+    "lga_slug": "mount-alexander",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 59.0,
+      "non_dv_assault": 49.0,
+      "robbery": 5.0,
+      "break_enter_dwelling": 100.0,
+      "motor_vehicle_theft": 33.0,
+      "steal_from_vehicle": 67.0,
+      "retail_theft": 50.0,
+      "malicious_damage": 164.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 27.8,
+      "personal_safety_score_0_100": 24.1,
+      "overall_caution_score_0_100": 25.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (24/100) and property crime (28/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-moyne",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Moyne",
+    "lga_slug": "moyne",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 51.0,
+      "non_dv_assault": 23.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 46.0,
+      "motor_vehicle_theft": 18.0,
+      "steal_from_vehicle": 56.0,
+      "retail_theft": 15.0,
+      "malicious_damage": 65.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 15.2,
+      "personal_safety_score_0_100": 18.4,
+      "overall_caution_score_0_100": 17.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-murrindindi",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Murrindindi",
+    "lga_slug": "murrindindi",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 47.0,
+      "non_dv_assault": 31.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 89.0,
+      "motor_vehicle_theft": 37.0,
+      "steal_from_vehicle": 57.0,
+      "retail_theft": 5.0,
+      "malicious_damage": 89.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 19.0,
+      "personal_safety_score_0_100": 21.5,
+      "overall_caution_score_0_100": 20.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-nillumbik",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Nillumbik",
+    "lga_slug": "nillumbik",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 79.0,
+      "non_dv_assault": 93.0,
+      "robbery": 18.0,
+      "break_enter_dwelling": 199.0,
+      "motor_vehicle_theft": 142.0,
+      "steal_from_vehicle": 272.0,
+      "retail_theft": 110.0,
+      "malicious_damage": 220.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 42.4,
+      "personal_safety_score_0_100": 34.2,
+      "overall_caution_score_0_100": 41.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (34/100) and property crime (42/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-northern-grampians",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Northern Grampians",
+    "lga_slug": "northern-grampians",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 87.0,
+      "non_dv_assault": 91.0,
+      "robbery": 8.0,
+      "break_enter_dwelling": 109.0,
+      "motor_vehicle_theft": 38.0,
+      "steal_from_vehicle": 51.0,
+      "retail_theft": 54.0,
+      "malicious_damage": 181.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 29.1,
+      "personal_safety_score_0_100": 32.9,
+      "overall_caution_score_0_100": 31.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (33/100) and property crime (29/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-port-phillip",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Port Phillip",
+    "lga_slug": "port-phillip",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 441.0,
+      "non_dv_assault": 689.0,
+      "robbery": 80.0,
+      "break_enter_dwelling": 1471.0,
+      "motor_vehicle_theft": 1014.0,
+      "steal_from_vehicle": 3046.0,
+      "retail_theft": 1135.0,
+      "malicious_damage": 1258.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 91.1,
+      "personal_safety_score_0_100": 84.8,
+      "overall_caution_score_0_100": 88.6,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-pyrenees",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Pyrenees",
+    "lga_slug": "pyrenees",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 41.0,
+      "non_dv_assault": 19.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 53.0,
+      "motor_vehicle_theft": 43.0,
+      "steal_from_vehicle": 56.0,
+      "retail_theft": 10.0,
+      "malicious_damage": 47.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 16.5,
+      "personal_safety_score_0_100": 13.9,
+      "overall_caution_score_0_100": 15.2,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-queenscliffe",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Queenscliffe",
+    "lga_slug": "queenscliffe",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 8.0,
+      "motor_vehicle_theft": 3.0,
+      "steal_from_vehicle": 8.0,
+      "retail_theft": 2.0,
+      "malicious_damage": 8.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 1.3,
+      "personal_safety_score_0_100": 1.3,
+      "overall_caution_score_0_100": 1.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-south-gippsland",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "South Gippsland",
+    "lga_slug": "south-gippsland",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 130.0,
+      "non_dv_assault": 70.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 216.0,
+      "motor_vehicle_theft": 121.0,
+      "steal_from_vehicle": 138.0,
+      "retail_theft": 41.0,
+      "malicious_damage": 239.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 39.2,
+      "personal_safety_score_0_100": 35.4,
+      "overall_caution_score_0_100": 35.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (35/100) and property crime (39/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-southern-grampians",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Southern Grampians",
+    "lga_slug": "southern-grampians",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 64.0,
+      "non_dv_assault": 77.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 41.0,
+      "motor_vehicle_theft": 16.0,
+      "steal_from_vehicle": 25.0,
+      "retail_theft": 64.0,
+      "malicious_damage": 158.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 22.8,
+      "personal_safety_score_0_100": 27.8,
+      "overall_caution_score_0_100": 24.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-stonnington",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Stonnington",
+    "lga_slug": "stonnington",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 298.0,
+      "non_dv_assault": 541.0,
+      "robbery": 76.0,
+      "break_enter_dwelling": 1526.0,
+      "motor_vehicle_theft": 774.0,
+      "steal_from_vehicle": 2819.0,
+      "retail_theft": 1250.0,
+      "malicious_damage": 968.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 84.8,
+      "personal_safety_score_0_100": 73.4,
+      "overall_caution_score_0_100": 83.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-strathbogie",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Strathbogie",
+    "lga_slug": "strathbogie",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 36.0,
+      "non_dv_assault": 20.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 51.0,
+      "motor_vehicle_theft": 24.0,
+      "steal_from_vehicle": 51.0,
+      "retail_theft": 8.0,
+      "malicious_damage": 51.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 12.7,
+      "personal_safety_score_0_100": 11.4,
+      "overall_caution_score_0_100": 12.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-surf-coast",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Surf Coast",
+    "lga_slug": "surf-coast",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 74.0,
+      "non_dv_assault": 58.0,
+      "robbery": 4.0,
+      "break_enter_dwelling": 68.0,
+      "motor_vehicle_theft": 54.0,
+      "steal_from_vehicle": 138.0,
+      "retail_theft": 77.0,
+      "malicious_damage": 159.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 32.9,
+      "personal_safety_score_0_100": 26.6,
+      "overall_caution_score_0_100": 30.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (27/100) and property crime (33/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-swan-hill",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Swan Hill",
+    "lga_slug": "swan-hill",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 146.0,
+      "non_dv_assault": 102.0,
+      "robbery": 3.0,
+      "break_enter_dwelling": 80.0,
+      "motor_vehicle_theft": 40.0,
+      "steal_from_vehicle": 109.0,
+      "retail_theft": 113.0,
+      "malicious_damage": 183.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 34.2,
+      "personal_safety_score_0_100": 40.5,
+      "overall_caution_score_0_100": 34.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (40/100) and property crime (34/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-towong",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Towong",
+    "lga_slug": "towong",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 16.0,
+      "non_dv_assault": 10.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 17.0,
+      "motor_vehicle_theft": 9.0,
+      "steal_from_vehicle": 11.0,
+      "retail_theft": 2.0,
+      "malicious_damage": 33.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 5.1,
+      "personal_safety_score_0_100": 6.3,
+      "overall_caution_score_0_100": 5.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-wangaratta",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Wangaratta",
+    "lga_slug": "wangaratta",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 151.0,
+      "non_dv_assault": 89.0,
+      "robbery": 7.0,
+      "break_enter_dwelling": 133.0,
+      "motor_vehicle_theft": 62.0,
+      "steal_from_vehicle": 107.0,
+      "retail_theft": 174.0,
+      "malicious_damage": 290.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 40.5,
+      "personal_safety_score_0_100": 39.2,
+      "overall_caution_score_0_100": 40.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (39/100) and property crime (40/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-warrnambool",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Warrnambool",
+    "lga_slug": "warrnambool",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 194.0,
+      "non_dv_assault": 125.0,
+      "robbery": 8.0,
+      "break_enter_dwelling": 170.0,
+      "motor_vehicle_theft": 36.0,
+      "steal_from_vehicle": 131.0,
+      "retail_theft": 316.0,
+      "malicious_damage": 309.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 44.3,
+      "personal_safety_score_0_100": 45.6,
+      "overall_caution_score_0_100": 44.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (46/100) and property crime (44/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-wellington",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Wellington",
+    "lga_slug": "wellington",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 365.0,
+      "non_dv_assault": 228.0,
+      "robbery": 8.0,
+      "break_enter_dwelling": 424.0,
+      "motor_vehicle_theft": 138.0,
+      "steal_from_vehicle": 309.0,
+      "retail_theft": 309.0,
+      "malicious_damage": 500.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 53.2,
+      "personal_safety_score_0_100": 57.0,
+      "overall_caution_score_0_100": 53.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (57/100) and property crime (53/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-west-wimmera",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "West Wimmera",
+    "lga_slug": "west-wimmera",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 8.0,
+      "non_dv_assault": 4.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 17.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 3.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 19.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 2.5,
+      "personal_safety_score_0_100": 2.5,
+      "overall_caution_score_0_100": 2.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-whitehorse",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Whitehorse",
+    "lga_slug": "whitehorse",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 419.0,
+      "non_dv_assault": 369.0,
+      "robbery": 68.0,
+      "break_enter_dwelling": 1258.0,
+      "motor_vehicle_theft": 850.0,
+      "steal_from_vehicle": 2574.0,
+      "retail_theft": 738.0,
+      "malicious_damage": 857.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 79.7,
+      "personal_safety_score_0_100": 68.4,
+      "overall_caution_score_0_100": 77.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-whittlesea",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Whittlesea",
+    "lga_slug": "whittlesea",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 841.0,
+      "non_dv_assault": 577.0,
+      "robbery": 102.0,
+      "break_enter_dwelling": 1160.0,
+      "motor_vehicle_theft": 1076.0,
+      "steal_from_vehicle": 2620.0,
+      "retail_theft": 1231.0,
+      "malicious_damage": 1474.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 86.1,
+      "personal_safety_score_0_100": 91.1,
+      "overall_caution_score_0_100": 91.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-wodonga",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Wodonga",
+    "lga_slug": "wodonga",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 221.0,
+      "non_dv_assault": 154.0,
+      "robbery": 11.0,
+      "break_enter_dwelling": 320.0,
+      "motor_vehicle_theft": 175.0,
+      "steal_from_vehicle": 311.0,
+      "retail_theft": 213.0,
+      "malicious_damage": 444.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 49.4,
+      "personal_safety_score_0_100": 51.9,
+      "overall_caution_score_0_100": 49.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (52/100) and property crime (49/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-wyndham",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Wyndham",
+    "lga_slug": "wyndham",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 1070.0,
+      "non_dv_assault": 780.0,
+      "robbery": 176.0,
+      "break_enter_dwelling": 2226.0,
+      "motor_vehicle_theft": 1744.0,
+      "steal_from_vehicle": 3551.0,
+      "retail_theft": 1757.0,
+      "malicious_damage": 1700.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 97.5,
+      "personal_safety_score_0_100": 94.9,
+      "overall_caution_score_0_100": 97.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-yarra",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Yarra",
+    "lga_slug": "yarra",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 312.0,
+      "non_dv_assault": 774.0,
+      "robbery": 125.0,
+      "break_enter_dwelling": 1374.0,
+      "motor_vehicle_theft": 696.0,
+      "steal_from_vehicle": 2495.0,
+      "retail_theft": 1578.0,
+      "malicious_damage": 1453.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 87.3,
+      "personal_safety_score_0_100": 86.1,
+      "overall_caution_score_0_100": 87.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-yarra-ranges",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Yarra Ranges",
+    "lga_slug": "yarra-ranges",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 522.0,
+      "non_dv_assault": 318.0,
+      "robbery": 42.0,
+      "break_enter_dwelling": 456.0,
+      "motor_vehicle_theft": 294.0,
+      "steal_from_vehicle": 660.0,
+      "retail_theft": 629.0,
+      "malicious_damage": 822.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 59.5,
+      "personal_safety_score_0_100": 69.6,
+      "overall_caution_score_0_100": 60.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (70/100) and property crime (60/100) compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  },
+  {
+    "id": "vic-lga-yarriambiack",
+    "state": "VIC",
+    "geo_type": "LGA",
+    "lga": "Yarriambiack",
+    "lga_slug": "yarriambiack",
+    "source": "Victoria LGA Recorded Offences CSV",
+    "period": "2025",
+    "dataset_version": "2025_vic_lga_recorded_offences",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 43.0,
+      "non_dv_assault": 15.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 27.0,
+      "motor_vehicle_theft": 4.0,
+      "steal_from_vehicle": 22.0,
+      "retail_theft": 3.0,
+      "malicious_damage": 48.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 7.6,
+      "personal_safety_score_0_100": 12.7,
+      "overall_caution_score_0_100": 8.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other Victorian LGAs."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Victorian LGAs using selected recorded offence counts for 2025.",
+      "warning": "This is LGA-level offence context, not suburb-level crime and not per-capita crime rates. Non-residential burglary has been omitted from this VIC dataset pending a cleaner mapping."
+    }
+  }
+]

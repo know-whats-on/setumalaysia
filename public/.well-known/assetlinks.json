@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.burbmate.app",
+      "sha256_cert_fingerprints": [
+        "69:27:06:B2:07:6E:0E:A9:EC:69:86:F7:1B:7E:BB:2D:84:58:2B:49:C6:4A:3D:20:AC:F6:04:58:B0:2F:F2:C8"
+      ]
+    }
+  }
+]

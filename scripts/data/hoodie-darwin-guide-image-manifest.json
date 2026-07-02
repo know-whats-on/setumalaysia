@@ -1,0 +1,674 @@
+[
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Hidden Bars in Darwin",
+    "source_page_url": "https://www.charliesofdarwin.com.au/",
+    "source_image_url": "https://lirp.cdn-website.com/bd23723f/dms3rep/multi/opt/AtoZ-Media---Charlie-s-of-Darwin-April-2025-56-1920w.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/cover.jpg",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Charlie's of Darwin"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Charlie's of Darwin",
+    "source_page_url": "https://www.charliesofdarwin.com.au/",
+    "source_image_url": "https://lirp.cdn-website.com/bd23723f/dms3rep/multi/opt/AtoZ-Media---Charlie-s-of-Darwin-April-2025-56-1920w.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-01-charlie-s-of-darwin.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Stone House Wine Bar & Kitchen",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20Bar,%20Metropolitan%20Museum%20Of%20Art%20(5894065780).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg/1280px-Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-02-stone-house-wine-bar-and-kitchen.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Hanky Panky Lounge",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20(16994259497).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rooftop_bar_%2816994259497%29.jpg/1280px-Rooftop_bar_%2816994259497%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-03-hanky-panky-lounge.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Babylon Bar Darwin",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20202523.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rooftop_bar_202523.jpg/1280px-Rooftop_bar_202523.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-04-babylon-bar-darwin.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "The Trader Bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20Bar%20-%20panoramio.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rooftop_Bar_-_panoramio.jpg/1280px-Rooftop_Bar_-_panoramio.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-05-the-trader-bar.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Monsoons back-bar area",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20202836.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rooftop_bar_202836.jpg/1280px-Rooftop_bar_202836.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-06-monsoons-back-bar-area.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Bar Kokomo rooftop / upper-level bar",
+    "source_page_url": "https://bar-kokomo.com/",
+    "source_image_url": "https://www.bar-kokomo.com/uploads/b/97970d90-846f-11ee-b408-03d544c057b0/splash_2048x4435_NjczNz.jpg?width=1536&height=2048&fit=crop",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-07-bar-kokomo-rooftop-upper-level-bar.png",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Wharf One bar area",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Elegant%20Interior%20Of%20The%20Cocktailbar%20(220991479).jpeg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg/1280px-Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-08-wharf-one-bar-area.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Stone House upstairs / intimate seating zones",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Azul%20Rooftop%20Bar.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Azul_Rooftop_Bar.jpg/1280px-Azul_Rooftop_Bar.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-09-stone-house-upstairs-intimate-seating-zones.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-darwin",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Darwin city laneway small-bar circuit",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Interior%20of%20Czeczotka%20Cocktail%20Bar,%20Krak%C3%B3w,%202019.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Interior_of_Czeczotka_Cocktail_Bar%2C_Krak%C3%B3w%2C_2019.jpg/1280px-Interior_of_Czeczotka_Cocktail_Bar%2C_Krak%C3%B3w%2C_2019.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-darwin/place-10-darwin-city-laneway-small-bar-circuit.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Cafes to Work From in Darwin",
+    "source_page_url": "https://www.lanewaycoffee.com.au/",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/58c67465db29d6bfd8ea38a7/c3a1c09d-bc10-4e83-9738-1d4fdc642a38/Laneway+Cafe-34.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/cover.jpg",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Laneway Specialty Coffee"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Laneway Specialty Coffee",
+    "source_page_url": "https://www.lanewaycoffee.com.au/",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/58c67465db29d6bfd8ea38a7/c3a1c09d-bc10-4e83-9738-1d4fdc642a38/Laneway+Cafe-34.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-01-laneway-specialty-coffee.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "The Rabbit Hole",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20-%20geograph.org.uk%20-%204801988.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg/1280px-Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-02-the-rabbit-hole.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Ray's Patisserie and Cafe",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20with%20Coffee.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cafe_Interior_with_Coffee.jpg/1280px-Cafe_Interior_with_Coffee.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-03-ray-s-patisserie-and-cafe.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Moorish Cafe",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Interior%20of%20cafe%20(15592975272).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Interior_of_cafe_%2815592975272%29.jpg/1280px-Interior_of_cafe_%2815592975272%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-04-moorish-cafe.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Alley Cats Patisserie",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20Design.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cafe_Interior_Design.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-05-alley-cats-patisserie.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Eva's Cafe",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Pellegrini%27s%20at%20night.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pellegrini%27s_at_night.jpg/1280px-Pellegrini%27s_at_night.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-06-eva-s-cafe.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Four Birds Cafe",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Melbourne%20Coffee%20Palace.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Melbourne_Coffee_Palace.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-07-four-birds-cafe.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "The Essington School cafe space / nearby Smith Street Mall cafes",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20at%20Evening%20(47415766251).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cafe_Interior_at_Evening_%2847415766251%29.jpg/1280px-Cafe_Interior_at_Evening_%2847415766251%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-08-the-essington-school-cafe-space-nearby-smith-street-mall-cafes.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "SweetBrew & Co",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Hotel-Interior-Intercontinental-Melbourne-The-Rialto.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hotel-Interior-Intercontinental-Melbourne-The-Rialto.jpg/1280px-Hotel-Interior-Intercontinental-Melbourne-The-Rialto.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-09-sweetbrew-and-co.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-darwin",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Ruby G's Canteen and Bakery",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Lichfield,%20Bird%20Street,%20Melbourne%20(cafe)%20and%20Qmin%20(Indian%20Restaurant)%20-%20geograph.org.uk%20-%206996395.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lichfield%2C_Bird_Street%2C_Melbourne_%28cafe%29_and_Qmin_%28Indian_Restaurant%29_-_geograph.org.uk_-_6996395.jpg/1280px-Lichfield%2C_Bird_Street%2C_Melbourne_%28cafe%29_and_Qmin_%28Indian_Restaurant%29_-_geograph.org.uk_-_6996395.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-darwin/place-10-ruby-g-s-canteen-and-bakery.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Historical Places in Darwin",
+    "source_page_url": "https://www.darwinmilitarymuseum.au/",
+    "source_image_url": "https://www.darwinmilitarymuseum.au/wp-content/uploads/2024/09/DHMEC-8.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/cover.jpg",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Darwin Military Museum"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Darwin Military Museum",
+    "source_page_url": "https://www.darwinmilitarymuseum.au/",
+    "source_image_url": "https://www.darwinmilitarymuseum.au/wp-content/uploads/2024/09/DHMEC-8.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-01-darwin-military-museum.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Museum and Art Gallery of the Northern Territory",
+    "source_page_url": "https://en.wikipedia.org/wiki/Museum_and_Art_Gallery_of_the_Northern_Territory",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/MAGNT_Darwin%2C_2023_%2801%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-02-museum-and-art-gallery-of-the-northern-territory.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Fannie Bay Gaol",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Fannie%20Bay%20Gaol.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fannie_Bay_Gaol.jpg/1280px-Fannie_Bay_Gaol.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-03-fannie-bay-gaol.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Old Darwin Hospital ruins",
+    "source_page_url": "https://en.wikipedia.org/wiki/Darwin_Hospital",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Old_Darwin_Hospital_1960s.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-04-old-darwin-hospital-ruins.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Christ Church Cathedral",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Christ_Church_Cathedral,_Darwin,_2023_(01).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Christ_Church_Cathedral%2C_Darwin%2C_2023_%2801%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-05-christ-church-cathedral.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Brown's Mart",
+    "source_page_url": "https://en.wikipedia.org/wiki/Brown%27s_Mart",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Darwin_%28AU%29%2C_Browns_Mart_Theatre_--_2019_--_4401-3.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-06-brown-s-mart.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Chinese Temple",
+    "source_page_url": "https://territorystories.nt.gov.au/10070/722088",
+    "source_image_url": "https://ntdl-territorystories.s3.amazonaws.com/ts/4d3/6991436c-5fd1-4531-a563-b91690f294d3/05927_media.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-07-chinese-temple.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "RFDS Darwin Tourist Facility",
+    "source_page_url": "https://www.rfdsdarwin.com.au/home",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/659b76daa6b9d854dcdb53fc/151b393c-5b0a-4c69-bdf8-f6a4e1972010/0623_Darwin+content+trip_high+res-011.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-08-rfds-darwin-tourist-facility.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Lyons Cottage",
+    "source_page_url": "https://en.wikipedia.org/wiki/Lyons_Cottage",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LYONS_COTTAGE_-_DARWIN_-_NORTHERN_TERRITORY.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-09-lyons-cottage.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-darwin",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Darwin Cenotaph",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/about-darwin/darwin-city-centre/darwin-cenotaph",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/internal_full_banner/public/pages/max-resized/max_2000_Crop%20_DSC7458.jpg?h=7f73a785&itok=rB0IUjSL",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-darwin/place-10-darwin-cenotaph.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunset Spots in Darwin",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mindil_Beach",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mindil_markets_230616_gnangarra-107.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/cover.jpg",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Mindil Beach"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Mindil Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mindil_Beach",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mindil_markets_230616_gnangarra-107.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-01-mindil-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Mindil Beach Sunset Markets",
+    "source_page_url": "https://northernterritory.com/en/darwin-and-surrounds/see-and-do/mindil-beach-sunset-market",
+    "source_image_url": "https://images.northernterritory.com/atdw-cache/images/7adc30c133c3303256fe261fc2465bca.jpeg?rect=0%2C285%2C5472%2C3078&w=1200&h=630&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjU2YjI3MzVmYWVlZWFhZjc3M2QwNTUyNCIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwY2EiLCJhcGlrZXlJZCI6IjU2YjFmNjNmMGNmMjEzYWQyMGRlZGY2NSJ9&fit=crop&auto=enhance%2Ccompress",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-02-mindil-beach-sunset-markets.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Nightcliff Foreshore",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/nightcliff-foreshore-0",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/internal_full_banner/public/2024-12/Nightcliff%20Foreshore%20Web%20header.jpg?h=973a668f&itok=DKClxjjA",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-03-nightcliff-foreshore.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Darwin Waterfront",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Darwin%20Waterfront%20Precinct.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Darwin_Waterfront_Precinct.jpg/1280px-Darwin_Waterfront_Precinct.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-04-darwin-waterfront.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "The Esplanade",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/bicentennial-park",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/gallery_/public/marker/image-gallery/Bi%20Park%20Web3.JPG?itok=M105YeBV",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-05-the-esplanade.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Stokes Hill Wharf",
+    "source_page_url": "https://en.wikipedia.org/wiki/Stokes_Hill_Wharf",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Darwin%27s_Stokes_Hill_Wharf_February_2010.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-06-stokes-hill-wharf.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Fannie Bay foreshore",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/fannie-bay-foreshore",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/gallery_/public/marker/image-gallery/Fannie%20Bay%20foreshore%20playground%20Web%201.JPG?itok=__ytteEL",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-07-fannie-bay-foreshore.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Casuarina Coastal Reserve",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Casuarina%20Coastal%20Reserve.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Casuarina_Coastal_Reserve.jpg/1280px-Casuarina_Coastal_Reserve.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-08-casuarina-coastal-reserve.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Bundilla Beach / MAGNT foreshore",
+    "source_page_url": "https://en.wikipedia.org/wiki/Museum_and_Art_Gallery_of_the_Northern_Territory",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/MAGNT_Darwin%2C_2023_%2801%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-09-bundilla-beach-magnt-foreshore.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Nightcliff Jetty",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Nightcliff%20Jetty.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nightcliff_Jetty.jpg/1280px-Nightcliff_Jetty.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-darwin/place-10-nightcliff-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Weekend Getaways from Darwin",
+    "source_page_url": "https://nt.gov.au/leisure/parks-reserves/find-a-park-to-visit/litchfield-national-park",
+    "source_image_url": "https://nt.gov.au/_media/images/parks-and-reserves/litchfield-national-park/wangi-falls/litchfield-national-park-wangi-falls.webp",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/cover.webp",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Litchfield National Park"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Litchfield National Park",
+    "source_page_url": "https://nt.gov.au/leisure/parks-reserves/find-a-park-to-visit/litchfield-national-park",
+    "source_image_url": "https://nt.gov.au/_media/images/parks-and-reserves/litchfield-national-park/wangi-falls/litchfield-national-park-wangi-falls.webp",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-01-litchfield-national-park.webp",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Kakadu National Park",
+    "source_page_url": "https://en.wikipedia.org/wiki/Kakadu_National_Park",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kakadu_2431.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-02-kakadu-national-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Berry Springs Nature Park",
+    "source_page_url": "https://nt.gov.au/parks/find-a-park/berry-springs-nature-park",
+    "source_image_url": "https://nt.gov.au/_media/images/parks-and-reserves/berry-springs/berry-springs-nature-park1.webp",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-03-berry-springs-nature-park.webp",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Adelaide River",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Adelaide%20River%20War%20Cemetery.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Adelaide_River_War_Cemetery.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-04-adelaide-river.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Batchelor",
+    "source_page_url": "https://en.wikipedia.org/wiki/Batchelor,_Northern_Territory",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/BatchelorOct192024.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-05-batchelor.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Tiwi Islands",
+    "source_page_url": "https://en.wikipedia.org/wiki/Tiwi_Islands",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Folklore_and_Science_Meet_at_Tiwi.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-06-tiwi-islands.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Nitmiluk / Katherine Gorge",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Katherine_Gorge1.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Katherine_Gorge1.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-07-nitmiluk-katherine-gorge.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Douglas Hot Springs",
+    "source_page_url": "https://aboutnorthnt.com/explore/100tjuwaliyn-douglas-hot-springs",
+    "source_image_url": "https://images.squarespace-cdn.com/content/v1/5fa76fe6f59e260b96ba1103/1614665589362-TJL5P002HJOQ727GBESZ/_5183018.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-08-douglas-hot-springs.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Wangi Falls",
+    "source_page_url": "https://en.wikipedia.org/wiki/Wangi_Falls",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Wangi_Falls_Litchfield_National_Park.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-09-wangi-falls.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-darwin",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Mataranka Thermal Pools",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mataranka_Thermal_Pools",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mataranka_Thermal_Springs.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-darwin/place-10-mataranka-thermal-pools.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunrise Spots in Darwin",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/nightcliff-foreshore-0",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/internal_full_banner/public/2024-12/Nightcliff%20Foreshore%20Web%20header.jpg?h=973a668f&itok=DKClxjjA",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/cover.jpg",
+    "match_type": "exact",
+    "cover_from_place_position": 0,
+    "cover_from_place_name": "Nightcliff Foreshore"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Nightcliff Foreshore",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/nightcliff-foreshore-0",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/internal_full_banner/public/2024-12/Nightcliff%20Foreshore%20Web%20header.jpg?h=973a668f&itok=DKClxjjA",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-01-nightcliff-foreshore.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Casuarina Coastal Reserve",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Casuarina%20Coastal%20Reserve.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Casuarina_Coastal_Reserve.jpg/1280px-Casuarina_Coastal_Reserve.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-02-casuarina-coastal-reserve.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Nightcliff Jetty",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Nightcliff%20Jetty.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nightcliff_Jetty.jpg/1280px-Nightcliff_Jetty.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-03-nightcliff-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Darwin Waterfront",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Darwin%20Waterfront%20Precinct.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Darwin_Waterfront_Precinct.jpg/1280px-Darwin_Waterfront_Precinct.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-04-darwin-waterfront.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Stokes Hill Wharf",
+    "source_page_url": "https://en.wikipedia.org/wiki/Stokes_Hill_Wharf",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Darwin%27s_Stokes_Hill_Wharf_February_2010.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-05-stokes-hill-wharf.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "The Esplanade Bicentennial Park",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/bicentennial-park",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/internal_full_banner/public/2024-12/IMG_3480.JPG?h=6ba0fb37&itok=86aQqNlT",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-06-the-esplanade-bicentennial-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Fannie Bay foreshore",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/fannie-bay-foreshore",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/gallery_/public/marker/image-gallery/Fannie%20Bay%20foreshore%20playground%20Web%201.JPG?itok=__ytteEL",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-07-fannie-bay-foreshore.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Lake Alexander precinct",
+    "source_page_url": "https://www.darwin.nt.gov.au/community/community-facilities/lake-alexander",
+    "source_image_url": "https://www.darwin.nt.gov.au/sites/default/files/styles/gallery_/public/marker/image-gallery/Lake%20Alexander%202%20resized.jpg?itok=ggxoIs_a",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-08-lake-alexander-precinct.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Mindil Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mindil_Beach",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mindil_markets_230616_gnangarra-107.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-09-mindil-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-darwin",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Bundilla Beach / MAGNT foreshore",
+    "source_page_url": "https://en.wikipedia.org/wiki/Museum_and_Art_Gallery_of_the_Northern_Territory",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/MAGNT_Darwin%2C_2023_%2801%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-darwin/place-10-bundilla-beach-magnt-foreshore.jpg",
+    "match_type": "representative"
+  }
+]

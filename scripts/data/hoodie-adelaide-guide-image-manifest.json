@@ -1,0 +1,662 @@
+[
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Hidden Bars in Adelaide",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20(16994259497).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Rooftop_bar_%2816994259497%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Bank Street Social",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Patr%C3%B3n%20cocktail%20bar%20(5807919992).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Patr%C3%B3n_cocktail_bar_%285807919992%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-01-bank-street-social.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Clever Little Tailor",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20Bar,%20Metropolitan%20Museum%20Of%20Art%20(5894065780).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rooftop_Bar%2C_Metropolitan_Museum_Of_Art_%285894065780%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-02-clever-little-tailor.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Maybe Mae",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20(16994259497).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Rooftop_bar_%2816994259497%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-03-maybe-mae.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Pink Moon Saloon",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20202523.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rooftop_bar_202523.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-04-pink-moon-saloon.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "La Buvette Drinkery",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20Bar%20-%20panoramio.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rooftop_Bar_-_panoramio.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-05-la-buvette-drinkery.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "2KW Bar & Restaurant",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Rooftop%20bar%20202836.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rooftop_bar_202836.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-06-2kw-bar-and-restaurant.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Leigh Street Wine Room",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Hindley_Street_looking_west.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hindley_Street_looking_west.jpg/1200px-Hindley_Street_looking_west.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-07-leigh-street-wine-room.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Peel St Restaurant bar",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Elegant%20Interior%20Of%20The%20Cocktailbar%20(220991479).jpeg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Elegant_Interior_Of_The_Cocktailbar_%28220991479%29.jpeg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-08-peel-st-restaurant-bar.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Malt & Juniper",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Azul%20Rooftop%20Bar.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Azul_Rooftop_Bar.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-09-malt-and-juniper.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-hidden-bars-in-adelaide",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Hains & Co",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Interior%20of%20Czeczotka%20Cocktail%20Bar,%20Krak%C3%B3w,%202019.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Interior_of_Czeczotka_Cocktail_Bar%2C_Krak%C3%B3w%2C_2019.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-hidden-bars-in-adelaide/place-10-hains-and-co.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Cafes to Work From in Adelaide",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20-%20geograph.org.uk%20-%204801988.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/cover.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Exchange Specialty Coffee",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20interior%20-%20geograph.org.uk%20-%204801991.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cafe_interior_-_geograph.org.uk_-_4801991.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-01-exchange-specialty-coffee.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Peter Rabbit",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20-%20geograph.org.uk%20-%204801988.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cafe_Interior_-_geograph.org.uk_-_4801988.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-02-peter-rabbit.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Please Say Please",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20with%20Coffee.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cafe_Interior_with_Coffee.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-03-please-say-please.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "My Kingdom For A Horse",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Interior%20of%20cafe%20(15592975272).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Interior_of_cafe_%2815592975272%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-04-my-kingdom-for-a-horse.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "CIBO on Hutt",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20Design.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cafe_Interior_Design.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-05-cibo-on-hutt.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Elementary Coffee",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Pellegrini%27s%20at%20night.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pellegrini%27s_at_night.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-06-elementary-coffee.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "The Coffee Branch",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Melbourne%20Coffee%20Palace.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Melbourne_Coffee_Palace.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-07-the-coffee-branch.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Cherry Specialty Coffee",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Cafe%20Interior%20at%20Evening%20(47415766251).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cafe_Interior_at_Evening_%2847415766251%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-08-cherry-specialty-coffee.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Sazon Espresso",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Hotel-Interior-Intercontinental-Melbourne-The-Rialto.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hotel-Interior-Intercontinental-Melbourne-The-Rialto.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-09-sazon-espresso.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-cafes-to-work-from-in-adelaide",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Bocelli Caffe Ristorante",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Lichfield,%20Bird%20Street,%20Melbourne%20(cafe)%20and%20Qmin%20(Indian%20Restaurant)%20-%20geograph.org.uk%20-%206996395.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lichfield%2C_Bird_Street%2C_Melbourne_%28cafe%29_and_Qmin_%28Indian_Restaurant%29_-_geograph.org.uk_-_6996395.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-cafes-to-work-from-in-adelaide/place-10-bocelli-caffe-ristorante.jpg",
+    "match_type": "representative"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Historical Places in Adelaide",
+    "source_page_url": "https://en.wikipedia.org/wiki/Migration_Museum,_Adelaide",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Migration_Museum%2C_Adelaide_%2817_June_2025%29_35.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/cover.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Migration Museum",
+    "source_page_url": "https://en.wikipedia.org/wiki/Migration_Museum,_Adelaide",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Migration_Museum%2C_Adelaide_%2817_June_2025%29_35.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-01-migration-museum.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "South Australian Museum",
+    "source_page_url": "https://en.wikipedia.org/wiki/South_Australian_Museum",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/South_Australian_Museum_on_27_February_2025.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-02-south-australian-museum.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Ayers House",
+    "source_page_url": "https://en.wikipedia.org/wiki/Ayers_House_(Adelaide)",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ayers_House_%28National_Trust_South_Australia%29_North_Terrace%2C_Adelaide%2C_15_March_2015.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-03-ayers-house.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Beehive Corner",
+    "source_page_url": "https://en.wikipedia.org/wiki/Beehive_Corner",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Beehive_Corner_Adelaide_CBD.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-04-beehive-corner.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Adelaide Gaol",
+    "source_page_url": "https://en.wikipedia.org/wiki/Adelaide_Gaol",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Adelaide_Gaol_main_door.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-05-adelaide-gaol.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Old Treasury Building",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Lands%20and%20Treasury%20Building,%20Adelaide,%20South%20Australia(GN00898).jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Lands_and_Treasury_Building%2C_Adelaide%2C_South_Australia%28GN00898%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-06-old-treasury-building.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Carrick Hill",
+    "source_page_url": "https://en.wikipedia.org/wiki/Carrick_Hill",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Carrick_Hill_-_oblique.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-07-carrick-hill.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "St Peter's Cathedral",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:St%20Peter%27s%20Cathedral,%20Adelaide.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/St_Peter%27s_Cathedral%2C_Adelaide.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-08-st-peter-s-cathedral.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Adelaide Central Market",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Adelaide%20Central%20Market.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Adelaide_Central_Market.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-09-adelaide-central-market.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-historical-places-in-adelaide",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Adelaide Oval heritage precinct",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Adelaide%20Oval%20scoreboard.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Adelaide_Oval_scoreboard.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-historical-places-in-adelaide/place-10-adelaide-oval-heritage-precinct.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunset Spots in Adelaide",
+    "source_page_url": "https://en.wikipedia.org/wiki/Glenelg,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Glenelg_Town_Hall_2015.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/cover.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Glenelg Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Glenelg,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Glenelg_Town_Hall_2015.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-01-glenelg-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Glenelg Jetty",
+    "source_page_url": "https://en.wikipedia.org/wiki/Glenelg,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Glenelg_Town_Hall_2015.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-02-glenelg-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Semaphore Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Semaphore,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Semaphore_Foreshore_In_2020.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-03-semaphore-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Henley Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Henley_Beach,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Henlye-Beach-pier-2108.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-04-henley-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Brighton Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Brighton,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brighton_Jetty.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-05-brighton-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Port Noarlunga",
+    "source_page_url": "https://en.wikipedia.org/wiki/Port_Noarlunga,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Port_Noarlunga_-_South_Australia_%2815324590967%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-06-port-noarlunga.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "West Beach",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:WestBeachOverview.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/WestBeachOverview.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-07-west-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Moana Beach",
+    "source_page_url": "https://en.wikipedia.org/wiki/Moana,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Moana_seen_from_the_south_0876.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-08-moana-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Marino Rocks",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Marino%20Rocks%20Lighthouse.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Marino_Rocks_Lighthouse.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-09-marino-rocks.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunset-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Hallett Cove Boardwalk",
+    "source_page_url": "https://en.wikipedia.org/wiki/Hallett_Cove,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hallett_Cove_P1000736.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunset-spots-in-adelaide/place-10-hallett-cove-boardwalk.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Weekend Getaways from Adelaide",
+    "source_page_url": "https://en.wikipedia.org/wiki/Hahndorf,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HahndorfSA.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/cover.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Hahndorf",
+    "source_page_url": "https://en.wikipedia.org/wiki/Hahndorf,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HahndorfSA.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-01-hahndorf.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Barossa Valley",
+    "source_page_url": "https://en.wikipedia.org/wiki/Barossa_Valley",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Tanunda.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-02-barossa-valley.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "McLaren Vale",
+    "source_page_url": "https://en.wikipedia.org/wiki/McLaren_Vale",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/McLaren_Vale.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-03-mclaren-vale.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Victor Harbor",
+    "source_page_url": "https://en.wikipedia.org/wiki/Victor_Harbor_Horse_Drawn_Tram",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/20040610_Victor_Harbor_Tramway.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-04-victor-harbor.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Clare Valley",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Clare%20Valley.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Clare_Valley.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-05-clare-valley.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Mannum",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mannum",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MannumFromLookout.JPG",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-06-mannum.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "Yorke Peninsula",
+    "source_page_url": "https://en.wikipedia.org/wiki/Yorke_Peninsula",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ardrossan.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-07-yorke-peninsula.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Kangaroo Island",
+    "source_page_url": "https://en.wikipedia.org/wiki/Kangaroo_Island",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flinders_Chase_National_Park_01.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-08-kangaroo-island.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Port Willunga",
+    "source_page_url": "https://en.wikipedia.org/wiki/Port_Willunga,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Port_Willunga_Beach.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-09-port-willunga.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-weekend-getaways-from-adelaide",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Goolwa",
+    "source_page_url": "https://en.wikipedia.org/wiki/Goolwa,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Building_in_Goolwa_South_Australia.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-weekend-getaways-from-adelaide/place-10-goolwa.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "cover",
+    "place_position": null,
+    "place_name": "10 Best Sunrise Spots in Adelaide",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mount_Lofty",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mount_lofty_from_south.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/cover.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 0,
+    "place_name": "Mount Lofty Summit",
+    "source_page_url": "https://en.wikipedia.org/wiki/Mount_Lofty",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mount_lofty_from_south.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-01-mount-lofty-summit.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 1,
+    "place_name": "Morialta Conservation Park",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Morialta%20Falls.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Morialta_Falls.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-02-morialta-conservation-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 2,
+    "place_name": "Brighton Jetty",
+    "source_page_url": "https://en.wikipedia.org/wiki/Brighton,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brighton_Jetty.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-03-brighton-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 3,
+    "place_name": "Henley Beach Jetty",
+    "source_page_url": "https://en.wikipedia.org/wiki/Henley_Beach,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Henlye-Beach-pier-2108.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-04-henley-beach-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 4,
+    "place_name": "Semaphore Foreshore",
+    "source_page_url": "https://en.wikipedia.org/wiki/Semaphore,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Semaphore_Foreshore_In_2020.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-05-semaphore-foreshore.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 5,
+    "place_name": "Glenelg Jetty",
+    "source_page_url": "https://en.wikipedia.org/wiki/Glenelg,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Glenelg_Town_Hall_2015.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-06-glenelg-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 6,
+    "place_name": "West Beach",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:WestBeachOverview.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/WestBeachOverview.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-07-west-beach.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 7,
+    "place_name": "Port Noarlunga Jetty",
+    "source_page_url": "https://en.wikipedia.org/wiki/Port_Noarlunga,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Port_Noarlunga_-_South_Australia_%2815324590967%29.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-08-port-noarlunga-jetty.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 8,
+    "place_name": "Marino Conservation Park",
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Marino%20Rocks%20Lighthouse.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Marino_Rocks_Lighthouse.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-09-marino-conservation-park.jpg",
+    "match_type": "exact"
+  },
+  {
+    "guide_slug": "10-best-sunrise-spots-in-adelaide",
+    "slot_type": "place",
+    "place_position": 9,
+    "place_name": "Hallett Cove Boardwalk",
+    "source_page_url": "https://en.wikipedia.org/wiki/Hallett_Cove,_South_Australia",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hallett_Cove_P1000736.jpg",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/10-best-sunrise-spots-in-adelaide/place-10-hallett-cove-boardwalk.jpg",
+    "match_type": "exact"
+  }
+]

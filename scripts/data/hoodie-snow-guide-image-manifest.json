@@ -1,0 +1,1172 @@
+[
+  {
+    "cover_from_place_key": "lake_mountain",
+    "cover_from_place_name": "Lake Mountain Alpine Resort",
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Melbourne",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake-Mountain-trail.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-01-lake-mountain-alpine-resort.jpg",
+    "place_name": "Lake Mountain Alpine Resort",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake-Mountain-trail.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-02-mt-donna-buang-summit.jpg",
+    "place_name": "Mt Donna Buang Summit",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mount_Donna_Buang_with_its_21m_high_observation_tower.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-03-mt-baw-baw-alpine-resort.jpg",
+    "place_name": "Mt Baw Baw Alpine Resort",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Baw-baw-view-gippsland.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-04-mt-buller.jpg",
+    "place_name": "Mt Buller",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mount_Buller_from_the_Howqua_Valley.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-05-mt-stirling-snow-play-area.jpg",
+    "place_name": "Mt Stirling Snow Play Area",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bluff-spur-hut.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-06-mt-buffalo-dingo-dell.jpg",
+    "place_name": "Mt Buffalo / Dingo Dell",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mt_buffalo_plateau.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-07-falls-creek-alpine-resort.jpg",
+    "place_name": "Falls Creek Alpine Resort",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Falls_Creek1.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-08-dinner-plain.jpg",
+    "place_name": "Dinner Plain",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1_dinner_plain_aerial_panorama_2018.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-09-mt-hotham.jpg",
+    "place_name": "Mt Hotham",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mt_Hotham_from_the_summit_2007.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-melbourne",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-melbourne/place-10-bogong-high-plains.jpg",
+    "place_name": "Bogong High Plains",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bogonghighplains.JPG"
+  },
+  {
+    "cover_from_place_key": "perisher_valley",
+    "cover_from_place_name": "Perisher Valley",
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Brisbane",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-01-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-02-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-03-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-04-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-05-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-06-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-07-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-08-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-09-ben-lomond-nsw.jpg",
+    "place_name": "Ben Lomond NSW",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ben_Lomond_Soldiers_Memorial_Hall_001.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-brisbane",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-brisbane/place-10-barrington-tops-gloucester-tops.jpg",
+    "place_name": "Barrington Tops / Gloucester Tops",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20Gum%20(Eucalyptus%20pauciflora)%20woodland,%20Gloucester%20Tops%20(45391895202).jpg?width=1600"
+  },
+  {
+    "cover_from_place_key": "bluff_knoll",
+    "cover_from_place_name": "Bluff Knoll",
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Perth",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bluff%20Knoll,%20Stirling%20Range,%20Western%20Australia.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-01-bluff-knoll.jpg",
+    "place_name": "Bluff Knoll",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bluff%20Knoll,%20Stirling%20Range,%20Western%20Australia.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-02-toolbrunup-peak.jpg",
+    "place_name": "Toolbrunup Peak",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toolbrunup%20gnangarra.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-03-mount-trio.jpg",
+    "place_name": "Mount Trio",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20Mount%20Trio%20Stirling%20Range.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-04-mount-hassell.jpg",
+    "place_name": "Mount Hassell",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Endless%20Stations%20158%20-%20Below%20Mount%20Hassell.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-05-eastern-lookout-stirling-range.jpg",
+    "place_name": "Eastern Lookout, Stirling Range",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stirling%20view.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-06-mt-buller.jpg",
+    "place_name": "Mt Buller",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mount_Buller_from_the_Howqua_Valley.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-07-falls-creek-alpine-resort.jpg",
+    "place_name": "Falls Creek Alpine Resort",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Falls_Creek1.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-08-mt-hotham.jpg",
+    "place_name": "Mt Hotham",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mt_Hotham_from_the_summit_2007.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-09-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-perth",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-perth/place-10-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "cover_from_place_key": "thredbo",
+    "cover_from_place_name": "Thredbo Village",
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Wollongong",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-01-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-02-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-03-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-04-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-05-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-06-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-07-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-08-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-09-mount-ginini-area.jpg",
+    "place_name": "Mount Ginini area",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Ginini%20in%20winter.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-wollongong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-wollongong/place-10-brindabella-mt-franklin-snow-area.jpg",
+    "place_name": "Brindabella / Mt Franklin snow area",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20on%20the%20Brindabellas%20August%202012.JPG?width=1600"
+  },
+  {
+    "cover_from_place_key": "falls_creek",
+    "cover_from_place_name": "Falls Creek Alpine Resort",
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Adelaide",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Falls_Creek1.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-01-mt-buller.jpg",
+    "place_name": "Mt Buller",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mount_Buller_from_the_Howqua_Valley.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-02-mt-stirling-snow-play-area.jpg",
+    "place_name": "Mt Stirling Snow Play Area",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bluff-spur-hut.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-03-falls-creek-alpine-resort.jpg",
+    "place_name": "Falls Creek Alpine Resort",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Falls_Creek1.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-04-mt-hotham.jpg",
+    "place_name": "Mt Hotham",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mt_Hotham_from_the_summit_2007.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-05-dinner-plain.jpg",
+    "place_name": "Dinner Plain",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1_dinner_plain_aerial_panorama_2018.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-06-mt-buffalo-dingo-dell.jpg",
+    "place_name": "Mt Buffalo / Dingo Dell",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mt_buffalo_plateau.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-07-lake-mountain-alpine-resort.jpg",
+    "place_name": "Lake Mountain Alpine Resort",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake-Mountain-trail.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-08-mt-baw-baw-alpine-resort.jpg",
+    "place_name": "Mt Baw Baw Alpine Resort",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Baw-baw-view-gippsland.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-09-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-adelaide",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-adelaide/place-10-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "cover_from_place_key": "corin_forest",
+    "cover_from_place_name": "Corin Forest",
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Canberra",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-01-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-02-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-03-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-04-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-05-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-06-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-07-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-08-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-09-mount-ginini-area.jpg",
+    "place_name": "Mount Ginini area",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Ginini%20in%20winter.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-canberra",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-canberra/place-10-brindabella-mt-franklin-snow-area.jpg",
+    "place_name": "Brindabella / Mt Franklin snow area",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20on%20the%20Brindabellas%20August%202012.JPG?width=1600"
+  },
+  {
+    "cover_from_place_key": "kunanyi_mt_wellington",
+    "cover_from_place_name": "kunanyi / Mt Wellington",
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Hobart",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snowfall%20on%20Kunanyi.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-01-kunanyi-mt-wellington.jpg",
+    "place_name": "kunanyi / Mt Wellington",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snowfall%20on%20Kunanyi.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-02-lake-dobson.jpg",
+    "place_name": "Lake Dobson",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Dobson%20-%20Mount%20Field%20National%20Park%20Tasmania.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-03-mount-mawson.jpg",
+    "place_name": "Mount Mawson",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Mawson.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-04-ben-lomond-alpine-resort.jpg",
+    "place_name": "Ben Lomond Alpine Resort",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ben_Lomond_snow_fields.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-05-jacobs-ladder.jpg",
+    "place_name": "Jacobs Ladder",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ben_Lomond_snow_fields.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-06-cradle-mountain.jpg",
+    "place_name": "Cradle Mountain",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-07-dove-lake.jpg",
+    "place_name": "Dove Lake",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Dove-Lake_from_South-2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-08-hartz-mountains-national-park.jpg",
+    "place_name": "Hartz Mountains National Park",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ladies_Tarn_Hartz_NP.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-09-central-plateau-liawenee.jpg",
+    "place_name": "Central Plateau / Liawenee",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pine_Lagoon%2C_Central_Plateau_Conservation_Area%2C_Tasmania.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-hobart",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-hobart/place-10-lake-st-clair.jpg",
+    "place_name": "Lake St Clair",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Echo_Point_-_Lake_St_Clair_-_Dawn_02.jpg"
+  },
+  {
+    "cover_from_place_key": "mt_hotham",
+    "cover_from_place_name": "Mt Hotham",
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Darwin",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mt_Hotham_from_the_summit_2007.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-01-mt-buller.jpg",
+    "place_name": "Mt Buller",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mount_Buller_from_the_Howqua_Valley.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-02-falls-creek-alpine-resort.jpg",
+    "place_name": "Falls Creek Alpine Resort",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Falls_Creek1.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-03-mt-hotham.jpg",
+    "place_name": "Mt Hotham",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mt_Hotham_from_the_summit_2007.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-04-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-05-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-06-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-07-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-08-lake-mountain-alpine-resort.jpg",
+    "place_name": "Lake Mountain Alpine Resort",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake-Mountain-trail.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-09-mt-baw-baw-alpine-resort.jpg",
+    "place_name": "Mt Baw Baw Alpine Resort",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Baw-baw-view-gippsland.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-darwin",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-darwin/place-10-ben-lomond-alpine-resort.jpg",
+    "place_name": "Ben Lomond Alpine Resort",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ben_Lomond_snow_fields.JPG"
+  },
+  {
+    "cover_from_place_key": "selwyn",
+    "cover_from_place_name": "Selwyn Snow Resort",
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Gold Coast",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-01-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-02-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-03-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-04-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-05-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-06-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-07-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-08-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-09-ben-lomond-nsw.jpg",
+    "place_name": "Ben Lomond NSW",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ben_Lomond_Soldiers_Memorial_Hall_001.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-gold-coast",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-gold-coast/place-10-barrington-tops-gloucester-tops.jpg",
+    "place_name": "Barrington Tops / Gloucester Tops",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20Gum%20(Eucalyptus%20pauciflora)%20woodland,%20Gloucester%20Tops%20(45391895202).jpg?width=1600"
+  },
+  {
+    "cover_from_place_key": "barrington_tops",
+    "cover_from_place_name": "Barrington Tops / Gloucester Tops",
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Newcastle",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20Gum%20(Eucalyptus%20pauciflora)%20woodland,%20Gloucester%20Tops%20(45391895202).jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-01-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-02-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-03-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-04-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-05-barrington-tops-gloucester-tops.jpg",
+    "place_name": "Barrington Tops / Gloucester Tops",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20Gum%20(Eucalyptus%20pauciflora)%20woodland,%20Gloucester%20Tops%20(45391895202).jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-06-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-07-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-08-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-09-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-newcastle",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-newcastle/place-10-ben-lomond-nsw.jpg",
+    "place_name": "Ben Lomond NSW",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ben_Lomond_Soldiers_Memorial_Hall_001.JPG"
+  },
+  {
+    "cover_from_place_key": "mt_stirling",
+    "cover_from_place_name": "Mt Stirling Snow Play Area",
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Geelong",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bluff-spur-hut.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-01-mt-buller.jpg",
+    "place_name": "Mt Buller",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mount_Buller_from_the_Howqua_Valley.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-02-mt-stirling-snow-play-area.jpg",
+    "place_name": "Mt Stirling Snow Play Area",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bluff-spur-hut.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-03-lake-mountain-alpine-resort.jpg",
+    "place_name": "Lake Mountain Alpine Resort",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake-Mountain-trail.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-04-mt-donna-buang-summit.jpg",
+    "place_name": "Mt Donna Buang Summit",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mount_Donna_Buang_with_its_21m_high_observation_tower.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-05-mt-baw-baw-alpine-resort.jpg",
+    "place_name": "Mt Baw Baw Alpine Resort",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Baw-baw-view-gippsland.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-06-mt-buffalo-dingo-dell.jpg",
+    "place_name": "Mt Buffalo / Dingo Dell",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mt_buffalo_plateau.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-07-falls-creek-alpine-resort.jpg",
+    "place_name": "Falls Creek Alpine Resort",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Falls_Creek1.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-08-dinner-plain.jpg",
+    "place_name": "Dinner Plain",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1_dinner_plain_aerial_panorama_2018.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-09-mt-hotham.jpg",
+    "place_name": "Mt Hotham",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mt_Hotham_from_the_summit_2007.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-geelong",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-geelong/place-10-bogong-high-plains.jpg",
+    "place_name": "Bogong High Plains",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bogonghighplains.JPG"
+  },
+  {
+    "cover_from_place_key": "ben_lomond_nsw",
+    "cover_from_place_name": "Ben Lomond NSW",
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Armidale",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ben_Lomond_Soldiers_Memorial_Hall_001.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-01-ben-lomond-nsw.jpg",
+    "place_name": "Ben Lomond NSW",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ben_Lomond_Soldiers_Memorial_Hall_001.JPG"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-02-barrington-tops-gloucester-tops.jpg",
+    "place_name": "Barrington Tops / Gloucester Tops",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20Gum%20(Eucalyptus%20pauciflora)%20woodland,%20Gloucester%20Tops%20(45391895202).jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-03-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-04-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-05-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-06-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-07-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-08-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-09-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-armidale",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-armidale/place-10-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "cover_from_place_key": "oberon_snow",
+    "cover_from_place_name": "Oberon",
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/cover.jpg",
+    "place_name": "Top 10 Snow Spots in Sydney",
+    "place_position": null,
+    "slot_type": "cover",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Day%20old%20snow,%20Oberon.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-01-perisher-valley.jpg",
+    "place_name": "Perisher Valley",
+    "place_position": 0,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Perisher_from_Mount_Perisher.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-02-thredbo-village.jpg",
+    "place_name": "Thredbo Village",
+    "place_position": 1,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Thredbo_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-03-charlotte-pass.jpg",
+    "place_name": "Charlotte Pass",
+    "place_position": 2,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Pass_2008.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-04-selwyn-snow-resort.jpg",
+    "place_name": "Selwyn Snow Resort",
+    "place_position": 3,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Selwyn_Snowfields_July_2011.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-05-smiggin-holes.jpg",
+    "place_name": "Smiggin Holes",
+    "place_position": 4,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smiggin_holes.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-06-blue-cow.jpg",
+    "place_name": "Blue Cow",
+    "place_position": 5,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Perisher_Blue_-_Kosciuszko.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-07-guthega.jpg",
+    "place_name": "Guthega",
+    "place_position": 6,
+    "slot_type": "place",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guthega_ski_resort.jpg"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-08-corin-forest.jpg",
+    "place_name": "Corin Forest",
+    "place_position": 7,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice%20and%20Snow%20on%20Dirt%20Road%20in%20Corin%20Forest%20-%20panoramio.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-09-oberon.jpg",
+    "place_name": "Oberon",
+    "place_position": 8,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Day%20old%20snow,%20Oberon.jpg?width=1600"
+  },
+  {
+    "guide_slug": "top-10-snow-spots-in-sydney",
+    "hosted_url": "https://pcgdqsdiidtiziypvqri.supabase.co/storage/v1/object/public/make-1d591b90-guide-assets/city-guides/top-10-snow-spots-in-sydney/place-10-blackheath-upper-blue-mountains.jpg",
+    "place_name": "Blackheath / Upper Blue Mountains",
+    "place_position": 9,
+    "slot_type": "place",
+    "source_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackheath%20NSW%20Snow20-6-07-35.jpg?width=1600"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "nt-sa2-alligator",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Alligator",
+    "sa2_slug": "alligator",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 47.0,
+      "non_dv_assault": 19.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 7.0,
+      "break_enter_non_dwelling": 9.0,
+      "motor_vehicle_theft": 9.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 54.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 65.0,
+      "personal_safety_score_0_100": 45.0,
+      "overall_caution_score_0_100": 40.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (45/100) and property crime (65/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-anindilyakwa",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Anindilyakwa",
+    "sa2_slug": "anindilyakwa",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 38.0,
+      "non_dv_assault": 11.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 10.0,
+      "break_enter_non_dwelling": 3.0,
+      "motor_vehicle_theft": 3.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 36.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 40.0,
+      "personal_safety_score_0_100": 25.0,
+      "overall_caution_score_0_100": 25.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (25/100) and property crime (40/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-barkly",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Barkly",
+    "sa2_slug": "barkly",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 51.0,
+      "non_dv_assault": 8.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 27.0,
+      "break_enter_non_dwelling": 28.0,
+      "motor_vehicle_theft": 1.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 51.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 85.0,
+      "personal_safety_score_0_100": 35.0,
+      "overall_caution_score_0_100": 50.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (35/100) and property crime (85/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-daly",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Daly",
+    "sa2_slug": "daly",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 38.0,
+      "non_dv_assault": 26.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 9.0,
+      "break_enter_non_dwelling": 11.0,
+      "motor_vehicle_theft": 3.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 59.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 70.0,
+      "personal_safety_score_0_100": 40.0,
+      "overall_caution_score_0_100": 35.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (40/100) and property crime (70/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-east-arnhem",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "East Arnhem",
+    "sa2_slug": "east-arnhem",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 198.0,
+      "non_dv_assault": 44.0,
+      "robbery": 5.0,
+      "break_enter_dwelling": 52.0,
+      "break_enter_non_dwelling": 54.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 216.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 100.0,
+      "personal_safety_score_0_100": 95.0,
+      "overall_caution_score_0_100": 100.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-elsey",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Elsey",
+    "sa2_slug": "elsey",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 82.0,
+      "non_dv_assault": 22.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 4.0,
+      "break_enter_non_dwelling": 13.0,
+      "motor_vehicle_theft": 3.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 21.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 20.0,
+      "personal_safety_score_0_100": 70.0,
+      "overall_caution_score_0_100": 70.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (70/100) and property crime (20/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-gulf",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Gulf",
+    "sa2_slug": "gulf",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 118.0,
+      "non_dv_assault": 33.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 14.0,
+      "break_enter_non_dwelling": 8.0,
+      "motor_vehicle_theft": 0.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 75.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 75.0,
+      "personal_safety_score_0_100": 80.0,
+      "overall_caution_score_0_100": 80.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-howard-springs",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Howard Springs",
+    "sa2_slug": "howard-springs",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 11.0,
+      "non_dv_assault": 177.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 5.0,
+      "break_enter_non_dwelling": 8.0,
+      "motor_vehicle_theft": 0.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 85.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 80.0,
+      "personal_safety_score_0_100": 90.0,
+      "overall_caution_score_0_100": 85.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-humpty-doo",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Humpty Doo",
+    "sa2_slug": "humpty-doo",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 20.0,
+      "non_dv_assault": 18.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 7.0,
+      "break_enter_non_dwelling": 2.0,
+      "motor_vehicle_theft": 8.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 36.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 45.0,
+      "personal_safety_score_0_100": 20.0,
+      "overall_caution_score_0_100": 20.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-koolpinyah",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Koolpinyah",
+    "sa2_slug": "koolpinyah",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 2.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 0.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 0.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 5.0,
+      "personal_safety_score_0_100": 5.0,
+      "overall_caution_score_0_100": 5.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-petermann-simpson",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Petermann - Simpson",
+    "sa2_slug": "petermann-simpson",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 38.0,
+      "non_dv_assault": 13.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 9.0,
+      "break_enter_non_dwelling": 11.0,
+      "motor_vehicle_theft": 1.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 28.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 35.0,
+      "personal_safety_score_0_100": 30.0,
+      "overall_caution_score_0_100": 30.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (30/100) and property crime (35/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-sandover-plenty",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Sandover - Plenty",
+    "sa2_slug": "sandover-plenty",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 68.0,
+      "non_dv_assault": 28.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 3.0,
+      "break_enter_non_dwelling": 9.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 30.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 25.0,
+      "personal_safety_score_0_100": 65.0,
+      "overall_caution_score_0_100": 65.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (65/100) and property crime (25/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-tanami",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Tanami",
+    "sa2_slug": "tanami",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 74.0,
+      "non_dv_assault": 17.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 8.0,
+      "break_enter_non_dwelling": 18.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 28.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 50.0,
+      "personal_safety_score_0_100": 60.0,
+      "overall_caution_score_0_100": 60.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (60/100) and property crime (50/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-thamarrurr",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Thamarrurr",
+    "sa2_slug": "thamarrurr",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 218.0,
+      "non_dv_assault": 35.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 20.0,
+      "break_enter_non_dwelling": 19.0,
+      "motor_vehicle_theft": 6.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 114.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 95.0,
+      "personal_safety_score_0_100": 100.0,
+      "overall_caution_score_0_100": 95.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-tiwi-islands",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Tiwi Islands",
+    "sa2_slug": "tiwi-islands",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 112.0,
+      "non_dv_assault": 17.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 2.0,
+      "break_enter_non_dwelling": 7.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 25.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 15.0,
+      "personal_safety_score_0_100": 75.0,
+      "overall_caution_score_0_100": 75.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-victoria-river",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Victoria River",
+    "sa2_slug": "victoria-river",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 66.0,
+      "non_dv_assault": 14.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 16.0,
+      "break_enter_non_dwelling": 11.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 40.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 60.0,
+      "personal_safety_score_0_100": 55.0,
+      "overall_caution_score_0_100": 55.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (55/100) and property crime (60/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-virginia",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Virginia",
+    "sa2_slug": "virginia",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 15.0,
+      "non_dv_assault": 11.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 6.0,
+      "motor_vehicle_theft": 7.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 31.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 30.0,
+      "personal_safety_score_0_100": 15.0,
+      "overall_caution_score_0_100": 15.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-weddell",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Weddell",
+    "sa2_slug": "weddell",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 8.0,
+      "non_dv_assault": 7.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 3.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 20.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 10.0,
+      "personal_safety_score_0_100": 10.0,
+      "overall_caution_score_0_100": 10.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-west-arnhem",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "West Arnhem",
+    "sa2_slug": "west-arnhem",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 147.0,
+      "non_dv_assault": 27.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 31.0,
+      "break_enter_non_dwelling": 13.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 102.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 90.0,
+      "personal_safety_score_0_100": 85.0,
+      "overall_caution_score_0_100": 90.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  },
+  {
+    "id": "nt-sa2-yuendumu-anmatjere",
+    "state": "NT",
+    "geo_type": "SA2",
+    "sa2": "Yuendumu - Anmatjere",
+    "sa2_slug": "yuendumu-anmatjere",
+    "reporting_region": "NT Balance",
+    "source": "NT monthly crime statistics CSVs",
+    "period": "Jan, Feb, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec 2025",
+    "missing_months": [
+      "2025-03",
+      "2025-10"
+    ],
+    "coverage_note": "10 monthly files contributed usable 2025 data. March 2025 was not available, and the file named October 2025 did not contain October 2025 rows.",
+    "dataset_version": "2025_nt_sa2_recorded_offences_partial",
+    "generated_at": "2026-03-21",
+    "data_granularity": "SA2",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_available_months": {
+      "dv_assault": 50.0,
+      "non_dv_assault": 28.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 15.0,
+      "break_enter_non_dwelling": 10.0,
+      "motor_vehicle_theft": 0.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 34.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 55.0,
+      "personal_safety_score_0_100": 50.0,
+      "overall_caution_score_0_100": 45.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (50/100) and property crime (55/100) compared with other NT SA2 areas."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across NT SA2 areas using selected recorded offence counts from downloaded 2025 monthly files only.",
+      "warning": "This is SA2-level offence context, not suburb-level crime and not per-capita crime rates. March 2025 was not available in the source download, and the file named October 2025 did not contain October 2025 rows, so October 2025 is also excluded.",
+      "source_caveat": "An October 2025 CSV was downloaded from the NT portal, but its 2025 records only covered months 1-9. To avoid fabricating October data, this JSON excludes October 2025."
+    }
+  }
+]

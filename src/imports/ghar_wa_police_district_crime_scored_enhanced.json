@@ -1,0 +1,647 @@
+[
+  {
+    "id": "wa-district-armadale",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Armadale",
+    "district_slug": "armadale",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2945.0,
+      "non_dv_assault": 1511.0,
+      "robbery": 215.0,
+      "break_enter_dwelling": 1025.0,
+      "break_enter_non_dwelling": 383.0,
+      "motor_vehicle_theft": 403.0,
+      "steal_from_vehicle": 2236.0,
+      "retail_theft": 3490.0,
+      "malicious_damage": 2695.0,
+      "dv_order_breach": 1600.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 86.7,
+      "personal_safety_score_0_100": 86.7,
+      "overall_caution_score_0_100": 86.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-cannington",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Cannington",
+    "district_slug": "cannington",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2279.0,
+      "non_dv_assault": 1725.0,
+      "robbery": 180.0,
+      "break_enter_dwelling": 1219.0,
+      "break_enter_non_dwelling": 468.0,
+      "motor_vehicle_theft": 582.0,
+      "steal_from_vehicle": 5033.0,
+      "retail_theft": 4705.0,
+      "malicious_damage": 3199.0,
+      "dv_order_breach": 968.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 100.0,
+      "personal_safety_score_0_100": 80.0,
+      "overall_caution_score_0_100": 100.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-fremantle",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Fremantle",
+    "district_slug": "fremantle",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2106.0,
+      "non_dv_assault": 1267.0,
+      "robbery": 188.0,
+      "break_enter_dwelling": 1046.0,
+      "break_enter_non_dwelling": 457.0,
+      "motor_vehicle_theft": 494.0,
+      "steal_from_vehicle": 2323.0,
+      "retail_theft": 4788.0,
+      "malicious_damage": 2254.0,
+      "dv_order_breach": 1094.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 93.3,
+      "personal_safety_score_0_100": 53.3,
+      "overall_caution_score_0_100": 80.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-joondalup",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Joondalup",
+    "district_slug": "joondalup",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2426.0,
+      "non_dv_assault": 1176.0,
+      "robbery": 155.0,
+      "break_enter_dwelling": 745.0,
+      "break_enter_non_dwelling": 307.0,
+      "motor_vehicle_theft": 375.0,
+      "steal_from_vehicle": 1210.0,
+      "retail_theft": 2353.0,
+      "malicious_damage": 2045.0,
+      "dv_order_breach": 1280.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 60.0,
+      "personal_safety_score_0_100": 63.3,
+      "overall_caution_score_0_100": 53.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (63/100) and property crime (60/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-mandurah",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Mandurah",
+    "district_slug": "mandurah",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 3432.0,
+      "non_dv_assault": 1550.0,
+      "robbery": 180.0,
+      "break_enter_dwelling": 1034.0,
+      "break_enter_non_dwelling": 376.0,
+      "motor_vehicle_theft": 486.0,
+      "steal_from_vehicle": 1621.0,
+      "retail_theft": 3522.0,
+      "malicious_damage": 2624.0,
+      "dv_order_breach": 1950.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 73.3,
+      "personal_safety_score_0_100": 93.3,
+      "overall_caution_score_0_100": 93.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-midland",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Midland",
+    "district_slug": "midland",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2631.0,
+      "non_dv_assault": 1325.0,
+      "robbery": 142.0,
+      "break_enter_dwelling": 895.0,
+      "break_enter_non_dwelling": 457.0,
+      "motor_vehicle_theft": 457.0,
+      "steal_from_vehicle": 1512.0,
+      "retail_theft": 3238.0,
+      "malicious_damage": 2335.0,
+      "dv_order_breach": 1072.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 66.7,
+      "personal_safety_score_0_100": 73.3,
+      "overall_caution_score_0_100": 66.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (73/100) and property crime (67/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-mirrabooka",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Mirrabooka",
+    "district_slug": "mirrabooka",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2352.0,
+      "non_dv_assault": 1238.0,
+      "robbery": 167.0,
+      "break_enter_dwelling": 999.0,
+      "break_enter_non_dwelling": 291.0,
+      "motor_vehicle_theft": 480.0,
+      "steal_from_vehicle": 2227.0,
+      "retail_theft": 3452.0,
+      "malicious_damage": 2253.0,
+      "dv_order_breach": 1194.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 80.0,
+      "personal_safety_score_0_100": 63.3,
+      "overall_caution_score_0_100": 60.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (63/100) and property crime (80/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-perth",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Perth",
+    "district_slug": "perth",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 1271.0,
+      "non_dv_assault": 2023.0,
+      "robbery": 169.0,
+      "break_enter_dwelling": 503.0,
+      "break_enter_non_dwelling": 415.0,
+      "motor_vehicle_theft": 222.0,
+      "steal_from_vehicle": 1808.0,
+      "retail_theft": 2365.0,
+      "malicious_damage": 1462.0,
+      "dv_order_breach": 590.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 53.3,
+      "personal_safety_score_0_100": 46.7,
+      "overall_caution_score_0_100": 46.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (47/100) and property crime (53/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-goldfields-esperance",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Goldfields-Esperance",
+    "district_slug": "goldfields-esperance",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 1869.0,
+      "non_dv_assault": 891.0,
+      "robbery": 21.0,
+      "break_enter_dwelling": 424.0,
+      "break_enter_non_dwelling": 276.0,
+      "motor_vehicle_theft": 246.0,
+      "steal_from_vehicle": 320.0,
+      "retail_theft": 502.0,
+      "malicious_damage": 1222.0,
+      "dv_order_breach": 533.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 26.7,
+      "personal_safety_score_0_100": 26.7,
+      "overall_caution_score_0_100": 20.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-great-southern",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Great Southern",
+    "district_slug": "great-southern",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 883.0,
+      "non_dv_assault": 473.0,
+      "robbery": 26.0,
+      "break_enter_dwelling": 321.0,
+      "break_enter_non_dwelling": 145.0,
+      "motor_vehicle_theft": 125.0,
+      "steal_from_vehicle": 351.0,
+      "retail_theft": 579.0,
+      "malicious_damage": 1017.0,
+      "dv_order_breach": 269.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 13.3,
+      "personal_safety_score_0_100": 13.3,
+      "overall_caution_score_0_100": 13.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-kimberley",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Kimberley",
+    "district_slug": "kimberley",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 4679.0,
+      "non_dv_assault": 1286.0,
+      "robbery": 38.0,
+      "break_enter_dwelling": 1002.0,
+      "break_enter_non_dwelling": 498.0,
+      "motor_vehicle_theft": 473.0,
+      "steal_from_vehicle": 414.0,
+      "retail_theft": 243.0,
+      "malicious_damage": 1854.0,
+      "dv_order_breach": 1063.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 33.3,
+      "personal_safety_score_0_100": 100.0,
+      "overall_caution_score_0_100": 73.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (100/100) and property crime (33/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-mid-west-gascoyne",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Mid West-Gascoyne",
+    "district_slug": "mid-west-gascoyne",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2272.0,
+      "non_dv_assault": 1074.0,
+      "robbery": 76.0,
+      "break_enter_dwelling": 905.0,
+      "break_enter_non_dwelling": 308.0,
+      "motor_vehicle_theft": 257.0,
+      "steal_from_vehicle": 756.0,
+      "retail_theft": 1002.0,
+      "malicious_damage": 2183.0,
+      "dv_order_breach": 616.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 46.7,
+      "personal_safety_score_0_100": 40.0,
+      "overall_caution_score_0_100": 40.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (40/100) and property crime (47/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-pilbara",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Pilbara",
+    "district_slug": "pilbara",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 2201.0,
+      "non_dv_assault": 919.0,
+      "robbery": 25.0,
+      "break_enter_dwelling": 585.0,
+      "break_enter_non_dwelling": 272.0,
+      "motor_vehicle_theft": 280.0,
+      "steal_from_vehicle": 262.0,
+      "retail_theft": 315.0,
+      "malicious_damage": 1179.0,
+      "dv_order_breach": 464.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 20.0,
+      "personal_safety_score_0_100": 33.3,
+      "overall_caution_score_0_100": 26.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (33/100) and property crime (20/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-south-west",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "South West",
+    "district_slug": "south-west",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 1785.0,
+      "non_dv_assault": 906.0,
+      "robbery": 67.0,
+      "break_enter_dwelling": 587.0,
+      "break_enter_non_dwelling": 378.0,
+      "motor_vehicle_theft": 282.0,
+      "steal_from_vehicle": 695.0,
+      "retail_theft": 1293.0,
+      "malicious_damage": 1510.0,
+      "dv_order_breach": 1074.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 40.0,
+      "personal_safety_score_0_100": 20.0,
+      "overall_caution_score_0_100": 33.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence context across personal safety (20/100) and property crime (40/100) compared with other WA police districts."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  },
+  {
+    "id": "wa-district-wheatbelt",
+    "state": "WA",
+    "geo_type": "police_district",
+    "district": "Wheatbelt",
+    "district_slug": "wheatbelt",
+    "source": "WA Police Force offence time series workbook",
+    "period": "2024-01 to 2024-12",
+    "dataset_version": "wa_police_district_selected_offences_jan2024_dec2024",
+    "generated_at": "2026-03-21",
+    "data_granularity": "police_district",
+    "suburb_level": false,
+    "score_basis": "relative_offence_counts",
+    "crime_metrics_count_12m": {
+      "dv_assault": 709.0,
+      "non_dv_assault": 299.0,
+      "robbery": 17.0,
+      "break_enter_dwelling": 183.0,
+      "break_enter_non_dwelling": 118.0,
+      "motor_vehicle_theft": 81.0,
+      "steal_from_vehicle": 79.0,
+      "retail_theft": 282.0,
+      "malicious_damage": 566.0,
+      "dv_order_breach": 233.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 6.7,
+      "personal_safety_score_0_100": 6.7,
+      "overall_caution_score_0_100": 6.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence context compared with other WA police districts in the latest available 12-month period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across WA police districts using selected offence counts for the latest full 12-month period available in the workbook.",
+      "warning": "This is police-district-level offence context, not suburb-level crime and not LGA-level crime.",
+      "difference_from_other_states": "WA source is police district based, not LGA based."
+    }
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "University of New England": {
+    "Armidale CBD": {
+      "type": "Feature",
+      "properties": { "display_name": "Armidale, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[151.645, -30.495], [151.685, -30.495], [151.685, -30.525], [151.645, -30.525], [151.645, -30.495]]]
+      }
+    },
+    "Uralla": {
+      "type": "Feature",
+      "properties": { "name": "Uralla", "display_name": "Uralla, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.934, -30.398], [151.774, -30.073], [151.450, -30.897],
+          [150.934, -30.398]
+        ]]
+      }
+    }
+  },
+  "University of New South Wales (UNSW)": {
+    "Kensington": {
+      "type": "Feature",
+      "properties": { "name": "Kensington", "display_name": "Kensington, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.211, -33.920], [151.236, -33.901], [151.230, -33.924],
+          [151.211, -33.920]
+        ]]
+      }
+    }
+  },
+  "University of Newcastle": {
+    "Jesmond": {
+      "type": "Feature",
+      "properties": { "name": "Jesmond", "display_name": "Jesmond, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.690, -32.890], [151.710, -32.890], [151.710, -32.910],
+          [151.690, -32.910], [151.690, -32.890]
+        ]]
+      }
+    }
+  },
+  "University of Notre Dame Australia": {
+    "Fremantle": {
+      "type": "Feature",
+      "properties": { "name": "Fremantle", "display_name": "Fremantle, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.740, -32.040], [115.770, -32.040], [115.770, -32.070],
+          [115.740, -32.070], [115.740, -32.040]
+        ]]
+      }
+    }
+  },
+  "University of Queensland": {
+    "St Lucia": {
+      "type": "Feature",
+      "properties": { "name": "St Lucia", "display_name": "St Lucia, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [152.990, -27.480], [153.020, -27.480], [153.020, -27.510],
+          [152.990, -27.510], [152.990, -27.480]
+        ]]
+      }
+    }
+  },
+  "University of South Australia": {
+    "Mawson Lakes": {
+      "type": "Feature",
+      "properties": { "name": "Mawson Lakes", "display_name": "Mawson Lakes, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.590, -34.790], [138.630, -34.790], [138.630, -34.820],
+          [138.590, -34.820], [138.590, -34.790]
+        ]]
+      }
+    }
+  },
+  "University of Southern Queensland": {
+    "Darling Heights": {
+      "type": "Feature",
+      "properties": { "name": "Darling Heights", "display_name": "Darling Heights, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.920, -27.590], [151.950, -27.590], [151.950, -27.620],
+          [151.920, -27.620], [151.920, -27.590]
+        ]]
+      }
+    }
+  },
+  "University of Sydney": {
+    "Darlington": {
+      "type": "Feature",
+      "properties": { "name": "Darlington", "display_name": "Darlington, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.185, -33.885], [151.198, -33.885], [151.198, -33.895],
+          [151.185, -33.895], [151.185, -33.885]
+        ]]
+      }
+    }
+  },
+  "University of Tasmania": {
+    "Sandy Bay": {
+      "type": "Feature",
+      "properties": { "name": "Sandy Bay", "display_name": "Sandy Bay, TAS, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [147.310, -42.890], [147.350, -42.890], [147.350, -42.920],
+          [147.310, -42.920], [147.310, -42.890]
+        ]]
+      }
+    }
+  },
+  "University of Technology Sydney": {
+    "Ultimo": {
+      "type": "Feature",
+      "properties": { "name": "Ultimo", "display_name": "Ultimo, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.190, -33.875], [151.205, -33.875], [151.205, -33.888],
+          [151.190, -33.888], [151.190, -33.875]
+        ]]
+      }
+    }
+  }
+}

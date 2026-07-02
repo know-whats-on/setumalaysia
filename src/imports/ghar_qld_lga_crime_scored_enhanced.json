@@ -1,0 +1,3200 @@
+[
+  {
+    "id": "qld-lga-aurukun-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Aurukun Shire Council",
+    "lga_slug": "aurukun-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 17.0,
+      "non_dv_assault": 8.0,
+      "robbery": 7.0,
+      "break_enter_dwelling": 30.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 42.0,
+      "steal_from_vehicle": 9.0,
+      "retail_theft": 15.0,
+      "malicious_damage": 29.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 41.0,
+      "personal_safety_score_0_100": 48.7,
+      "overall_caution_score_0_100": 44.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (49/100) and property crime (41/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-balonne-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Balonne Shire Council",
+    "lga_slug": "balonne-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 17.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 17.0,
+      "break_enter_non_dwelling": 7.0,
+      "motor_vehicle_theft": 70.0,
+      "steal_from_vehicle": 30.0,
+      "retail_theft": 25.0,
+      "malicious_damage": 21.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 47.4,
+      "personal_safety_score_0_100": 34.6,
+      "overall_caution_score_0_100": 46.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (35/100) and property crime (47/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-banana-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Banana Shire Council",
+    "lga_slug": "banana-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 34.0,
+      "non_dv_assault": 1.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 53.0,
+      "break_enter_non_dwelling": 6.0,
+      "motor_vehicle_theft": 199.0,
+      "steal_from_vehicle": 88.0,
+      "retail_theft": 40.0,
+      "malicious_damage": 40.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 55.1,
+      "personal_safety_score_0_100": 55.8,
+      "overall_caution_score_0_100": 55.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (56/100) and property crime (55/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-barcaldine-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Barcaldine Regional Council",
+    "lga_slug": "barcaldine-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 4.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 5.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 160.0,
+      "steal_from_vehicle": 151.0,
+      "retail_theft": 4.0,
+      "malicious_damage": 3.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 52.6,
+      "personal_safety_score_0_100": 22.4,
+      "overall_caution_score_0_100": 50.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (22/100) and property crime (53/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-barcoo-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Barcoo Shire Council",
+    "lga_slug": "barcoo-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 0.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 0.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 0.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 1.3,
+      "personal_safety_score_0_100": 2.6,
+      "overall_caution_score_0_100": 1.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-blackall-tambo-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Blackall-Tambo Regional Council",
+    "lga_slug": "blackall-tambo-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 2.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 9.0,
+      "steal_from_vehicle": 6.0,
+      "retail_theft": 2.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 14.1,
+      "personal_safety_score_0_100": 12.8,
+      "overall_caution_score_0_100": 12.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-boulia-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Boulia Shire Council",
+    "lga_slug": "boulia-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 1.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 1.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 5.1,
+      "personal_safety_score_0_100": 7.1,
+      "overall_caution_score_0_100": 5.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-brisbane-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Brisbane City Council",
+    "lga_slug": "brisbane-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 2053.0,
+      "non_dv_assault": 213.0,
+      "robbery": 376.0,
+      "break_enter_dwelling": 5965.0,
+      "break_enter_non_dwelling": 168.0,
+      "motor_vehicle_theft": 44943.0,
+      "steal_from_vehicle": 17882.0,
+      "retail_theft": 9016.0,
+      "malicious_damage": 5531.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 100.0,
+      "personal_safety_score_0_100": 100.0,
+      "overall_caution_score_0_100": 100.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-bulloo-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Bulloo Shire Council",
+    "lga_slug": "bulloo-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 1.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 0.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 1.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 2.6,
+      "personal_safety_score_0_100": 7.1,
+      "overall_caution_score_0_100": 3.8,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-bundaberg-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Bundaberg Regional Council",
+    "lga_slug": "bundaberg-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 204.0,
+      "non_dv_assault": 17.0,
+      "robbery": 14.0,
+      "break_enter_dwelling": 250.0,
+      "break_enter_non_dwelling": 41.0,
+      "motor_vehicle_theft": 2461.0,
+      "steal_from_vehicle": 1253.0,
+      "retail_theft": 437.0,
+      "malicious_damage": 283.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 83.3,
+      "personal_safety_score_0_100": 83.3,
+      "overall_caution_score_0_100": 83.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-burdekin-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Burdekin Shire Council",
+    "lga_slug": "burdekin-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 29.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 47.0,
+      "break_enter_non_dwelling": 3.0,
+      "motor_vehicle_theft": 243.0,
+      "steal_from_vehicle": 158.0,
+      "retail_theft": 36.0,
+      "malicious_damage": 51.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 59.0,
+      "personal_safety_score_0_100": 46.2,
+      "overall_caution_score_0_100": 59.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (46/100) and property crime (59/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-burke-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Burke Shire Council",
+    "lga_slug": "burke-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 4.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 0.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 12.0,
+      "steal_from_vehicle": 8.0,
+      "retail_theft": 4.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 17.9,
+      "personal_safety_score_0_100": 22.4,
+      "overall_caution_score_0_100": 17.9,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-cairns-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Cairns Regional Council",
+    "lga_slug": "cairns-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 606.0,
+      "non_dv_assault": 92.0,
+      "robbery": 94.0,
+      "break_enter_dwelling": 2404.0,
+      "break_enter_non_dwelling": 39.0,
+      "motor_vehicle_theft": 7188.0,
+      "steal_from_vehicle": 3041.0,
+      "retail_theft": 1010.0,
+      "malicious_damage": 1184.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 93.6,
+      "personal_safety_score_0_100": 94.9,
+      "overall_caution_score_0_100": 93.6,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-carpentaria-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Carpentaria Shire Council",
+    "lga_slug": "carpentaria-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 18.0,
+      "non_dv_assault": 6.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 16.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 61.0,
+      "steal_from_vehicle": 29.0,
+      "retail_theft": 11.0,
+      "malicious_damage": 12.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 43.6,
+      "personal_safety_score_0_100": 42.9,
+      "overall_caution_score_0_100": 42.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (43/100) and property crime (44/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-cassowary-coast-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Cassowary Coast Regional Council",
+    "lga_slug": "cassowary-coast-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 79.0,
+      "non_dv_assault": 9.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 99.0,
+      "break_enter_non_dwelling": 7.0,
+      "motor_vehicle_theft": 546.0,
+      "steal_from_vehicle": 277.0,
+      "retail_theft": 71.0,
+      "malicious_damage": 64.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 65.4,
+      "personal_safety_score_0_100": 69.2,
+      "overall_caution_score_0_100": 65.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (69/100) and property crime (65/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-central-highlands-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Central Highlands Regional Council",
+    "lga_slug": "central-highlands-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 96.0,
+      "non_dv_assault": 4.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 133.0,
+      "break_enter_non_dwelling": 16.0,
+      "motor_vehicle_theft": 638.0,
+      "steal_from_vehicle": 358.0,
+      "retail_theft": 114.0,
+      "malicious_damage": 96.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 69.2,
+      "personal_safety_score_0_100": 73.1,
+      "overall_caution_score_0_100": 70.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (73/100) and property crime (69/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-charters-towers-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Charters Towers Regional Council",
+    "lga_slug": "charters-towers-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 54.0,
+      "non_dv_assault": 2.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 41.0,
+      "break_enter_non_dwelling": 6.0,
+      "motor_vehicle_theft": 214.0,
+      "steal_from_vehicle": 117.0,
+      "retail_theft": 37.0,
+      "malicious_damage": 39.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 56.4,
+      "personal_safety_score_0_100": 64.1,
+      "overall_caution_score_0_100": 57.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (64/100) and property crime (56/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-cherbourg-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Cherbourg Shire Council",
+    "lga_slug": "cherbourg-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 10.0,
+      "non_dv_assault": 6.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 21.0,
+      "break_enter_non_dwelling": 18.0,
+      "motor_vehicle_theft": 19.0,
+      "steal_from_vehicle": 9.0,
+      "retail_theft": 3.0,
+      "malicious_damage": 12.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 33.3,
+      "personal_safety_score_0_100": 36.5,
+      "overall_caution_score_0_100": 34.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (36/100) and property crime (33/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-cloncurry-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Cloncurry Shire Council",
+    "lga_slug": "cloncurry-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 17.0,
+      "non_dv_assault": 6.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 12.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 64.0,
+      "steal_from_vehicle": 33.0,
+      "retail_theft": 15.0,
+      "malicious_damage": 19.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 44.9,
+      "personal_safety_score_0_100": 39.7,
+      "overall_caution_score_0_100": 43.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (40/100) and property crime (45/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-cook-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Cook Shire Council",
+    "lga_slug": "cook-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 31.0,
+      "non_dv_assault": 7.0,
+      "robbery": 3.0,
+      "break_enter_dwelling": 35.0,
+      "break_enter_non_dwelling": 8.0,
+      "motor_vehicle_theft": 108.0,
+      "steal_from_vehicle": 66.0,
+      "retail_theft": 18.0,
+      "malicious_damage": 10.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 48.7,
+      "personal_safety_score_0_100": 57.7,
+      "overall_caution_score_0_100": 51.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (58/100) and property crime (49/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-croydon-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Croydon Shire Council",
+    "lga_slug": "croydon-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 0.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 0.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 5.0,
+      "steal_from_vehicle": 4.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 9.0,
+      "personal_safety_score_0_100": 2.6,
+      "overall_caution_score_0_100": 6.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-diamantina-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Diamantina Shire Council",
+    "lga_slug": "diamantina-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 1.0,
+      "non_dv_assault": 1.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 5.0,
+      "steal_from_vehicle": 4.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 10.3,
+      "personal_safety_score_0_100": 12.8,
+      "overall_caution_score_0_100": 9.0,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-doomadgee-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Doomadgee Shire Council",
+    "lga_slug": "doomadgee-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 24.0,
+      "non_dv_assault": 9.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 18.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 30.0,
+      "steal_from_vehicle": 13.0,
+      "retail_theft": 11.0,
+      "malicious_damage": 16.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 36.5,
+      "personal_safety_score_0_100": 50.0,
+      "overall_caution_score_0_100": 38.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (50/100) and property crime (36/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-douglas-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Douglas Shire Council",
+    "lga_slug": "douglas-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 30.0,
+      "non_dv_assault": 4.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 66.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 234.0,
+      "steal_from_vehicle": 130.0,
+      "retail_theft": 38.0,
+      "malicious_damage": 29.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 57.7,
+      "personal_safety_score_0_100": 55.8,
+      "overall_caution_score_0_100": 56.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (56/100) and property crime (58/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-etheridge-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Etheridge Shire Council",
+    "lga_slug": "etheridge-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 1.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 17.0,
+      "steal_from_vehicle": 14.0,
+      "retail_theft": 3.0,
+      "malicious_damage": 2.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 23.1,
+      "personal_safety_score_0_100": 7.1,
+      "overall_caution_score_0_100": 20.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-flinders-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Flinders Shire Council",
+    "lga_slug": "flinders-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 3.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 8.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 10.0,
+      "steal_from_vehicle": 8.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 3.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 19.2,
+      "personal_safety_score_0_100": 17.9,
+      "overall_caution_score_0_100": 19.2,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-fraser-coast-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Fraser Coast Regional Council",
+    "lga_slug": "fraser-coast-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 213.0,
+      "non_dv_assault": 26.0,
+      "robbery": 32.0,
+      "break_enter_dwelling": 299.0,
+      "break_enter_non_dwelling": 47.0,
+      "motor_vehicle_theft": 2835.0,
+      "steal_from_vehicle": 1336.0,
+      "retail_theft": 544.0,
+      "malicious_damage": 333.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 85.9,
+      "personal_safety_score_0_100": 85.9,
+      "overall_caution_score_0_100": 85.9,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-gladstone-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Gladstone Regional Council",
+    "lga_slug": "gladstone-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 155.0,
+      "non_dv_assault": 17.0,
+      "robbery": 5.0,
+      "break_enter_dwelling": 192.0,
+      "break_enter_non_dwelling": 53.0,
+      "motor_vehicle_theft": 1418.0,
+      "steal_from_vehicle": 717.0,
+      "retail_theft": 226.0,
+      "malicious_damage": 188.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 82.1,
+      "personal_safety_score_0_100": 81.4,
+      "overall_caution_score_0_100": 82.1,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-gold-coast-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Gold Coast City Council",
+    "lga_slug": "gold-coast-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 813.0,
+      "non_dv_assault": 101.0,
+      "robbery": 113.0,
+      "break_enter_dwelling": 2008.0,
+      "break_enter_non_dwelling": 137.0,
+      "motor_vehicle_theft": 19188.0,
+      "steal_from_vehicle": 9833.0,
+      "retail_theft": 4247.0,
+      "malicious_damage": 2571.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 98.7,
+      "personal_safety_score_0_100": 98.7,
+      "overall_caution_score_0_100": 98.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-goondiwindi-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Goondiwindi Regional Council",
+    "lga_slug": "goondiwindi-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 85.0,
+      "non_dv_assault": 2.0,
+      "robbery": 4.0,
+      "break_enter_dwelling": 78.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 271.0,
+      "steal_from_vehicle": 114.0,
+      "retail_theft": 53.0,
+      "malicious_damage": 66.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 60.3,
+      "personal_safety_score_0_100": 71.2,
+      "overall_caution_score_0_100": 60.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (71/100) and property crime (60/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-gympie-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Gympie Regional Council",
+    "lga_slug": "gympie-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 90.0,
+      "non_dv_assault": 15.0,
+      "robbery": 11.0,
+      "break_enter_dwelling": 168.0,
+      "break_enter_non_dwelling": 20.0,
+      "motor_vehicle_theft": 1243.0,
+      "steal_from_vehicle": 711.0,
+      "retail_theft": 248.0,
+      "malicious_damage": 204.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 80.8,
+      "personal_safety_score_0_100": 75.6,
+      "overall_caution_score_0_100": 80.8,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-hinchinbrook-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Hinchinbrook Shire Council",
+    "lga_slug": "hinchinbrook-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 42.0,
+      "non_dv_assault": 2.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 28.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 149.0,
+      "steal_from_vehicle": 84.0,
+      "retail_theft": 24.0,
+      "malicious_damage": 36.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 51.3,
+      "personal_safety_score_0_100": 59.0,
+      "overall_caution_score_0_100": 52.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (59/100) and property crime (51/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-hope-vale-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Hope Vale Shire Council",
+    "lga_slug": "hope-vale-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 14.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 16.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 8.0,
+      "steal_from_vehicle": 5.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 3.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 20.5,
+      "personal_safety_score_0_100": 33.3,
+      "overall_caution_score_0_100": 25.6,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (33/100) and property crime (20/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-ipswich-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Ipswich City Council",
+    "lga_slug": "ipswich-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 338.0,
+      "non_dv_assault": 41.0,
+      "robbery": 66.0,
+      "break_enter_dwelling": 754.0,
+      "break_enter_non_dwelling": 90.0,
+      "motor_vehicle_theft": 7644.0,
+      "steal_from_vehicle": 3252.0,
+      "retail_theft": 1775.0,
+      "malicious_damage": 941.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 92.3,
+      "personal_safety_score_0_100": 91.0,
+      "overall_caution_score_0_100": 92.3,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-isaac-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Isaac Regional Council",
+    "lga_slug": "isaac-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 26.0,
+      "non_dv_assault": 3.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 51.0,
+      "break_enter_non_dwelling": 9.0,
+      "motor_vehicle_theft": 456.0,
+      "steal_from_vehicle": 323.0,
+      "retail_theft": 86.0,
+      "malicious_damage": 68.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 62.8,
+      "personal_safety_score_0_100": 47.4,
+      "overall_caution_score_0_100": 61.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (47/100) and property crime (63/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-kowanyama-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Kowanyama Shire Council",
+    "lga_slug": "kowanyama-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 15.0,
+      "non_dv_assault": 6.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 13.0,
+      "break_enter_non_dwelling": 3.0,
+      "motor_vehicle_theft": 22.0,
+      "steal_from_vehicle": 5.0,
+      "retail_theft": 6.0,
+      "malicious_damage": 19.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 28.8,
+      "personal_safety_score_0_100": 38.5,
+      "overall_caution_score_0_100": 33.3,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (38/100) and property crime (29/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-livingstone-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Livingstone Shire Council",
+    "lga_slug": "livingstone-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 53.0,
+      "non_dv_assault": 14.0,
+      "robbery": 3.0,
+      "break_enter_dwelling": 108.0,
+      "break_enter_non_dwelling": 17.0,
+      "motor_vehicle_theft": 643.0,
+      "steal_from_vehicle": 352.0,
+      "retail_theft": 110.0,
+      "malicious_damage": 78.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 67.9,
+      "personal_safety_score_0_100": 67.9,
+      "overall_caution_score_0_100": 66.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (68/100) and property crime (68/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-lockhart-river-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Lockhart River Shire Council",
+    "lga_slug": "lockhart-river-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 2.0,
+      "non_dv_assault": 3.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 4.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 2.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 2.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 7.7,
+      "personal_safety_score_0_100": 25.6,
+      "overall_caution_score_0_100": 11.5,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-lockyer-valley-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Lockyer Valley Regional Council",
+    "lga_slug": "lockyer-valley-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 58.0,
+      "non_dv_assault": 4.0,
+      "robbery": 5.0,
+      "break_enter_dwelling": 112.0,
+      "break_enter_non_dwelling": 10.0,
+      "motor_vehicle_theft": 1030.0,
+      "steal_from_vehicle": 555.0,
+      "retail_theft": 168.0,
+      "malicious_damage": 108.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 79.5,
+      "personal_safety_score_0_100": 66.7,
+      "overall_caution_score_0_100": 78.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-logan-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Logan City Council",
+    "lga_slug": "logan-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 703.0,
+      "non_dv_assault": 82.0,
+      "robbery": 154.0,
+      "break_enter_dwelling": 1886.0,
+      "break_enter_non_dwelling": 206.0,
+      "motor_vehicle_theft": 15082.0,
+      "steal_from_vehicle": 7059.0,
+      "retail_theft": 3767.0,
+      "malicious_damage": 2138.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 97.4,
+      "personal_safety_score_0_100": 96.2,
+      "overall_caution_score_0_100": 97.4,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-longreach-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Longreach Regional Council",
+    "lga_slug": "longreach-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 7.0,
+      "non_dv_assault": 1.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 16.0,
+      "break_enter_non_dwelling": 2.0,
+      "motor_vehicle_theft": 60.0,
+      "steal_from_vehicle": 35.0,
+      "retail_theft": 8.0,
+      "malicious_damage": 6.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 42.3,
+      "personal_safety_score_0_100": 27.6,
+      "overall_caution_score_0_100": 37.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (28/100) and property crime (42/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-mackay-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Mackay Regional Council",
+    "lga_slug": "mackay-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 261.0,
+      "non_dv_assault": 27.0,
+      "robbery": 20.0,
+      "break_enter_dwelling": 429.0,
+      "break_enter_non_dwelling": 71.0,
+      "motor_vehicle_theft": 3426.0,
+      "steal_from_vehicle": 1449.0,
+      "retail_theft": 997.0,
+      "malicious_damage": 439.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 87.2,
+      "personal_safety_score_0_100": 87.2,
+      "overall_caution_score_0_100": 87.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-mapoon-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Mapoon Shire Council",
+    "lga_slug": "mapoon-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 0.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 2.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 1.0,
+      "steal_from_vehicle": 0.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 3.8,
+      "personal_safety_score_0_100": 2.6,
+      "overall_caution_score_0_100": 2.6,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-maranoa-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Maranoa Regional Council",
+    "lga_slug": "maranoa-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 30.0,
+      "non_dv_assault": 3.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 26.0,
+      "break_enter_non_dwelling": 10.0,
+      "motor_vehicle_theft": 167.0,
+      "steal_from_vehicle": 103.0,
+      "retail_theft": 31.0,
+      "malicious_damage": 20.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 53.8,
+      "personal_safety_score_0_100": 52.6,
+      "overall_caution_score_0_100": 53.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (53/100) and property crime (54/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-mareeba-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Mareeba Shire Council",
+    "lga_slug": "mareeba-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 128.0,
+      "non_dv_assault": 13.0,
+      "robbery": 12.0,
+      "break_enter_dwelling": 292.0,
+      "break_enter_non_dwelling": 13.0,
+      "motor_vehicle_theft": 591.0,
+      "steal_from_vehicle": 344.0,
+      "retail_theft": 71.0,
+      "malicious_damage": 121.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 71.8,
+      "personal_safety_score_0_100": 79.5,
+      "overall_caution_score_0_100": 71.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (80/100) and property crime (72/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-mckinlay-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "McKinlay Shire Council",
+    "lga_slug": "mckinlay-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 2.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 3.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 15.0,
+      "steal_from_vehicle": 10.0,
+      "retail_theft": 4.0,
+      "malicious_damage": 6.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 24.4,
+      "personal_safety_score_0_100": 12.8,
+      "overall_caution_score_0_100": 23.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-moreton-bay-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Moreton Bay City Council",
+    "lga_slug": "moreton-bay-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 536.0,
+      "non_dv_assault": 70.0,
+      "robbery": 101.0,
+      "break_enter_dwelling": 1097.0,
+      "break_enter_non_dwelling": 137.0,
+      "motor_vehicle_theft": 12526.0,
+      "steal_from_vehicle": 6127.0,
+      "retail_theft": 2267.0,
+      "malicious_damage": 1091.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 96.2,
+      "personal_safety_score_0_100": 93.6,
+      "overall_caution_score_0_100": 96.2,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-mornington-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Mornington Shire Council",
+    "lga_slug": "mornington-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 15.0,
+      "non_dv_assault": 19.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 14.0,
+      "break_enter_non_dwelling": 3.0,
+      "motor_vehicle_theft": 35.0,
+      "steal_from_vehicle": 12.0,
+      "retail_theft": 7.0,
+      "malicious_damage": 18.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 36.5,
+      "personal_safety_score_0_100": 52.6,
+      "overall_caution_score_0_100": 41.0,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (53/100) and property crime (36/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-mount-isa-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Mount Isa City Council",
+    "lga_slug": "mount-isa-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 124.0,
+      "non_dv_assault": 51.0,
+      "robbery": 2.0,
+      "break_enter_dwelling": 297.0,
+      "break_enter_non_dwelling": 18.0,
+      "motor_vehicle_theft": 660.0,
+      "steal_from_vehicle": 236.0,
+      "retail_theft": 169.0,
+      "malicious_damage": 132.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 73.1,
+      "personal_safety_score_0_100": 81.4,
+      "overall_caution_score_0_100": 75.6,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-murweh-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Murweh Shire Council",
+    "lga_slug": "murweh-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 25.0,
+      "non_dv_assault": 3.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 8.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 48.0,
+      "steal_from_vehicle": 27.0,
+      "retail_theft": 7.0,
+      "malicious_damage": 11.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 38.5,
+      "personal_safety_score_0_100": 44.9,
+      "overall_caution_score_0_100": 39.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (45/100) and property crime (38/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-napranum-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Napranum Shire Council",
+    "lga_slug": "napranum-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 0.0,
+      "non_dv_assault": 3.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 4.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 5.0,
+      "steal_from_vehicle": 3.0,
+      "retail_theft": 2.0,
+      "malicious_damage": 2.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 12.2,
+      "personal_safety_score_0_100": 17.9,
+      "overall_caution_score_0_100": 14.1,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-noosa-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Noosa Shire Council",
+    "lga_slug": "noosa-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 57.0,
+      "non_dv_assault": 2.0,
+      "robbery": 4.0,
+      "break_enter_dwelling": 68.0,
+      "break_enter_non_dwelling": 6.0,
+      "motor_vehicle_theft": 925.0,
+      "steal_from_vehicle": 531.0,
+      "retail_theft": 161.0,
+      "malicious_damage": 98.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 76.9,
+      "personal_safety_score_0_100": 65.4,
+      "overall_caution_score_0_100": 74.4,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (65/100) and property crime (77/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-north-burnett-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "North Burnett Regional Council",
+    "lga_slug": "north-burnett-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 24.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 23.0,
+      "break_enter_non_dwelling": 5.0,
+      "motor_vehicle_theft": 119.0,
+      "steal_from_vehicle": 75.0,
+      "retail_theft": 23.0,
+      "malicious_damage": 24.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 50.0,
+      "personal_safety_score_0_100": 41.0,
+      "overall_caution_score_0_100": 48.7,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (41/100) and property crime (50/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-northern-peninsula-area-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Northern Peninsula Area Regional Council",
+    "lga_slug": "northern-peninsula-area-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 31.0,
+      "non_dv_assault": 3.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 26.0,
+      "break_enter_non_dwelling": 2.0,
+      "motor_vehicle_theft": 47.0,
+      "steal_from_vehicle": 13.0,
+      "retail_theft": 28.0,
+      "malicious_damage": 37.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 46.2,
+      "personal_safety_score_0_100": 52.6,
+      "overall_caution_score_0_100": 47.4,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (53/100) and property crime (46/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-palm-island-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Palm Island Shire Council",
+    "lga_slug": "palm-island-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 5.0,
+      "non_dv_assault": 7.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 25.0,
+      "break_enter_non_dwelling": 4.0,
+      "motor_vehicle_theft": 26.0,
+      "steal_from_vehicle": 14.0,
+      "retail_theft": 3.0,
+      "malicious_damage": 6.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 32.1,
+      "personal_safety_score_0_100": 30.1,
+      "overall_caution_score_0_100": 28.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (30/100) and property crime (32/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-paroo-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Paroo Shire Council",
+    "lga_slug": "paroo-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 10.0,
+      "non_dv_assault": 2.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 20.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 32.0,
+      "steal_from_vehicle": 18.0,
+      "retail_theft": 8.0,
+      "malicious_damage": 7.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 34.6,
+      "personal_safety_score_0_100": 30.1,
+      "overall_caution_score_0_100": 30.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (30/100) and property crime (35/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-pormpuraaw-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Pormpuraaw Shire Council",
+    "lga_slug": "pormpuraaw-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 0.0,
+      "non_dv_assault": 4.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 3.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 9.0,
+      "steal_from_vehicle": 4.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 4.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 16.7,
+      "personal_safety_score_0_100": 22.4,
+      "overall_caution_score_0_100": 16.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-quilpie-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Quilpie Shire Council",
+    "lga_slug": "quilpie-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 0.0,
+      "non_dv_assault": 3.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 1.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 10.0,
+      "steal_from_vehicle": 4.0,
+      "retail_theft": 3.0,
+      "malicious_damage": 1.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 15.4,
+      "personal_safety_score_0_100": 17.9,
+      "overall_caution_score_0_100": 15.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-redland-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Redland City Council",
+    "lga_slug": "redland-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 206.0,
+      "non_dv_assault": 23.0,
+      "robbery": 14.0,
+      "break_enter_dwelling": 264.0,
+      "break_enter_non_dwelling": 30.0,
+      "motor_vehicle_theft": 2652.0,
+      "steal_from_vehicle": 1070.0,
+      "retail_theft": 631.0,
+      "malicious_damage": 305.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 84.6,
+      "personal_safety_score_0_100": 84.6,
+      "overall_caution_score_0_100": 84.6,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-richmond-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Richmond Shire Council",
+    "lga_slug": "richmond-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 2.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 2.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 7.0,
+      "steal_from_vehicle": 3.0,
+      "retail_theft": 3.0,
+      "malicious_damage": 1.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 12.2,
+      "personal_safety_score_0_100": 12.8,
+      "overall_caution_score_0_100": 10.3,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-rockhampton-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Rockhampton Regional Council",
+    "lga_slug": "rockhampton-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 347.0,
+      "non_dv_assault": 41.0,
+      "robbery": 51.0,
+      "break_enter_dwelling": 767.0,
+      "break_enter_non_dwelling": 43.0,
+      "motor_vehicle_theft": 3679.0,
+      "steal_from_vehicle": 1336.0,
+      "retail_theft": 899.0,
+      "malicious_damage": 596.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 88.5,
+      "personal_safety_score_0_100": 89.7,
+      "overall_caution_score_0_100": 88.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-scenic-rim-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Scenic Rim Regional Council",
+    "lga_slug": "scenic-rim-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 41.0,
+      "non_dv_assault": 6.0,
+      "robbery": 3.0,
+      "break_enter_dwelling": 81.0,
+      "break_enter_non_dwelling": 27.0,
+      "motor_vehicle_theft": 617.0,
+      "steal_from_vehicle": 396.0,
+      "retail_theft": 145.0,
+      "malicious_damage": 95.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 70.5,
+      "personal_safety_score_0_100": 61.5,
+      "overall_caution_score_0_100": 67.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (62/100) and property crime (70/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-somerset-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Somerset Regional Council",
+    "lga_slug": "somerset-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 50.0,
+      "non_dv_assault": 4.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 36.0,
+      "break_enter_non_dwelling": 14.0,
+      "motor_vehicle_theft": 498.0,
+      "steal_from_vehicle": 365.0,
+      "retail_theft": 74.0,
+      "malicious_damage": 53.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 64.1,
+      "personal_safety_score_0_100": 62.8,
+      "overall_caution_score_0_100": 64.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (63/100) and property crime (64/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-south-burnett-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "South Burnett Regional Council",
+    "lga_slug": "south-burnett-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 98.0,
+      "non_dv_assault": 8.0,
+      "robbery": 26.0,
+      "break_enter_dwelling": 186.0,
+      "break_enter_non_dwelling": 15.0,
+      "motor_vehicle_theft": 667.0,
+      "steal_from_vehicle": 351.0,
+      "retail_theft": 142.0,
+      "malicious_damage": 178.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 74.4,
+      "personal_safety_score_0_100": 76.9,
+      "overall_caution_score_0_100": 73.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "High",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (77/100) and property crime (74/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-southern-downs-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Southern Downs Regional Council",
+    "lga_slug": "southern-downs-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 43.0,
+      "non_dv_assault": 2.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 75.0,
+      "break_enter_non_dwelling": 20.0,
+      "motor_vehicle_theft": 467.0,
+      "steal_from_vehicle": 237.0,
+      "retail_theft": 99.0,
+      "malicious_damage": 90.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 61.5,
+      "personal_safety_score_0_100": 60.3,
+      "overall_caution_score_0_100": 62.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (60/100) and property crime (62/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-sunshine-coast-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Sunshine Coast Regional Council",
+    "lga_slug": "sunshine-coast-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 457.0,
+      "non_dv_assault": 41.0,
+      "robbery": 39.0,
+      "break_enter_dwelling": 629.0,
+      "break_enter_non_dwelling": 45.0,
+      "motor_vehicle_theft": 7198.0,
+      "steal_from_vehicle": 3936.0,
+      "retail_theft": 1211.0,
+      "malicious_damage": 689.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 91.0,
+      "personal_safety_score_0_100": 92.3,
+      "overall_caution_score_0_100": 91.0,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-tablelands-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Tablelands Regional Council",
+    "lga_slug": "tablelands-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 78.0,
+      "non_dv_assault": 6.0,
+      "robbery": 7.0,
+      "break_enter_dwelling": 208.0,
+      "break_enter_non_dwelling": 7.0,
+      "motor_vehicle_theft": 581.0,
+      "steal_from_vehicle": 276.0,
+      "retail_theft": 103.0,
+      "malicious_damage": 124.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 66.7,
+      "personal_safety_score_0_100": 71.2,
+      "overall_caution_score_0_100": 69.2,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (71/100) and property crime (67/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-toowoomba-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Toowoomba Regional Council",
+    "lga_slug": "toowoomba-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 292.0,
+      "non_dv_assault": 33.0,
+      "robbery": 78.0,
+      "break_enter_dwelling": 838.0,
+      "break_enter_non_dwelling": 45.0,
+      "motor_vehicle_theft": 4094.0,
+      "steal_from_vehicle": 1715.0,
+      "retail_theft": 905.0,
+      "malicious_damage": 618.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 89.7,
+      "personal_safety_score_0_100": 88.5,
+      "overall_caution_score_0_100": 89.7,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-torres-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Torres Shire Council",
+    "lga_slug": "torres-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 13.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 8.0,
+      "break_enter_non_dwelling": 2.0,
+      "motor_vehicle_theft": 30.0,
+      "steal_from_vehicle": 17.0,
+      "retail_theft": 4.0,
+      "malicious_damage": 7.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 28.8,
+      "personal_safety_score_0_100": 32.1,
+      "overall_caution_score_0_100": 26.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (32/100) and property crime (29/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-torres-strait-island-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Torres Strait Island Regional Council",
+    "lga_slug": "torres-strait-island-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 4.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 2.0,
+      "break_enter_non_dwelling": 1.0,
+      "motor_vehicle_theft": 18.0,
+      "steal_from_vehicle": 12.0,
+      "retail_theft": 1.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 21.8,
+      "personal_safety_score_0_100": 22.4,
+      "overall_caution_score_0_100": 24.4,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-townsville-city-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Townsville City Council",
+    "lga_slug": "townsville-city-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 835.0,
+      "non_dv_assault": 66.0,
+      "robbery": 71.0,
+      "break_enter_dwelling": 2624.0,
+      "break_enter_non_dwelling": 125.0,
+      "motor_vehicle_theft": 7648.0,
+      "steal_from_vehicle": 3054.0,
+      "retail_theft": 1681.0,
+      "malicious_damage": 1487.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 94.9,
+      "personal_safety_score_0_100": 97.4,
+      "overall_caution_score_0_100": 94.9,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-weipa-t",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Weipa (T)",
+    "lga_slug": "weipa-t",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 7.0,
+      "non_dv_assault": 1.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 6.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 59.0,
+      "steal_from_vehicle": 22.0,
+      "retail_theft": 28.0,
+      "malicious_damage": 10.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 39.7,
+      "personal_safety_score_0_100": 27.6,
+      "overall_caution_score_0_100": 35.9,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (28/100) and property crime (40/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-western-downs-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Western Downs Regional Council",
+    "lga_slug": "western-downs-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 124.0,
+      "non_dv_assault": 5.0,
+      "robbery": 5.0,
+      "break_enter_dwelling": 116.0,
+      "break_enter_non_dwelling": 16.0,
+      "motor_vehicle_theft": 930.0,
+      "steal_from_vehicle": 519.0,
+      "retail_theft": 235.0,
+      "malicious_damage": 154.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 78.2,
+      "personal_safety_score_0_100": 78.2,
+      "overall_caution_score_0_100": 79.5,
+      "property_crime_band": "High",
+      "personal_safety_band": "High",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-whitsunday-regional-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Whitsunday Regional Council",
+    "lga_slug": "whitsunday-regional-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 97.0,
+      "non_dv_assault": 9.0,
+      "robbery": 8.0,
+      "break_enter_dwelling": 114.0,
+      "break_enter_non_dwelling": 21.0,
+      "motor_vehicle_theft": 859.0,
+      "steal_from_vehicle": 536.0,
+      "retail_theft": 123.0,
+      "malicious_damage": 127.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 75.6,
+      "personal_safety_score_0_100": 74.4,
+      "overall_caution_score_0_100": 76.9,
+      "property_crime_band": "High",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "High"
+    },
+    "display": {
+      "headline": "High caution",
+      "summary": "Higher relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-winton-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Winton Shire Council",
+    "lga_slug": "winton-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 1.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 4.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 17.0,
+      "steal_from_vehicle": 11.0,
+      "retail_theft": 4.0,
+      "malicious_damage": 3.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 25.6,
+      "personal_safety_score_0_100": 7.1,
+      "overall_caution_score_0_100": 21.8,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-woorabinda-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Woorabinda Shire Council",
+    "lga_slug": "woorabinda-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 17.0,
+      "non_dv_assault": 1.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 9.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 35.0,
+      "steal_from_vehicle": 9.0,
+      "retail_theft": 12.0,
+      "malicious_damage": 7.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 30.8,
+      "personal_safety_score_0_100": 36.5,
+      "overall_caution_score_0_100": 32.1,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (36/100) and property crime (31/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-wujal-wujal-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Wujal Wujal Shire Council",
+    "lga_slug": "wujal-wujal-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 2.0,
+      "non_dv_assault": 0.0,
+      "robbery": 0.0,
+      "break_enter_dwelling": 3.0,
+      "break_enter_non_dwelling": 0.0,
+      "motor_vehicle_theft": 4.0,
+      "steal_from_vehicle": 1.0,
+      "retail_theft": 0.0,
+      "malicious_damage": 0.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 6.4,
+      "personal_safety_score_0_100": 12.8,
+      "overall_caution_score_0_100": 7.7,
+      "property_crime_band": "Low",
+      "personal_safety_band": "Low",
+      "overall_caution_band": "Low"
+    },
+    "display": {
+      "headline": "Low caution",
+      "summary": "Lower relative offence count context compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  },
+  {
+    "id": "qld-lga-yarrabah-shire-council",
+    "state": "QLD",
+    "geo_type": "LGA",
+    "lga": "Yarrabah Shire Council",
+    "lga_slug": "yarrabah-shire-council",
+    "source": "Queensland LGA Reported Offences Number CSV",
+    "period": "2025-02 to 2026-02",
+    "dataset_version": "qld_lga_offence_counts_feb2025_feb2026",
+    "generated_at": "2026-03-21",
+    "data_granularity": "LGA",
+    "suburb_level": false,
+    "crime_metrics_count_13m": {
+      "dv_order_breach": 8.0,
+      "non_dv_assault": 16.0,
+      "robbery": 1.0,
+      "break_enter_dwelling": 14.0,
+      "break_enter_non_dwelling": 2.0,
+      "motor_vehicle_theft": 17.0,
+      "steal_from_vehicle": 8.0,
+      "retail_theft": 4.0,
+      "malicious_damage": 6.0
+    },
+    "scores": {
+      "property_crime_score_0_100": 26.9,
+      "personal_safety_score_0_100": 42.9,
+      "overall_caution_score_0_100": 29.5,
+      "property_crime_band": "Medium",
+      "personal_safety_band": "Medium",
+      "overall_caution_band": "Medium"
+    },
+    "display": {
+      "headline": "Moderate caution",
+      "summary": "Mixed relative offence count context across personal safety (43/100) and property crime (27/100) compared with other Queensland LGAs in the selected period."
+    },
+    "notes": {
+      "method": "Relative percentile-style score across Queensland LGAs using selected offence counts aggregated from Feb 2025 to Feb 2026.",
+      "warning": "This is LGA-level offence count context, not suburb-level crime and not per-capita crime rates.",
+      "difference_from_nsw": "Queensland source uses offence counts over the selected period, whereas the NSW source used rates."
+    }
+  }
+]

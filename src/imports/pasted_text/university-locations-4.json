@@ -1,0 +1,895 @@
+{
+  "Australian National University": {
+    "O'Connor": {
+      "type": "Feature",
+      "properties": { "name": "O'Connor", "display_name": "O'Connor, ACT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.100, -35.255], [149.122, -35.255], [149.122, -35.272],
+          [149.100, -35.272], [149.100, -35.255]
+        ]]
+      }
+    }
+  },
+  "University of Melbourne": {
+    "Brunswick": {
+      "type": "Feature",
+      "properties": { "name": "Brunswick", "display_name": "Brunswick, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.956, -37.765], [144.974, -37.765], [144.974, -37.783],
+          [144.956, -37.783], [144.956, -37.765]
+        ]]
+      }
+    }
+  },
+  "University of Divinity": {
+    "Brighton": {
+      "type": "Feature",
+      "properties": { "name": "Brighton", "display_name": "Brighton, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.001, -37.906], [145.022, -37.906], [145.022, -37.921],
+          [145.001, -37.921], [145.001, -37.906]
+        ]]
+      }
+    },
+    "Wantirna": {
+      "type": "Feature",
+      "properties": { "name": "Wantirna", "display_name": "Wantirna, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.225, -37.838], [145.248, -37.838], [145.248, -37.855],
+          [145.225, -37.855], [145.225, -37.838]
+        ]]
+      }
+    }
+  },
+  "Charles Sturt University": {
+    "Bathurst": {
+      "type": "Feature",
+      "properties": { "name": "Bathurst", "display_name": "Bathurst, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.566, -33.414], [149.591, -33.414], [149.591, -33.436],
+          [149.566, -33.436], [149.566, -33.414]
+        ]]
+      }
+    },
+    "Wagga Wagga": {
+      "type": "Feature",
+      "properties": { "name": "Wagga Wagga", "display_name": "Wagga Wagga, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [147.356, -35.110], [147.382, -35.110], [147.382, -35.130],
+          [147.356, -35.130], [147.356, -35.110]
+        ]]
+      }
+    }
+  },
+  "University of Notre Dame Australia": {
+    "East Fremantle": {
+      "type": "Feature",
+      "properties": { "name": "East Fremantle", "display_name": "East Fremantle, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.763, -32.028], [115.782, -32.028], [115.782, -32.043],
+          [115.763, -32.043], [115.763, -32.028]
+        ]]
+      }
+    },
+    "Chippendale": {
+      "type": "Feature",
+      "properties": { "name": "Chippendale", "display_name": "Chippendale, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.196, -33.888], [151.210, -33.888], [151.210, -33.900],
+          [151.196, -33.900], [151.196, -33.888]
+        ]]
+      }
+    },
+    "Broadway": {
+      "type": "Feature",
+      "properties": { "name": "Broadway", "display_name": "Broadway, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.194, -33.879], [151.207, -33.879], [151.207, -33.891],
+          [151.194, -33.891], [151.194, -33.879]
+        ]]
+      }
+    }
+  },
+  "University of South Australia": {
+    "Magill": {
+      "type": "Feature",
+      "properties": { "name": "Magill", "display_name": "Magill, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.673, -34.912], [138.695, -34.912], [138.695, -34.930],
+          [138.673, -34.930], [138.673, -34.912]
+        ]]
+      }
+    },
+    "Pooraka": {
+      "type": "Feature",
+      "properties": { "name": "Pooraka", "display_name": "Pooraka, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.617, -34.832], [138.638, -34.832], [138.638, -34.848],
+          [138.617, -34.848], [138.617, -34.832]
+        ]]
+      }
+    },
+    "Salisbury": {
+      "type": "Feature",
+      "properties": { "name": "Salisbury", "display_name": "Salisbury, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.629, -34.758], [138.652, -34.758], [138.652, -34.774],
+          [138.629, -34.774], [138.629, -34.758]
+        ]]
+      }
+    }
+  },
+  "University of Technology Sydney": {
+    "Haymarket": {
+      "type": "Feature",
+      "properties": { "name": "Haymarket", "display_name": "Haymarket, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.204, -33.878], [151.215, -33.878], [151.215, -33.888],
+          [151.204, -33.888], [151.204, -33.878]
+        ]]
+      }
+    },
+    "Glebe": {
+      "type": "Feature",
+      "properties": { "name": "Glebe", "display_name": "Glebe, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.180, -33.870], [151.197, -33.870], [151.197, -33.884],
+          [151.180, -33.884], [151.180, -33.870]
+        ]]
+      }
+    }
+  },
+  "Charles Darwin University": {
+    "Nakara": {
+      "type": "Feature",
+      "properties": { "name": "Nakara", "display_name": "Nakara, NT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [130.862, -12.362], [130.882, -12.362], [130.882, -12.380],
+          [130.862, -12.380], [130.862, -12.362]
+        ]]
+      }
+    },
+    "Lyons": {
+      "type": "Feature",
+      "properties": { "name": "Lyons", "display_name": "Lyons, NT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [130.936, -12.413], [130.955, -12.413], [130.955, -12.430],
+          [130.936, -12.430], [130.936, -12.413]
+        ]]
+      }
+    },
+    "Tiwi": {
+      "type": "Feature",
+      "properties": { "name": "Tiwi", "display_name": "Tiwi, NT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [130.859, -12.373], [130.880, -12.373], [130.880, -12.390],
+          [130.859, -12.390], [130.859, -12.373]
+        ]]
+      }
+    }
+  },
+  "University of New England": {
+    "Guyra": {
+      "type": "Feature",
+      "properties": { "name": "Guyra", "display_name": "Guyra, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.658, -30.218], [151.679, -30.218], [151.679, -30.237],
+          [151.658, -30.237], [151.658, -30.218]
+        ]]
+      }
+    },
+    "Kellys Plains": {
+      "type": "Feature",
+      "properties": { "name": "Kellys Plains", "display_name": "Kellys Plains, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.634, -30.228], [151.658, -30.228], [151.658, -30.248],
+          [151.634, -30.248], [151.634, -30.228]
+        ]]
+      }
+    }
+  },
+  "University of Adelaide": {
+    "Prospect": {
+      "type": "Feature",
+      "properties": { "name": "Prospect", "display_name": "Prospect, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.594, -34.876], [138.614, -34.876], [138.614, -34.892],
+          [138.594, -34.892], [138.594, -34.876]
+        ]]
+      }
+    },
+    "Norwood": {
+      "type": "Feature",
+      "properties": { "name": "Norwood", "display_name": "Norwood, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.625, -34.921], [138.648, -34.921], [138.648, -34.935],
+          [138.625, -34.935], [138.625, -34.921]
+        ]]
+      }
+    },
+    "Stepney": {
+      "type": "Feature",
+      "properties": { "name": "Stepney", "display_name": "Stepney, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.630, -34.913], [138.650, -34.913], [138.650, -34.925],
+          [138.630, -34.925], [138.630, -34.913]
+        ]]
+      }
+    },
+    "Hackney": {
+      "type": "Feature",
+      "properties": { "name": "Hackney", "display_name": "Hackney, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.626, -34.907], [138.645, -34.907], [138.645, -34.919],
+          [138.626, -34.919], [138.626, -34.907]
+        ]]
+      }
+    }
+  },
+  "University of Canberra": {
+    "Belconnen": {
+      "type": "Feature",
+      "properties": { "name": "Belconnen", "display_name": "Belconnen, ACT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.058, -35.230], [149.080, -35.230], [149.080, -35.247],
+          [149.058, -35.247], [149.058, -35.230]
+        ]]
+      }
+    },
+    "Aranda": {
+      "type": "Feature",
+      "properties": { "name": "Aranda", "display_name": "Aranda, ACT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.069, -35.238], [149.088, -35.238], [149.088, -35.253],
+          [149.069, -35.253], [149.069, -35.238]
+        ]]
+      }
+    },
+    "Lawson": {
+      "type": "Feature",
+      "properties": { "name": "Lawson", "display_name": "Lawson, ACT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.068, -35.220], [149.089, -35.220], [149.089, -35.235],
+          [149.068, -35.235], [149.068, -35.220]
+        ]]
+      }
+    },
+    "Kaleen": {
+      "type": "Feature",
+      "properties": { "name": "Kaleen", "display_name": "Kaleen, ACT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.093, -35.217], [149.113, -35.217], [149.113, -35.232],
+          [149.093, -35.232], [149.093, -35.217]
+        ]]
+      }
+    }
+  },
+  "University of New South Wales": {
+    "Kingsford": {
+      "type": "Feature",
+      "properties": { "name": "Kingsford", "display_name": "Kingsford, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.220, -33.920], [151.240, -33.920], [151.240, -33.935],
+          [151.220, -33.935], [151.220, -33.920]
+        ]]
+      }
+    },
+    "Randwick": {
+      "type": "Feature",
+      "properties": { "name": "Randwick", "display_name": "Randwick, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.227, -33.906], [151.248, -33.906], [151.248, -33.925],
+          [151.227, -33.925], [151.227, -33.906]
+        ]]
+      }
+    },
+    "Maroubra": {
+      "type": "Feature",
+      "properties": { "name": "Maroubra", "display_name": "Maroubra, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.226, -33.934], [151.246, -33.934], [151.246, -33.954],
+          [151.226, -33.954], [151.226, -33.934]
+        ]]
+      }
+    },
+    "Zetland": {
+      "type": "Feature",
+      "properties": { "name": "Zetland", "display_name": "Zetland, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.208, -33.904], [151.223, -33.904], [151.223, -33.915],
+          [151.208, -33.915], [151.208, -33.904]
+        ]]
+      }
+    }
+  },
+  "University of Newcastle": {
+    "Warabrook": {
+      "type": "Feature",
+      "properties": { "name": "Warabrook", "display_name": "Warabrook, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.746, -32.888], [151.762, -32.888], [151.762, -32.900],
+          [151.746, -32.900], [151.746, -32.888]
+        ]]
+      }
+    },
+    "Birmingham Gardens": {
+      "type": "Feature",
+      "properties": { "name": "Birmingham Gardens", "display_name": "Birmingham Gardens, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.726, -32.877], [151.742, -32.877], [151.742, -32.892],
+          [151.726, -32.892], [151.726, -32.877]
+        ]]
+      }
+    },
+    "Mayfield": {
+      "type": "Feature",
+      "properties": { "name": "Mayfield", "display_name": "Mayfield, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.730, -32.883], [151.748, -32.883], [151.748, -32.898],
+          [151.730, -32.898], [151.730, -32.883]
+        ]]
+      }
+    },
+    "Wallsend": {
+      "type": "Feature",
+      "properties": { "name": "Wallsend", "display_name": "Wallsend, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.664, -32.905], [151.680, -32.905], [151.680, -32.920],
+          [151.664, -32.920], [151.664, -32.905]
+        ]]
+      }
+    }
+  },
+  "University of Queensland": {
+    "Toowong": {
+      "type": "Feature",
+      "properties": { "name": "Toowong", "display_name": "Toowong, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [152.998, -27.481], [153.015, -27.481], [153.015, -27.495],
+          [152.998, -27.495], [152.998, -27.481]
+        ]]
+      }
+    },
+    "Taringa": {
+      "type": "Feature",
+      "properties": { "name": "Taringa", "display_name": "Taringa, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [152.977, -27.488], [152.997, -27.488], [152.997, -27.500],
+          [152.977, -27.500], [152.977, -27.488]
+        ]]
+      }
+    },
+    "Indooroopilly": {
+      "type": "Feature",
+      "properties": { "name": "Indooroopilly", "display_name": "Indooroopilly, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [152.967, -27.492], [152.985, -27.492], [152.985, -27.510],
+          [152.967, -27.510], [152.967, -27.492]
+        ]]
+      }
+    },
+    "Dutton Park": {
+      "type": "Feature",
+      "properties": { "name": "Dutton Park", "display_name": "Dutton Park, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.019, -27.493], [153.035, -27.493], [153.035, -27.508],
+          [153.019, -27.508], [153.019, -27.493]
+        ]]
+      }
+    }
+  },
+  "University of Southern Queensland": {
+    "Kearneys Spring": {
+      "type": "Feature",
+      "properties": { "name": "Kearneys Spring", "display_name": "Kearneys Spring, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.920, -27.585], [151.940, -27.585], [151.940, -27.603],
+          [151.920, -27.603], [151.920, -27.585]
+        ]]
+      }
+    },
+    "Springfield Central": {
+      "type": "Feature",
+      "properties": { "name": "Springfield Central", "display_name": "Springfield Central, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [152.900, -27.660], [152.920, -27.660], [152.920, -27.680],
+          [152.900, -27.680], [152.900, -27.660]
+        ]]
+      }
+    },
+    "Ipswich": {
+      "type": "Feature",
+      "properties": { "name": "Ipswich", "display_name": "Ipswich, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [152.752, -27.606], [152.775, -27.606], [152.775, -27.625],
+          [152.752, -27.625], [152.752, -27.606]
+        ]]
+      }
+    }
+  },
+  "University of Sydney": {
+    "Newtown": {
+      "type": "Feature",
+      "properties": { "name": "Newtown", "display_name": "Newtown, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.174, -33.893], [151.195, -33.893], [151.195, -33.910],
+          [151.174, -33.910], [151.174, -33.893]
+        ]]
+      }
+    },
+    "Forest Lodge": {
+      "type": "Feature",
+      "properties": { "name": "Forest Lodge", "display_name": "Forest Lodge, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.177, -33.876], [151.190, -33.876], [151.190, -33.887],
+          [151.177, -33.887], [151.177, -33.876]
+        ]]
+      }
+    },
+    "Redfern": {
+      "type": "Feature",
+      "properties": { "name": "Redfern", "display_name": "Redfern, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.199, -33.893], [151.216, -33.893], [151.216, -33.908],
+          [151.199, -33.908], [151.199, -33.893]
+        ]]
+      }
+    }
+  },
+  "University of Tasmania": {
+    "Dynnyrne": {
+      "type": "Feature",
+      "properties": { "name": "Dynnyrne", "display_name": "Dynnyrne, TAS, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [147.313, -42.904], [147.333, -42.904], [147.333, -42.918],
+          [147.313, -42.918], [147.313, -42.904]
+        ]]
+      }
+    },
+    "Newnham": {
+      "type": "Feature",
+      "properties": { "name": "Newnham", "display_name": "Newnham, TAS, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [147.146, -41.423], [147.163, -41.423], [147.163, -41.437],
+          [147.146, -41.437], [147.146, -41.423]
+        ]]
+      }
+    },
+    "Mowbray": {
+      "type": "Feature",
+      "properties": { "name": "Mowbray", "display_name": "Mowbray, TAS, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [147.153, -41.418], [147.170, -41.418], [147.170, -41.430],
+          [147.153, -41.430], [147.153, -41.418]
+        ]]
+      }
+    },
+    "Invermay": {
+      "type": "Feature",
+      "properties": { "name": "Invermay", "display_name": "Invermay, TAS, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [147.147, -41.426], [147.163, -41.426], [147.163, -41.441],
+          [147.147, -41.441], [147.147, -41.426]
+        ]]
+      }
+    }
+  },
+  "Central Queensland University": {
+    "Rockhampton": {
+      "type": "Feature",
+      "properties": { "name": "Rockhampton", "display_name": "Rockhampton, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.495, -23.370], [150.520, -23.370], [150.520, -23.395],
+          [150.495, -23.395], [150.495, -23.370]
+        ]]
+      }
+    },
+    "Norman Gardens": {
+      "type": "Feature",
+      "properties": { "name": "Norman Gardens", "display_name": "Norman Gardens, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.521, -23.354], [150.547, -23.354], [150.547, -23.375],
+          [150.521, -23.375], [150.521, -23.354]
+        ]]
+      }
+    },
+    "Frenchville": {
+      "type": "Feature",
+      "properties": { "name": "Frenchville", "display_name": "Frenchville, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.506, -23.350], [150.527, -23.350], [150.527, -23.369],
+          [150.506, -23.369], [150.506, -23.350]
+        ]]
+      }
+    },
+    "Berserker": {
+      "type": "Feature",
+      "properties": { "name": "Berserker", "display_name": "Berserker, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.494, -23.356], [150.516, -23.356], [150.516, -23.372],
+          [150.494, -23.372], [150.494, -23.356]
+        ]]
+      }
+    },
+    "Parkhurst": {
+      "type": "Feature",
+      "properties": { "name": "Parkhurst", "display_name": "Parkhurst, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.507, -23.325], [150.530, -23.325], [150.530, -23.345],
+          [150.507, -23.345], [150.507, -23.325]
+        ]]
+      }
+    }
+  },
+  "University of the Sunshine Coast": {
+    "Sippy Downs": {
+      "type": "Feature",
+      "properties": { "name": "Sippy Downs", "display_name": "Sippy Downs, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.063, -26.706], [153.090, -26.706], [153.090, -26.728],
+          [153.063, -26.728], [153.063, -26.706]
+        ]]
+      }
+    },
+    "Buderim": {
+      "type": "Feature",
+      "properties": { "name": "Buderim", "display_name": "Buderim, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.049, -26.678], [153.074, -26.678], [153.074, -26.700],
+          [153.049, -26.700], [153.049, -26.678]
+        ]]
+      }
+    },
+    "Mountain Creek": {
+      "type": "Feature",
+      "properties": { "name": "Mountain Creek", "display_name": "Mountain Creek, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.080, -26.700], [153.105, -26.700], [153.105, -26.720],
+          [153.080, -26.720], [153.080, -26.700]
+        ]]
+      }
+    },
+    "Palmview": {
+      "type": "Feature",
+      "properties": { "name": "Palmview", "display_name": "Palmview, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.046, -26.719], [153.068, -26.719], [153.068, -26.740],
+          [153.046, -26.740], [153.046, -26.719]
+        ]]
+      }
+    }
+  },
+  "University of Western Australia": {
+    "Nedlands": {
+      "type": "Feature",
+      "properties": { "name": "Nedlands", "display_name": "Nedlands, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.802, -31.976], [115.820, -31.976], [115.820, -31.990],
+          [115.802, -31.990], [115.802, -31.976]
+        ]]
+      }
+    },
+    "Subiaco": {
+      "type": "Feature",
+      "properties": { "name": "Subiaco", "display_name": "Subiaco, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.825, -31.945], [115.845, -31.945], [115.845, -31.960],
+          [115.825, -31.960], [115.825, -31.945]
+        ]]
+      }
+    },
+    "Shenton Park": {
+      "type": "Feature",
+      "properties": { "name": "Shenton Park", "display_name": "Shenton Park, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.800, -31.952], [115.820, -31.952], [115.820, -31.966],
+          [115.800, -31.966], [115.800, -31.952]
+        ]]
+      }
+    },
+    "Dalkeith": {
+      "type": "Feature",
+      "properties": { "name": "Dalkeith", "display_name": "Dalkeith, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.800, -31.990], [115.818, -31.990], [115.818, -32.003],
+          [115.800, -32.003], [115.800, -31.990]
+        ]]
+      }
+    },
+    "Claremont": {
+      "type": "Feature",
+      "properties": { "name": "Claremont", "display_name": "Claremont, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.779, -31.975], [115.799, -31.975], [115.799, -31.990],
+          [115.779, -31.990], [115.779, -31.975]
+        ]]
+      }
+    }
+  },
+  "University of Wollongong": {
+    "Keiraville": {
+      "type": "Feature",
+      "properties": { "name": "Keiraville", "display_name": "Keiraville, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.851, -34.419], [150.870, -34.419], [150.870, -34.435],
+          [150.851, -34.435], [150.851, -34.419]
+        ]]
+      }
+    },
+    "Gwynneville": {
+      "type": "Feature",
+      "properties": { "name": "Gwynneville", "display_name": "Gwynneville, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.866, -34.417], [150.882, -34.417], [150.882, -34.428],
+          [150.866, -34.428], [150.866, -34.417]
+        ]]
+      }
+    },
+    "North Wollongong": {
+      "type": "Feature",
+      "properties": { "name": "North Wollongong", "display_name": "North Wollongong, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.885, -34.405], [150.905, -34.405], [150.905, -34.422],
+          [150.885, -34.422], [150.885, -34.405]
+        ]]
+      }
+    },
+    "Mount Ousley": {
+      "type": "Feature",
+      "properties": { "name": "Mount Ousley", "display_name": "Mount Ousley, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.906, -34.408], [150.924, -34.408], [150.924, -34.424],
+          [150.906, -34.424], [150.906, -34.408]
+        ]]
+      }
+    }
+  },
+  "Victoria University": {
+    "Footscray": {
+      "type": "Feature",
+      "properties": { "name": "Footscray", "display_name": "Footscray, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.895, -37.795], [144.916, -37.795], [144.916, -37.815],
+          [144.895, -37.815], [144.895, -37.795]
+        ]]
+      }
+    },
+    "Maribyrnong": {
+      "type": "Feature",
+      "properties": { "name": "Maribyrnong", "display_name": "Maribyrnong, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.879, -37.775], [144.900, -37.775], [144.900, -37.794],
+          [144.879, -37.794], [144.879, -37.775]
+        ]]
+      }
+    },
+    "Maidstone": {
+      "type": "Feature",
+      "properties": { "name": "Maidstone", "display_name": "Maidstone, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.875, -37.785], [144.896, -37.785], [144.896, -37.800],
+          [144.875, -37.800], [144.875, -37.785]
+        ]]
+      }
+    },
+    "Sunshine": {
+      "type": "Feature",
+      "properties": { "name": "Sunshine", "display_name": "Sunshine, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.822, -37.778], [144.850, -37.778], [144.850, -37.800],
+          [144.822, -37.800], [144.822, -37.778]
+        ]]
+      }
+    },
+    "St Albans": {
+      "type": "Feature",
+      "properties": { "name": "St Albans", "display_name": "St Albans, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.793, -37.748], [144.820, -37.748], [144.820, -37.768],
+          [144.793, -37.768], [144.793, -37.748]
+        ]]
+      }
+    }
+  },
+  "Western Sydney University": {
+    "Rydalmere": {
+      "type": "Feature",
+      "properties": { "name": "Rydalmere", "display_name": "Rydalmere, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.021, -33.806], [151.040, -33.806], [151.040, -33.820],
+          [151.021, -33.820], [151.021, -33.806]
+        ]]
+      }
+    },
+    "Parramatta": {
+      "type": "Feature",
+      "properties": { "name": "Parramatta", "display_name": "Parramatta, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [151.000, -33.813], [151.020, -33.813], [151.020, -33.828],
+          [151.000, -33.828], [151.000, -33.813]
+        ]]
+      }
+    },
+    "Kingswood": {
+      "type": "Feature",
+      "properties": { "name": "Kingswood", "display_name": "Kingswood, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.722, -33.745], [150.740, -33.745], [150.740, -33.760],
+          [150.722, -33.760], [150.722, -33.745]
+        ]]
+      }
+    },
+    "Werrington": {
+      "type": "Feature",
+      "properties": { "name": "Werrington", "display_name": "Werrington, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.731, -33.742], [150.752, -33.742], [150.752, -33.758],
+          [150.731, -33.758], [150.731, -33.742]
+        ]]
+      }
+    },
+    "Campbelltown": {
+      "type": "Feature",
+      "properties": { "name": "Campbelltown", "display_name": "Campbelltown, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [150.806, -34.062], [150.830, -34.062], [150.830, -34.078],
+          [150.806, -34.078], [150.806, -34.062]
+        ]]
+      }
+    }
+  }
+}

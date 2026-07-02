@@ -1,0 +1,150 @@
+{
+  "Murdoch University": {
+    "Murdoch": {
+      "type": "Feature",
+      "properties": { "name": "Murdoch", "display_name": "Murdoch, WA, Australia" },
+      "geometry": { "type": "Point", "coordinates": [115.8504737, -32.0664255] }
+    },
+    "Leeming": {
+      "type": "Feature",
+      "properties": { "name": "Leeming", "display_name": "Leeming, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.849053, -32.084721], [115.857693, -32.087895], [115.892108, -32.082241],
+          [115.888533, -32.066667], [115.8710398, -32.0656378], [115.849053, -32.084721]
+        ]]
+      }
+    },
+    "Kardinya": {
+      "type": "Feature",
+      "properties": { "name": "Kardinya", "display_name": "Kardinya, WA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.803268, -32.074721], [115.817427, -32.07698], [115.829263, -32.065863],
+          [115.823716, -32.056269], [115.803268, -32.074721]
+        ]]
+      }
+    }
+  },
+  "Queensland University of Technology": {
+    "Kelvin Grove": {
+      "type": "Feature",
+      "properties": { "name": "Kelvin Grove", "display_name": "Kelvin Grove, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [153.004335, -27.44501], [153.019851, -27.440418], [153.01423, -27.46],
+          [153.004335, -27.44501]
+        ]]
+      }
+    }
+  },
+  "RMIT University": {
+    "Carlton": {
+      "type": "Feature",
+      "properties": { "name": "Carlton", "display_name": "Carlton, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.958471, -37.801929], [144.9732006, -37.80791], [144.975716, -37.793047],
+          [144.958471, -37.801929]
+        ]]
+      }
+    }
+  },
+  "Southern Cross University": {
+    "Goonellabah": {
+      "type": "Feature",
+      "properties": { "display_name": "Goonellabah, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[153.3, -28.8], [153.35, -28.8], [153.35, -28.83], [153.3, -28.83], [153.3, -28.8]]]
+      }
+    },
+    "Girards Hill": {
+      "type": "Feature",
+      "properties": { "display_name": "Girards Hill, NSW, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[153.27, -28.81], [153.29, -28.81], [153.29, -28.83], [153.27, -28.83], [153.27, -28.81]]]
+      }
+    }
+  },
+  "Swinburne University of Technology": {
+    "Hawthorn": {
+      "type": "Feature",
+      "properties": { "name": "Hawthorn", "display_name": "Hawthorn, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.020, -37.815], [145.060, -37.815], [145.060, -37.840],
+          [145.020, -37.840], [145.020, -37.815]
+        ]]
+      }
+    }
+  },
+  "Torrens University Australia": {
+    "Fortitude Valley": {
+      "type": "Feature",
+      "properties": { "display_name": "Fortitude Valley, QLD, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[153.02, -27.44], [153.05, -27.44], [153.05, -27.47], [153.02, -27.47], [153.02, -27.44]]]
+      }
+    }
+  },
+  "University of Adelaide": {
+    "North Adelaide": {
+      "type": "Feature",
+      "properties": { "name": "North Adelaide", "display_name": "North Adelaide, SA, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.585, -34.900], [138.610, -34.900], [138.610, -34.915],
+          [138.585, -34.915], [138.585, -34.900]
+        ]]
+      }
+    }
+  },
+  "University of Canberra": {
+    "Bruce": {
+      "type": "Feature",
+      "properties": { "name": "Bruce", "display_name": "Bruce, ACT, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [149.070, -35.230], [149.110, -35.230], [149.110, -35.260],
+          [149.070, -35.260], [149.070, -35.230]
+        ]]
+      }
+    }
+  },
+  "University of Divinity": {
+    "Kew": {
+      "type": "Feature",
+      "properties": { "name": "Kew", "display_name": "Kew, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [145.010, -37.790], [145.050, -37.790], [145.050, -37.820],
+          [145.010, -37.820], [145.010, -37.790]
+        ]]
+      }
+    }
+  },
+  "University of Melbourne": {
+    "Parkville": {
+      "type": "Feature",
+      "properties": { "name": "Parkville", "display_name": "Parkville, VIC, Australia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [144.936, -37.774], [144.965, -37.793], [144.963, -37.8],
+          [144.936, -37.774]
+        ]]
+      }
+    }
+  }
+}

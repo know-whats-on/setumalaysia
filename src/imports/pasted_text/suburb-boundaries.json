@@ -1,0 +1,769 @@
+{
+  "Acton": {
+    "type": "Feature",
+    "properties": {
+      "place_id": 19694809,
+      "osm_type": "relation",
+      "osm_id": 5344208,
+      "place_rank": 18,
+      "category": "boundary",
+      "type": "administrative",
+      "importance": 0.33736466916818214,
+      "addresstype": "suburb",
+      "name": "Acton",
+      "display_name": "Acton, Canberra, District of Canberra Central, Australian Capital Territory, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [149.0976289, -35.295095], [149.1012726, -35.2968846], [149.1114221, -35.2939073],
+          [149.1189317, -35.2965367], [149.1255074, -35.2927781], [149.1271391, -35.2914886],
+          [149.128037, -35.2859081], [149.1256258, -35.285746], [149.1231277, -35.2856615],
+          [149.1219978, -35.2856962], [149.1221319, -35.2835018], [149.1223041, -35.2828743],
+          [149.1219966, -35.2820035], [149.1215461, -35.281857], [149.1210094, -35.2814179],
+          [149.1207311, -35.28068], [149.1210536, -35.2798831], [149.1218656, -35.2789527],
+          [149.1224333, -35.2783199], [149.1247153, -35.2769358], [149.1240311, -35.2765248],
+          [149.1245313, -35.275948], [149.1249609, -35.2752402], [149.1212172, -35.2731547],
+          [149.1202849, -35.2729926], [149.1186069, -35.2727606], [149.1170381, -35.272161],
+          [149.1154285, -35.2710662], [149.1141988, -35.2702631], [149.1132106, -35.2689154],
+          [149.1126462, -35.268031], [149.1117829, -35.2666865], [149.1115793, -35.2656506],
+          [149.1115476, -35.2653685], [149.1106819, -35.2654632], [149.1102118, -35.2656407],
+          [149.1096053, -35.2658436], [149.1093699, -35.2666184], [149.1092789, -35.26833],
+          [149.1084266, -35.2702499], [149.1103896, -35.2744498], [149.1109396, -35.2792098],
+          [149.1099791, -35.2803296], [149.1084996, -35.2815898], [149.1071196, -35.2821697],
+          [149.1031497, -35.2829798], [149.1014476, -35.2838966], [149.0979331, -35.2853451],
+          [149.0976289, -35.295095]
+        ]
+      ]
+    }
+  },
+  "Braddon": {
+    "type": "Feature",
+    "properties": {
+      "name": "Braddon",
+      "display_name": "Braddon, North Canberra, District of Canberra Central, Australian Capital Territory, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [149.1296719, -35.2757722], [149.1309323, -35.2759026], [149.135585, -35.2793423],
+          [149.1437925, -35.2761474], [149.1365243, -35.2635896], [149.1361329, -35.262036],
+          [149.1363271, -35.2609684], [149.1344047, -35.2607698], [149.1321202, -35.2605265],
+          [149.131185, -35.2663563], [149.1296719, -35.2757722]
+        ]
+      ]
+    }
+  },
+  "O’Connor": {
+    "type": "Feature",
+    "properties": {
+      "name": "O'Connor",
+      "display_name": "O'Connor, Canberra, District of Canberra Central, Australian Capital Territory, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [149.0975789, -35.2602563], [149.0986891, -35.2603089], [149.1004969, -35.2602016],
+          [149.1025293, -35.2599108], [149.1041729, -35.259946], [149.108429, -35.2609393],
+          [149.1097143, -35.2615607], [149.1105349, -35.2625166], [149.1108703, -35.2644742],
+          [149.1106279, -35.2650225], [149.1102097, -35.2655497], [149.1102118, -35.2656407],
+          [149.1103819, -35.2655481], [149.1105039, -35.2654985], [149.1106012, -35.2654756],
+          [149.1107848, -35.2654492], [149.1111657, -35.2653821], [149.1115476, -35.2653685],
+          [149.1115852, -35.2655064], [149.1115788, -35.2658006], [149.1116037, -35.2661156],
+          [149.1117134, -35.2665165], [149.1126462, -35.268031], [149.1131391, -35.2687981],
+          [149.0975789, -35.2602563]
+        ]
+      ]
+    }
+  },
+  "Turner": {
+    "type": "Feature",
+    "properties": {
+      "name": "Turner",
+      "display_name": "Turner, Canberra, District of Canberra Central, Australian Capital Territory, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [149.1115476, -35.2653685], [149.1221968, -35.2735398], [149.1249609, -35.2752402],
+          [149.1296719, -35.2757722], [149.131185, -35.2663563], [149.1321202, -35.2605265],
+          [149.1115476, -35.2653685]
+        ]
+      ]
+    }
+  },
+  "Lyneham": {
+    "type": "Feature",
+    "properties": {
+      "name": "Lyneham",
+      "display_name": "Lyneham, Canberra, District of Canberra Central, Australian Capital Territory, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [149.1102097, -35.2655497], [149.1221968, -35.2735398], [149.131185, -35.2663563],
+          [149.1102097, -35.2655497]
+        ]
+      ]
+    }
+  },
+  "North Sydney": {
+    "type": "Feature",
+    "properties": {
+      "name": "North Sydney Council",
+      "display_name": "North Sydney Council, New South Wales, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [151.1875435, -33.8399037], [151.1876683, -33.8401059], [151.1879363, -33.8403998],
+          [151.1883494, -33.8406206], [151.1889364, -33.8408075], [151.1894212, -33.841047],
+          [151.1896503, -33.8409876], [151.1895439, -33.8405272], [151.1895725, -33.8400532],
+          [151.1894682, -33.8386635], [151.1895378, -33.8384019], [151.1901398, -33.8378294],
+          [151.1913786, -33.8379713], [151.1924383, -33.8379605], [151.194546, -33.841826],
+          [151.194209, -33.842438], [151.1934102, -33.8442127], [151.193255, -33.845401],
+          [151.192959, -33.847688], [151.193646, -33.847871], [151.19575, -33.847528],
+          [151.197162, -33.847326], [151.198284, -33.847072], [151.197518, -33.846305],
+          [151.195479, -33.845639], [151.195041, -33.844173], [151.196511, -33.843797],
+          [151.198159, -33.842931], [151.198051, -33.842257], [151.198637, -33.841162],
+          [151.199392, -33.841469], [151.199803, -33.841998], [151.200319, -33.842981],
+          [151.2008817, -33.8454669], [151.202253, -33.8463014], [151.2023829, -33.846778],
+          [151.2028681, -33.8476364], [151.2031841, -33.8481813], [151.1875435, -33.8399037]
+        ]
+      ]
+    }
+  },
+  "Strathfield": {
+    "type": "Feature",
+    "properties": {
+      "name": "Strathfield",
+      "display_name": "Strathfield, New South Wales, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [151.071, -33.875], [151.095, -33.875], [151.095, -33.895], 
+          [151.071, -33.895], [151.071, -33.875]
+        ]
+      ]
+    }
+  },
+  "Fitzroy": {
+    "type": "Feature",
+    "properties": {
+      "name": "Fitzroy",
+      "display_name": "Fitzroy, City of Yarra, Victoria, 3065, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [144.9732006, -37.80791], [144.9755071, -37.808163], [144.9825607, -37.8089071],
+          [144.985143, -37.793896], [144.97574, -37.792913], [144.9732006, -37.80791]
+        ]
+      ]
+    }
+  },
+  "Banyo": {
+    "type": "Feature",
+    "properties": {
+      "name": "Banyo",
+      "display_name": "Banyo, Queensland, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [153.065, -27.365], [153.095, -27.365], [153.095, -27.395], 
+          [153.065, -27.395], [153.065, -27.365]
+        ]
+      ]
+    }
+  },
+  "Ballarat": {
+    "type": "Feature",
+    "properties": {
+      "name": "Ballarat",
+      "display_name": "Ballarat, Victoria, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [143.815, -37.545], [143.885, -37.545], [143.885, -37.585], 
+          [143.815, -37.585], [143.815, -37.545]
+        ]
+      ]
+    }
+  },
+  "Robina": {
+    "type": "Feature",
+    "properties": {
+      "name": "Robina",
+      "display_name": "Robina, Gold Coast City, Queensland, 4226, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [153.361578, -28.066721], [153.363999, -28.072957], [153.368114, -28.0793],
+          [153.375188, -28.082556], [153.380515, -28.084004], [153.386966, -28.086997],
+          [153.3901341, -28.091064], [153.393181, -28.094112], [153.397407, -28.091698],
+          [153.404342, -28.087113], [153.402526, -28.079004], [153.405124, -28.078964],
+          [153.408246, -28.078133], [153.411229, -28.076235], [153.414125, -28.074574],
+          [153.415213, -28.075693], [153.4180513, -28.0759216], [153.41986, -28.073911],
+          [153.421447, -28.074159], [153.418757, -28.065609], [153.415121, -28.058639],
+          [153.411331, -28.0551], [153.407155, -28.048432], [153.403411, -28.050014],
+          [153.398106, -28.055558], [153.396036, -28.056498], [153.392868, -28.054405],
+          [153.389376, -28.055075], [153.386102, -28.055778], [153.384124, -28.058112],
+          [153.383494, -28.06037], [153.381265, -28.062328], [153.377859, -28.065561],
+          [153.36918, -28.06377], [153.363769, -28.067332], [153.361578, -28.066721]
+        ]
+      ]
+    }
+  },
+  "Varsity Lakes": {
+    "type": "Feature",
+    "properties": {
+      "name": "Varsity Lakes",
+      "display_name": "Varsity Lakes, Station Road, Varsity Lakes, Queensland, Australia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [153.3992325, -28.0971316]
+    }
+  },
+  "Mermaid Beach": {
+    "type": "Feature",
+    "properties": {
+      "name": "Mermaid Beach",
+      "display_name": "Mermaid Beach, Gold Coast City, Queensland, 4218, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [153.431242, -28.037691], [153.4322699, -28.0409404], [153.431678, -28.043253],
+          [153.432681, -28.045891], [153.433339, -28.047618], [153.436612, -28.057088],
+          [153.437275, -28.059795], [153.439318, -28.060372], [153.442571, -28.060838],
+          [153.442292, -28.059613], [153.441914, -28.058007], [153.441428, -28.055966],
+          [153.441048, -28.054505], [153.440858, -28.053679], [153.44047, -28.051922],
+          [153.439859, -28.049997], [153.439428, -28.048092], [153.439104, -28.04663],
+          [153.438844, -28.045305], [153.438247, -28.042871], [153.437633, -28.040356],
+          [153.437419, -28.038997], [153.436012, -28.036984], [153.435621, -28.035678],
+          [153.431242, -28.037691]
+        ]
+      ]
+    }
+  },
+  "Miami": {
+    "type": "Feature",
+    "properties": {
+      "name": "Miami",
+      "display_name": "Miami, Gold Coast City, Queensland, 4220, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [153.431635, -28.06456], [153.4323138, -28.0701171], [153.441278, -28.072413],
+          [153.442571, -28.060838], [153.431635, -28.06456]
+        ]
+      ]
+    }
+  },
+  "Adelaide City": {
+    "type": "Feature",
+    "properties": {
+      "name": "Adelaide",
+      "display_name": "Adelaide, South Australia, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [138.583, -34.915], [138.618, -34.915], [138.618, -34.943], 
+          [138.583, -34.943], [138.583, -34.915]
+        ]
+      ]
+    }
+  },
+  "North Adelaide": {
+    "type": "Feature",
+    "properties": {
+      "name": "North Adelaide",
+      "display_name": "North Adelaide, South Australia, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [138.585, -34.900], [138.610, -34.900], [138.610, -34.915], 
+          [138.585, -34.915], [138.585, -34.900]
+        ]
+      ]
+    }
+  },
+  "Kent Town": {
+    "type": "Feature",
+    "properties": {
+      "name": "Kent Town",
+      "display_name": "Kent Town, South Australia, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [138.618, -34.917], [138.630, -34.917], [138.630, -34.928], 
+          [138.618, -34.928], [138.618, -34.917]
+        ]
+      ]
+    }
+  },
+  "Brompton": {
+    "type": "Feature",
+    "properties": {
+      "name": "Brompton",
+      "display_name": "Brompton, South Australia, Australia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [138.570, -34.895], [138.585, -34.895], [138.585, -34.910], 
+          [138.570, -34.910], [138.570, -34.895]
+        ]
+      ]
+    }
+  },
+  "Alawa": {
+    "type": "Feature",
+    "properties": { "name": "Alawa", "display_name": "Alawa, NT, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [130.865, -12.375], [130.885, -12.375], [130.885, -12.395],
+        [130.865, -12.395], [130.865, -12.375]
+      ]]
+    }
+  },
+  "Brinkin": {
+    "type": "Feature",
+    "properties": { "name": "Brinkin", "display_name": "Brinkin, NT, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [130.855, -12.365], [130.875, -12.365], [130.875, -12.385],
+        [130.855, -12.385], [130.855, -12.365]
+      ]]
+    }
+  },
+  "Estella": {
+    "type": "Feature",
+    "properties": { "name": "Estella", "display_name": "Estella, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [147.35, -35.07], [147.38, -35.07], [147.38, -35.09],
+        [147.35, -35.09], [147.35, -35.07]
+      ]]
+    }
+  },
+  "Boorooma": {
+    "type": "Feature",
+    "properties": { "name": "Boorooma", "display_name": "Boorooma, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [147.35, -35.06], [147.38, -35.06], [147.38, -35.08],
+        [147.35, -35.08], [147.35, -35.06]
+      ]]
+    }
+  },
+  "Kooringal": {
+    "type": "Feature",
+    "properties": { "name": "Kooringal", "display_name": "Kooringal, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [147.38, -35.12], [147.42, -35.12], [147.42, -35.15],
+        [147.38, -35.15], [147.38, -35.12]
+      ]]
+    }
+  },
+  "Bentley": {
+    "type": "Feature",
+    "properties": { "name": "Bentley", "display_name": "Bentley, WA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [115.886783, -32.012457], [115.899048, -32.013509], [115.932786, -32.002455],
+        [115.917371, -31.999933], [115.902441, -32.003297], [115.888733, -31.991258],
+        [115.886783, -32.012457]
+      ]]
+    }
+  },
+  "Victoria Park": {
+    "type": "Feature",
+    "properties": { "name": "Victoria Park", "display_name": "Victoria Park, WA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [115.878763, -31.971053], [115.895678, -31.985619], [115.906559, -31.976189],
+        [115.886762, -31.967085], [115.878763, -31.971053]
+      ]]
+    }
+  },
+  "Burwood": {
+    "type": "Feature",
+    "properties": { "name": "Burwood", "display_name": "Burwood, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [145.090, -37.840], [145.130, -37.840], [145.130, -37.865], 
+        [145.090, -37.865], [145.090, -37.840]
+      ]]
+    }
+  },
+  "Box Hill": {
+    "type": "Feature",
+    "properties": { "name": "Box Hill", "display_name": "Box Hill, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [145.110, -37.810], [145.140, -37.810], [145.140, -37.830], 
+        [145.110, -37.830], [145.110, -37.810]
+      ]]
+    }
+  },
+  "Joondalup": {
+    "type": "Feature",
+    "properties": { "name": "Joondalup", "display_name": "Joondalup, WA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [115.750, -31.730], [115.800, -31.730], [115.800, -31.765], 
+        [115.750, -31.765], [115.750, -31.730]
+      ]]
+    }
+  },
+  "Mount Helen": {
+    "type": "Feature",
+    "properties": { "name": "Mount Helen", "display_name": "Mount Helen, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [143.870, -37.620], [143.910, -37.620], [143.910, -37.650], 
+        [143.870, -37.650], [143.870, -37.620]
+      ]]
+    }
+  },
+  "Bedford Park": {
+    "type": "Feature",
+    "properties": { "name": "Bedford Park", "display_name": "Bedford Park, SA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [138.560, -34.990], [138.590, -34.990], [138.590, -35.030], 
+        [138.560, -35.030], [138.560, -34.990]
+      ]]
+    }
+  },
+  "Southport": {
+    "type": "Feature",
+    "properties": { "name": "Southport", "display_name": "Southport, QLD, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [153.390, -27.950], [153.430, -27.950], [153.430, -27.990], 
+        [153.390, -27.990], [153.390, -27.950]
+      ]]
+    }
+  },
+  "Douglas": {
+    "type": "Feature",
+    "properties": { "name": "Douglas", "display_name": "Douglas, QLD, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [146.740, -19.310], [146.780, -19.310], [146.780, -19.345], 
+        [146.740, -19.345], [146.740, -19.310]
+      ]]
+    }
+  },
+  "Bundoora": {
+    "type": "Feature",
+    "properties": { "name": "Bundoora", "display_name": "Bundoora, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [145.030, -37.680], [145.080, -37.680], [145.080, -37.720], 
+        [145.030, -37.720], [145.030, -37.680]
+      ]]
+    }
+  },
+  "Marsfield": {
+    "type": "Feature",
+    "properties": { "name": "Marsfield", "display_name": "Marsfield, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [151.090, -33.770], [151.130, -33.770], [151.130, -33.795], 
+        [151.090, -33.795], [151.090, -33.770]
+      ]]
+    }
+  },
+  "Clayton": {
+    "type": "Feature",
+    "properties": { "name": "Clayton", "display_name": "Clayton, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [145.100, -37.900], [145.150, -37.900], [145.150, -37.935], 
+        [145.100, -37.935], [145.100, -37.900]
+      ]]
+    }
+  },
+  "Murdoch": {
+    "type": "Feature",
+    "properties": { "name": "Murdoch", "display_name": "Murdoch, WA, Australia" },
+    "geometry": { "type": "Point", "coordinates": [115.8504737, -32.0664255] }
+  },
+  "Leeming": {
+    "type": "Feature",
+    "properties": { "name": "Leeming", "display_name": "Leeming, WA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [115.849053, -32.084721], [115.857693, -32.087895], [115.892108, -32.082241],
+        [115.888533, -32.066667], [115.8710398, -32.0656378], [115.849053, -32.084721]
+      ]]
+    }
+  },
+  "Kardinya": {
+    "type": "Feature",
+    "properties": { "name": "Kardinya", "display_name": "Kardinya, WA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [115.803268, -32.074721], [115.817427, -32.07698], [115.829263, -32.065863],
+        [115.823716, -32.056269], [115.803268, -32.074721]
+      ]]
+    }
+  },
+  "Kelvin Grove": {
+    "type": "Feature",
+    "properties": { "name": "Kelvin Grove", "display_name": "Kelvin Grove, QLD, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [153.004335, -27.44501], [153.019851, -27.440418], [153.01423, -27.46],
+        [153.004335, -27.44501]
+      ]]
+    }
+  },
+  "Carlton": {
+    "type": "Feature",
+    "properties": { "name": "Carlton", "display_name": "Carlton, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [144.958471, -37.801929], [144.9732006, -37.80791], [144.975716, -37.793047],
+        [144.958471, -37.801929]
+      ]]
+    }
+  },
+  "Goonellabah": {
+    "type": "Feature",
+    "properties": { "display_name": "Goonellabah, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[153.3, -28.8], [153.35, -28.8], [153.35, -28.83], [153.3, -28.83], [153.3, -28.8]]]
+    }
+  },
+  "Girards Hill": {
+    "type": "Feature",
+    "properties": { "display_name": "Girards Hill, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[153.27, -28.81], [153.29, -28.81], [153.29, -28.83], [153.27, -28.83], [153.27, -28.81]]]
+    }
+  },
+  "Hawthorn": {
+    "type": "Feature",
+    "properties": { "name": "Hawthorn", "display_name": "Hawthorn, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [145.020, -37.815], [145.060, -37.815], [145.060, -37.840],
+        [145.020, -37.840], [145.020, -37.815]
+      ]]
+    }
+  },
+  "Fortitude Valley": {
+    "type": "Feature",
+    "properties": { "display_name": "Fortitude Valley, QLD, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[153.02, -27.44], [153.05, -27.44], [153.05, -27.47], [153.02, -27.47], [153.02, -27.44]]]
+    }
+  },
+  "Bruce": {
+    "type": "Feature",
+    "properties": { "name": "Bruce", "display_name": "Bruce, ACT, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [149.070, -35.230], [149.110, -35.230], [149.110, -35.260],
+        [149.070, -35.260], [149.070, -35.230]
+      ]]
+    }
+  },
+  "Kew": {
+    "type": "Feature",
+    "properties": { "name": "Kew", "display_name": "Kew, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [145.010, -37.790], [145.050, -37.790], [145.050, -37.820],
+        [145.010, -37.820], [145.010, -37.790]
+      ]]
+    }
+  },
+  "Parkville": {
+    "type": "Feature",
+    "properties": { "name": "Parkville", "display_name": "Parkville, VIC, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [144.936, -37.774], [144.965, -37.793], [144.963, -37.8],
+        [144.936, -37.774]
+      ]]
+    }
+  },
+  "Armidale CBD": {
+    "type": "Feature",
+    "properties": { "display_name": "Armidale, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[151.645, -30.495], [151.685, -30.495], [151.685, -30.525], [151.645, -30.525], [151.645, -30.495]]]
+    }
+  },
+  "Uralla": {
+    "type": "Feature",
+    "properties": { "name": "Uralla", "display_name": "Uralla, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [150.934, -30.398], [151.774, -30.073], [151.450, -30.897],
+        [150.934, -30.398]
+      ]]
+    }
+  },
+  "Kensington": {
+    "type": "Feature",
+    "properties": { "name": "Kensington", "display_name": "Kensington, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [151.211, -33.920], [151.236, -33.901], [151.230, -33.924],
+        [151.211, -33.920]
+      ]]
+    }
+  },
+  "Jesmond": {
+    "type": "Feature",
+    "properties": { "name": "Jesmond", "display_name": "Jesmond, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [151.690, -32.890], [151.710, -32.890], [151.710, -32.910],
+        [151.690, -32.910], [151.690, -32.890]
+      ]]
+    }
+  },
+  "Fremantle": {
+    "type": "Feature",
+    "properties": { "name": "Fremantle", "display_name": "Fremantle, WA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [115.740, -32.040], [115.770, -32.040], [115.770, -32.070],
+        [115.740, -32.070], [115.740, -32.040]
+      ]]
+    }
+  },
+  "St Lucia": {
+    "type": "Feature",
+    "properties": { "name": "St Lucia", "display_name": "St Lucia, QLD, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [152.990, -27.480], [153.020, -27.480], [153.020, -27.510],
+        [152.990, -27.510], [152.990, -27.480]
+      ]]
+    }
+  },
+  "Mawson Lakes": {
+    "type": "Feature",
+    "properties": { "name": "Mawson Lakes", "display_name": "Mawson Lakes, SA, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [138.590, -34.790], [138.630, -34.790], [138.630, -34.820],
+        [138.590, -34.820], [138.590, -34.790]
+      ]]
+    }
+  },
+  "Darling Heights": {
+    "type": "Feature",
+    "properties": { "name": "Darling Heights", "display_name": "Darling Heights, QLD, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [151.920, -27.590], [151.950, -27.590], [151.950, -27.620],
+        [151.920, -27.620], [151.920, -27.590]
+      ]]
+    }
+  },
+  "Darlington": {
+    "type": "Feature",
+    "properties": { "name": "Darlington", "display_name": "Darlington, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [151.185, -33.885], [151.198, -33.885], [151.198, -33.895],
+        [151.185, -33.895], [151.185, -33.885]
+      ]]
+    }
+  },
+  "Sandy Bay": {
+    "type": "Feature",
+    "properties": { "name": "Sandy Bay", "display_name": "Sandy Bay, TAS, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [147.310, -42.890], [147.350, -42.890], [147.350, -42.920],
+        [147.310, -42.920], [147.310, -42.890]
+      ]]
+    }
+  },
+  "Ultimo": {
+    "type": "Feature",
+    "properties": { "name": "Ultimo", "display_name": "Ultimo, NSW, Australia" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [151.190, -33.875], [151.205, -33.875], [151.205, -33.888],
+        [151.190, -33.888], [151.190, -33.875]
+      ]]
+    }
+  }
+}
