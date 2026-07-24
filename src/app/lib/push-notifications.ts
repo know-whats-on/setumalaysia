@@ -19,6 +19,7 @@ const KNOWN_INTERNAL_ROUTE_EXACT_PATHS = new Set([
   '/delete-account',
   '/execution',
   '/fuel',
+  '/games',
   '/household/expenses',
   '/legal',
   '/noticeboard',

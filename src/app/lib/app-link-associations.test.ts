@@ -54,6 +54,9 @@ describe('app-link association generation', () => {
         const androidAssetLinks = JSON.parse(readFileSync(path.join(outDir, '.well-known', 'assetlinks.json'), 'utf8'));
 
         expect(appleAssociation.applinks.details.map((entry: { appID: string }) => entry.appID)).toEqual(expectedAppIds);
+        expect(
+          appleAssociation.applinks.details.every((entry: { paths: string[] }) => entry.paths.includes('/games')),
+        ).toBe(true);
         expect(androidAssetLinks.map((entry: { target: { package_name: string } }) => entry.target.package_name)).toEqual(
           expectedPackages,
         );

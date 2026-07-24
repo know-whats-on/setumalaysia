@@ -189,6 +189,9 @@ describe('normalizeIncomingRoute', () => {
       '/plans/private-plan-1?source=push',
     );
     expect(normalizeIncomingRoute('https://ghar.knowwhatson.com/notifications')).toBe('/notifications');
+    expect(
+      normalizeIncomingRoute('https://malaysia.knowwhatson.com/games?game=paper-io-2'),
+    ).toBe('/games?game=paper-io-2');
     expect(normalizeIncomingRoute('/household/expenses')).toBe('/household/expenses');
     expect(normalizeIncomingRoute('legal/listing-1?section=legal')).toBe('/legal/listing-1?section=legal');
   });

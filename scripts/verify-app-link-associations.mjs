@@ -72,6 +72,10 @@ async function verifyAppleAssociation(relativePath) {
       paths.includes('/share/*'),
       `${relativePath} does not include /share/* for ${appId}`,
     );
+    assert(
+      paths.includes('/games'),
+      `${relativePath} does not include /games for ${appId}`,
+    );
   });
 }
 

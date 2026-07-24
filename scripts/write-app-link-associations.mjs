@@ -8,6 +8,7 @@ const commonPaths = [
   '/arrival',
   '/dashboard',
   '/delete-account',
+  '/games',
   '/legal',
   '/legal/*',
   '/notifications',
